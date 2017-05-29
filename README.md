@@ -14,3 +14,4 @@ macau.json
 * partial-8.json: Sai Van Lake, counter clockwise
 * partial-9.json: lake beside airport runway, counter clockwise
 * partial-10.json: Seac Pai Van reservoir, counter clockwise
+* partial-11.json: Zone A, clockwise
