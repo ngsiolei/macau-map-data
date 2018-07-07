@@ -1,6 +1,7 @@
-# Macau Outline in GeoJSON
+# Macau Outline
 
-macau.json
+* macau.json
+* macau.svg
 
 ## partials
 
