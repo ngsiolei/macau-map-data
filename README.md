@@ -3,7 +3,7 @@
 * macau.json
 * macau.svg
 
-## partials
+## Partials
 
 * partial-1.json: main, clockwise
 * partial-2.json: sea between bridge 1 & bridge 2, counter clockwise
@@ -16,3 +16,12 @@
 * partial-9.json: lake beside airport runway, counter clockwise
 * partial-10.json: Seac Pai Van reservoir, counter clockwise
 * partial-11.json: Zone A, clockwise
+
+## Others
+
+* [Parishes](./parishes)
+* [Stats Zones](./stats-zones)
+
+## References
+
+* Macao Online Map [https://webmap.gis.gov.mo](https://webmap.gis.gov.mo)
