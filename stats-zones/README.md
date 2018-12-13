@@ -22,4 +22,5 @@
 * praia-grande-penha.json: Praia Grande e Penha (南西灣及主教山區)
 * tamagnini-barbosa.json: Tamagnini Barbosa (台山區)
 * umac.json: Universidade de Macau (澳門大學)
+* universidade-pac-on.json: Universidade e Baía de Pac On (大學及北安灣區)
 * zape.json: Zona de Aterros do Porto Exterior (ZAPE) (新口岸區)
