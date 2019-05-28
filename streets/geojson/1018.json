@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535203,
+              22.189781
+            ],
+            [
+              113.534755,
+              22.18947
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大和街 / 大和斜巷",
+        "namePor": "Rua da Aleluia"
+      }
+    }
+  ]
+}

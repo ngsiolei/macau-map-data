@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54415,
+              22.188468
+            ],
+            [
+              113.549654,
+              22.190565
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "仙德麗街",
+        "namePor": "Rua Cidade de Sintra"
+      }
+    }
+  ]
+}

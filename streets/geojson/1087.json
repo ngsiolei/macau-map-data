@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543862,
+              22.202351
+            ],
+            [
+              113.543764,
+              22.202186
+            ],
+            [
+              113.544214,
+              22.201993
+            ],
+            [
+              113.544488,
+              22.201618
+            ],
+            [
+              113.545098,
+              22.201298
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "渡船巷",
+        "namePor": "Travessa da Barca"
+      }
+    }
+  ]
+}

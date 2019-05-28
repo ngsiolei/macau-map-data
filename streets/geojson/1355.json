@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539816,
+              22.197984
+            ],
+            [
+              113.53958,
+              22.197779
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "富運台",
+        "namePor": "Pátio Fu Van"
+      }
+    }
+  ]
+}

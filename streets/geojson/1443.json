@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545737,
+              22.205639
+            ],
+            [
+              113.545562,
+              22.204713
+            ],
+            [
+              113.545254,
+              22.204487
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蓮莖巷",
+        "namePor": "Travessa dos Lírios"
+      }
+    }
+  ]
+}

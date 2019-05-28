@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537805,
+              22.1992
+            ],
+            [
+              113.538335,
+              22.199225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "工匠圍 / 居安里",
+        "namePor": "Pátio do Socorro"
+      }
+    }
+  ]
+}

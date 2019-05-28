@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536317,
+              22.18978
+            ],
+            [
+              113.536558,
+              22.189339
+            ],
+            [
+              113.536709,
+              22.188861
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "和平斜巷 / 高樓下巷",
+        "namePor": "Calçada da Paz"
+      }
+    }
+  ]
+}

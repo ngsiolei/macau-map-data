@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535477,
+              22.189127
+            ],
+            [
+              113.535724,
+              22.188795
+            ],
+            [
+              113.53576,
+              22.188736
+            ],
+            [
+              113.535696,
+              22.187987
+            ],
+            [
+              113.535716,
+              22.187882
+            ],
+            [
+              113.535846,
+              22.187629
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "西坑街",
+        "namePor": "Rua da Penha"
+      }
+    }
+  ]
+}

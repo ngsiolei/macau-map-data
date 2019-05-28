@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.557137,
+              22.15411
+            ],
+            [
+              113.556778,
+              22.153931
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "日頭街",
+        "namePor": "Rua do Sol"
+      }
+    }
+  ]
+}

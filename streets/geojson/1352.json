@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536696,
+              22.192563
+            ],
+            [
+              113.536847,
+              22.192685
+            ],
+            [
+              113.536881,
+              22.192696
+            ],
+            [
+              113.537011,
+              22.192699
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "三層樓斜巷",
+        "namePor": "Calçada de Francisco António"
+      }
+    }
+  ]
+}

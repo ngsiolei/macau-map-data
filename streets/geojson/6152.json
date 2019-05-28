@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.566267,
+              22.163058
+            ],
+            [
+              113.566441,
+              22.163653
+            ],
+            [
+              113.567726,
+              22.163347
+            ],
+            [
+              113.56756,
+              22.162748
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "北安前地",
+        "namePor": "Largo de Pac On"
+      }
+    }
+  ]
+}

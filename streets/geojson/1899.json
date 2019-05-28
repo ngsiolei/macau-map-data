@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543277,
+              22.211408
+            ],
+            [
+              113.54407,
+              22.211315
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "青洲新街",
+        "namePor": "Rua Nova da Ilha Verde"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545384,
+              22.200239
+            ],
+            [
+              113.545599,
+              22.200451
+            ],
+            [
+              113.545813,
+              22.20064
+            ],
+            [
+              113.54609,
+              22.200865
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "僑樂巷",
+        "namePor": "Travessa do Ultramar"
+      }
+    }
+  ]
+}

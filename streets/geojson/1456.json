@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.5456,
+              22.197282
+            ],
+            [
+              113.546474,
+              22.196692
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "路義士若翰巴地士打街",
+        "namePor": "Rua de Luís João Baptista"
+      }
+    }
+  ]
+}

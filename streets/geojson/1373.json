@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545251,
+              22.208055
+            ],
+            [
+              113.540359,
+              22.206783
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "飛喇士街 / 筷子基南街",
+        "namePor": "Rua do General Ivens Ferraz"
+      }
+    }
+  ]
+}

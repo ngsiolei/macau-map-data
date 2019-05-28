@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.554795,
+              22.204841
+            ],
+            [
+              113.555297,
+              22.205377
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "慕拉士街",
+        "namePor": "Rua de Venceslau de Morais"
+      }
+    }
+  ]
+}

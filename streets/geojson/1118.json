@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538727,
+              22.199188
+            ],
+            [
+              113.538522,
+              22.199179
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "花王堂巷",
+        "namePor": "Travessa do Botelho"
+      }
+    }
+  ]
+}

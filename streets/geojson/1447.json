@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550708,
+              22.209951
+            ],
+            [
+              113.550892,
+              22.211213
+            ],
+            [
+              113.551458,
+              22.214974
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "長壽大馬路",
+        "namePor": "Avenida da Longevidade"
+      }
+    }
+  ]
+}

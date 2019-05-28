@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550044,
+              22.201462
+            ],
+            [
+              113.550376,
+              22.201814
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "雅廉訪里",
+        "namePor": "Beco do Ouvidor Arriaga"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.57197,
+              22.165539
+            ],
+            [
+              113.573026,
+              22.165287
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "北安碼頭二巷",
+        "namePor": "Travessa Dois do Cais de Pac On"
+      }
+    }
+  ]
+}

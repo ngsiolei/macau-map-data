@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551831,
+              22.117046
+            ],
+            [
+              113.551792,
+              22.116908
+            ],
+            [
+              113.55188,
+              22.116779
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "樽頸圍",
+        "namePor": "Beco do Funil"
+      }
+    }
+  ]
+}

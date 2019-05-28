@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539779,
+              22.196763
+            ],
+            [
+              113.539967,
+              22.196889
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "俊秀巷",
+        "namePor": "Travessa de Chôn Sau"
+      }
+    }
+  ]
+}

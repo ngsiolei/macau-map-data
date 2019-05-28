@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546121,
+              22.195654
+            ],
+            [
+              113.546531,
+              22.195456
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "兔巷",
+        "namePor": "Travessa da Lebre"
+      }
+    }
+  ]
+}

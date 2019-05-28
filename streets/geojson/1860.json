@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545287,
+              22.191096
+            ],
+            [
+              113.546091,
+              22.189725
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "佛山街",
+        "namePor": "Rua de Foshan"
+      }
+    }
+  ]
+}

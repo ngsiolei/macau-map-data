@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545139,
+              22.204589
+            ],
+            [
+              113.544426,
+              22.203346
+            ],
+            [
+              113.544426,
+              22.203345
+            ],
+            [
+              113.543862,
+              22.202351
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "義字街",
+        "namePor": "Rua da Emenda"
+      }
+    }
+  ]
+}

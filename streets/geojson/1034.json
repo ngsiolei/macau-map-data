@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.533496,
+              22.191555
+            ],
+            [
+              113.533955,
+              22.191282
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "河邊新巷",
+        "namePor": "Travessa do Almirante Sérgio"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535708,
+              22.190594
+            ],
+            [
+              113.535485,
+              22.190506
+            ],
+            [
+              113.535316,
+              22.190474
+            ],
+            [
+              113.535108,
+              22.190445
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "水手斜巷",
+        "namePor": "Calçada de Eugénio Gonçalves"
+      }
+    }
+  ]
+}

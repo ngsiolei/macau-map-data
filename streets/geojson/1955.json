@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536357,
+              22.209715
+            ],
+            [
+              113.536783,
+              22.210433
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "牡丹巷",
+        "namePor": "Travessa da Peónia"
+      }
+    }
+  ]
+}

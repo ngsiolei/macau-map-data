@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542755,
+              22.194082
+            ],
+            [
+              113.542701,
+              22.194004
+            ]
+          ],
+          [
+            [
+              113.542755,
+              22.194082
+            ],
+            [
+              113.542802,
+              22.194035
+            ]
+          ],
+          [
+            [
+              113.542686,
+              22.194151
+            ],
+            [
+              113.542755,
+              22.194082
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "天神里 / 打鐵圍",
+        "namePor": "Beco dos Anjos"
+      }
+    }
+  ]
+}

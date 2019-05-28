@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547819,
+              22.189067
+            ],
+            [
+              113.549951,
+              22.189884
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "聖德倫街",
+        "namePor": "Rua Cidade de Santarém"
+      }
+    }
+  ]
+}

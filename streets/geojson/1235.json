@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542362,
+              22.20111
+            ],
+            [
+              113.542923,
+              22.199991
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "噶地利亞街",
+        "namePor": "Rua de Corte Real"
+      }
+    }
+  ]
+}

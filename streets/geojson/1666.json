@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540818,
+              22.199962
+            ],
+            [
+              113.540651,
+              22.199895
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "瑰花里",
+        "namePor": "Beco da Roseira"
+      }
+    }
+  ]
+}

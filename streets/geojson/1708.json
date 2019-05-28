@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540963,
+              22.199755
+            ],
+            [
+              113.540866,
+              22.199713
+            ],
+            [
+              113.540739,
+              22.199678
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鞋里 / 儒履圍",
+        "namePor": "Beco do Sapato"
+      }
+    }
+  ]
+}

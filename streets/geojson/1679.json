@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543869,
+              22.196467
+            ],
+            [
+              113.543947,
+              22.197002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "瘋堂圍",
+        "namePor": "Pátio de S. Lázaro"
+      }
+    }
+  ]
+}

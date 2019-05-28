@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539133,
+              22.196088
+            ],
+            [
+              113.5393,
+              22.19601
+            ],
+            [
+              113.539389,
+              22.195959
+            ],
+            [
+              113.539372,
+              22.195931
+            ],
+            [
+              113.539466,
+              22.195883
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "陳家里 / 陳家圍",
+        "namePor": "Beco do Chá"
+      }
+    }
+  ]
+}

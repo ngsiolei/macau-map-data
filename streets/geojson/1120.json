@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544905,
+              22.196368
+            ],
+            [
+              113.545609,
+              22.195891
+            ],
+            [
+              113.54645,
+              22.195321
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "巴冷登街",
+        "namePor": "Rua do Brandão"
+      }
+    }
+  ]
+}

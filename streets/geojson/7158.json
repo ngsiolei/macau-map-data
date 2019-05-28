@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.561029,
+              22.131475
+            ],
+            [
+              113.56103,
+              22.131156
+            ],
+            [
+              113.56103,
+              22.130905
+            ],
+            [
+              113.561031,
+              22.128942
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "樂居大馬路",
+        "namePor": "Avenida de Lok Koi"
+      }
+    }
+  ]
+}

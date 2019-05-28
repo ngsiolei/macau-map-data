@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536084,
+              22.213061
+            ],
+            [
+              113.536582,
+              22.212093
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "山茶街",
+        "namePor": "Rua das Camélias"
+      }
+    }
+  ]
+}

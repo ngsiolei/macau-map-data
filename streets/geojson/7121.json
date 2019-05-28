@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.553234,
+              22.127625
+            ],
+            [
+              113.554676,
+              22.127624
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "芒果街",
+        "namePor": "Rua das Mangueiras"
+      }
+    }
+  ]
+}

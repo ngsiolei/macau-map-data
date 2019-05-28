@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538294,
+              22.198858
+            ],
+            [
+              113.53844,
+              22.198428
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "沙欄仔里 / 沙欄仔橫街",
+        "namePor": "Beco do Tarrafeiro"
+      }
+    }
+  ]
+}

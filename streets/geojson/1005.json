@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53938,
+              22.195239
+            ],
+            [
+              113.539267,
+              22.195088
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "吉慶二圍",
+        "namePor": "Pátio do Adem"
+      }
+    }
+  ]
+}

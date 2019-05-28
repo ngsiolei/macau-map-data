@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.548365,
+              22.211227
+            ],
+            [
+              113.546885,
+              22.211331
+            ],
+            [
+              113.546657,
+              22.211347
+            ],
+            [
+              113.546625,
+              22.211349
+            ],
+            [
+              113.545688,
+              22.211416
+            ],
+            [
+              113.544207,
+              22.211489
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "台山中街",
+        "namePor": "Rua Central de T'oi Sán"
+      }
+    }
+  ]
+}

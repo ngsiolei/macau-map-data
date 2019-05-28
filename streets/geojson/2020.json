@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.557149,
+              22.208619
+            ],
+            [
+              113.557935,
+              22.207972
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "東北巷",
+        "namePor": "Travessa do Nordeste"
+      }
+    }
+  ]
+}

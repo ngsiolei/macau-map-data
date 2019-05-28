@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.55006,
+              22.208622
+            ],
+            [
+              113.550596,
+              22.209988
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "黑沙環第四街",
+        "namePor": "Rua Quatro do Bairro da Areia Preta"
+      }
+    }
+  ]
+}

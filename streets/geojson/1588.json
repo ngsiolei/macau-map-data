@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.532126,
+              22.185066
+            ],
+            [
+              113.53194,
+              22.185009
+            ],
+            [
+              113.531871,
+              22.18501
+            ],
+            [
+              113.531834,
+              22.185031
+            ],
+            [
+              113.531796,
+              22.185146
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "石里 / 石字巷",
+        "namePor": "Beco da Pedra"
+      }
+    }
+  ]
+}

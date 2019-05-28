@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538795,
+              22.193651
+            ],
+            [
+              113.539004,
+              22.193614
+            ],
+            [
+              113.539034,
+              22.193449
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "天通里 / 天通圍",
+        "namePor": "Beco da Cadeia"
+      }
+    }
+  ]
+}

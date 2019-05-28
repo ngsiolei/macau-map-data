@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.557897,
+              22.153431
+            ],
+            [
+              113.557683,
+              22.153753
+            ],
+            [
+              113.557473,
+              22.15407
+            ],
+            [
+              113.557322,
+              22.15432
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "律政司街",
+        "namePor": "Rua do Delegado"
+      }
+    }
+  ]
+}

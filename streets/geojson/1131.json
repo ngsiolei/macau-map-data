@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545106,
+              22.193923
+            ],
+            [
+              113.545851,
+              22.194988
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "白灰街",
+        "namePor": "Rua da Cal"
+      }
+    }
+  ]
+}

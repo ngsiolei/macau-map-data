@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538,
+              22.200923
+            ],
+            [
+              113.537988,
+              22.201135
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "祿號里 / 祿號圍",
+        "namePor": "Beco da Carapinha"
+      }
+    }
+  ]
+}

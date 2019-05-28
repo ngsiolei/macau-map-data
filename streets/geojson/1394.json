@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538218,
+              22.19445
+            ],
+            [
+              113.538503,
+              22.194573
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "何老桂巷",
+        "namePor": "Travessa de Hó Lo Quai"
+      }
+    }
+  ]
+}

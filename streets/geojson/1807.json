@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541617,
+              22.194909
+            ],
+            [
+              113.54204,
+              22.194822
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "哪咤廟巷",
+        "namePor": "Travessa das Verdades"
+      }
+    }
+  ]
+}

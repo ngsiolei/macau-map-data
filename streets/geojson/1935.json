@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550911,
+              22.189474
+            ],
+            [
+              113.553476,
+              22.190447
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "布魯塞爾街",
+        "namePor": "Rua de Bruxelas"
+      }
+    }
+  ]
+}

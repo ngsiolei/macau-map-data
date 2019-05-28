@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54878,
+              22.213653
+            ],
+            [
+              113.547684,
+              22.213816
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "華大新村第一街",
+        "namePor": "Rua Um do Bairro Vá Tai"
+      }
+    }
+  ]
+}

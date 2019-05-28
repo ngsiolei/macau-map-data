@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551871,
+              22.117472
+            ],
+            [
+              113.551697,
+              22.11749
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "肥胖圍",
+        "namePor": "Pátio do Gordo"
+      }
+    }
+  ]
+}

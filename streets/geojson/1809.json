@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542563,
+              22.196164
+            ],
+            [
+              113.542348,
+              22.196163
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "哪咤圍",
+        "namePor": "Pátio das Verdades"
+      }
+    }
+  ]
+}

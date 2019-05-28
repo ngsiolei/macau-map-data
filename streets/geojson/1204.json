@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541792,
+              22.192522
+            ],
+            [
+              113.542082,
+              22.192247
+            ],
+            [
+              113.542223,
+              22.192114
+            ],
+            [
+              113.542628,
+              22.191732
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "馬統領街",
+        "namePor": "Rua do Comandante Mata e Oliveira"
+      }
+    }
+  ]
+}

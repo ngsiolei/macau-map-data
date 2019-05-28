@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540412,
+              22.195774
+            ],
+            [
+              113.540339,
+              22.195591
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鹽埠里 / 鹽埠圍 / 椰子巷",
+        "namePor": "Beco do Cego"
+      }
+    }
+  ]
+}

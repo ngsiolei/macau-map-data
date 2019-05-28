@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.552047,
+              22.117045
+            ],
+            [
+              113.552131,
+              22.116846
+            ],
+            [
+              113.552258,
+              22.116658
+            ],
+            [
+              113.552244,
+              22.116644
+            ],
+            [
+              113.552478,
+              22.116357
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "入便街",
+        "namePor": "Rua do Interior"
+      }
+    }
+  ]
+}

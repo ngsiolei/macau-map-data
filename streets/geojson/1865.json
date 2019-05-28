@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549302,
+              22.207692
+            ],
+            [
+              113.549455,
+              22.20724
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蓮峰巷",
+        "namePor": "Travessa do Templo Lin-Fong"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.558247,
+              22.158993
+            ],
+            [
+              113.558636,
+              22.159302
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大埔街",
+        "namePor": "Rua de Tai Pou"
+      }
+    }
+  ]
+}

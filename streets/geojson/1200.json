@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.5383,
+              22.199713
+            ],
+            [
+              113.538328,
+              22.199306
+            ],
+            [
+              113.538369,
+              22.198859
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "工匠街",
+        "namePor": "Rua dos Colonos"
+      }
+    }
+  ]
+}

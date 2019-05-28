@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.557916,
+              22.161327
+            ],
+            [
+              113.558249,
+              22.161756
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "卓家村路",
+        "namePor": "Caminho da Povoação de Cheok Ka"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535708,
+              22.190594
+            ],
+            [
+              113.535705,
+              22.190573
+            ],
+            [
+              113.535893,
+              22.190156
+            ],
+            [
+              113.535869,
+              22.190134
+            ],
+            [
+              113.535931,
+              22.189963
+            ],
+            [
+              113.535861,
+              22.189929
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "水手西街",
+        "namePor": "Rua do Bazarinho"
+      }
+    }
+  ]
+}

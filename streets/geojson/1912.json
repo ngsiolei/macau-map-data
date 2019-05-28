@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.552013,
+              22.18696
+            ],
+            [
+              113.549232,
+              22.193303
+            ]
+          ],
+          [
+            [
+              113.551346,
+              22.186686
+            ],
+            [
+              113.548609,
+              22.19296
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "宋玉生廣場",
+        "namePor": "Alameda Dr. Carlos D'Assumpção"
+      }
+    }
+  ]
+}

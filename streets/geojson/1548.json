@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543318,
+              22.19474
+            ],
+            [
+              113.543465,
+              22.194487
+            ],
+            [
+              113.543466,
+              22.194454
+            ],
+            [
+              113.543656,
+              22.194136
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "素鴉利神父巷 / 竹園圍斜巷",
+        "namePor": "Travessa do Padre Soares"
+      }
+    }
+  ]
+}

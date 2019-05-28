@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.548539,
+              22.187441
+            ],
+            [
+              113.545759,
+              22.186403
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "城市日前地",
+        "namePor": "Praceta 24 de Junho"
+      }
+    }
+  ]
+}

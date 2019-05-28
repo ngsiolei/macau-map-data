@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.532605,
+              22.190431
+            ],
+            [
+              113.533195,
+              22.190085
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "貨倉巷",
+        "namePor": "Travessa dos Armazéns"
+      }
+    }
+  ]
+}

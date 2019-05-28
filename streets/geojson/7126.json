@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.558977,
+              22.131339
+            ],
+            [
+              113.558468,
+              22.130944
+            ],
+            [
+              113.555028,
+              22.130143
+            ],
+            [
+              113.552103,
+              22.129462
+            ],
+            [
+              113.551697,
+              22.129012
+            ],
+            [
+              113.551696,
+              22.128296
+            ],
+            [
+              113.551694,
+              22.124102
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "聯生海濱路",
+        "namePor": "Rua Marginal da Concórdia"
+      }
+    }
+  ]
+}

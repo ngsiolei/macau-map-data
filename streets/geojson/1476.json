@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544159,
+              22.201053
+            ],
+            [
+              113.544487,
+              22.201618
+            ],
+            [
+              113.544785,
+              22.202403
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "墨山巷",
+        "namePor": "Travessa de Martinho Montenegro"
+      }
+    }
+  ]
+}

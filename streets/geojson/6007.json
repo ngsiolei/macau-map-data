@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.553004,
+              22.156403
+            ],
+            [
+              113.552357,
+              22.156681
+            ],
+            [
+              113.551444,
+              22.157075
+            ],
+            [
+              113.550546,
+              22.157199
+            ],
+            [
+              113.544961,
+              22.157175
+            ],
+            [
+              113.544364,
+              22.157083
+            ],
+            [
+              113.543496,
+              22.156723
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "柯維納馬路",
+        "namePor": "Estrada Governador Albano de Oliveira"
+      }
+    }
+  ]
+}

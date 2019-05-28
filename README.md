@@ -21,6 +21,7 @@
 
 * [Parishes](./parishes)
 * [Stats Zones](./stats-zones)
+* [Streets](./streets)
 
 ## References
 

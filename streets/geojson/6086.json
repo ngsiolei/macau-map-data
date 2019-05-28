@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.558896,
+              22.154369
+            ],
+            [
+              113.559025,
+              22.154265
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "胡琴巷",
+        "namePor": "Travessa da Rebeca"
+      }
+    }
+  ]
+}

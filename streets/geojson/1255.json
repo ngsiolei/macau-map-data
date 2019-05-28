@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541417,
+              22.190638
+            ],
+            [
+              113.543583,
+              22.192595
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "約翰四世大馬路",
+        "namePor": "Avenida de D. João IV"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541443,
+              22.200557
+            ],
+            [
+              113.54152,
+              22.200316
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "硯圍",
+        "namePor": "Pátio do Tinteiro"
+      }
+    }
+  ]
+}

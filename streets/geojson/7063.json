@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551132,
+              22.118223
+            ],
+            [
+              113.551393,
+              22.118407
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "玫瑰巷",
+        "namePor": "Beco da Rosa"
+      }
+    }
+  ]
+}

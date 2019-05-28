@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544704,
+              22.19912
+            ],
+            [
+              113.545155,
+              22.199108
+            ],
+            [
+              113.546116,
+              22.199058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "賈伯樂提督里",
+        "namePor": "Beco do Almirante Costa Cabral"
+      }
+    }
+  ]
+}

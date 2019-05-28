@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536903,
+              22.198765
+            ],
+            [
+              113.538033,
+              22.198843
+            ],
+            [
+              113.538534,
+              22.198872
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "沙欄仔街",
+        "namePor": "Rua do Tarrafeiro"
+      }
+    }
+  ]
+}

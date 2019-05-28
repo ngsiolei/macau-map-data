@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543229,
+              22.160464
+            ],
+            [
+              113.542851,
+              22.161315
+            ],
+            [
+              113.54307,
+              22.161689
+            ],
+            [
+              113.544017,
+              22.16191
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "花園街",
+        "namePor": "Rua do Jardim"
+      }
+    }
+  ]
+}

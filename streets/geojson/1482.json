@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535863,
+              22.189907
+            ],
+            [
+              113.535296,
+              22.189644
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "太和巷",
+        "namePor": "Travessa do Mata-Tigre"
+      }
+    }
+  ]
+}

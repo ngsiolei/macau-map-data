@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540055,
+              22.194799
+            ],
+            [
+              113.538922,
+              22.193853
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "公局新市西街",
+        "namePor": "Rua Oeste do Mercado de S. Domingos"
+      }
+    }
+  ]
+}

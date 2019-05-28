@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536721,
+              22.192535
+            ],
+            [
+              113.536822,
+              22.192402
+            ],
+            [
+              113.53696,
+              22.192679
+            ],
+            [
+              113.53685,
+              22.192665
+            ],
+            [
+              113.536718,
+              22.192535
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "亞堅奴前地",
+        "namePor": "Largo do Aquino"
+      }
+    }
+  ]
+}

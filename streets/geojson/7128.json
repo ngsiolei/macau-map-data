@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.554677,
+              22.129012
+            ],
+            [
+              113.554675,
+              22.126045
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "紅𣒍路",
+        "namePor": "Rua das Schimas"
+      }
+    }
+  ]
+}

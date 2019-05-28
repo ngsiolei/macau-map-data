@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551741,
+              22.117723
+            ],
+            [
+              113.551723,
+              22.117519
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "裝罅圍",
+        "namePor": "Pátio da Greta"
+      }
+    }
+  ]
+}

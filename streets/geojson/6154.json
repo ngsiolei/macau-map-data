@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.571001,
+              22.160457
+            ],
+            [
+              113.571389,
+              22.161829
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "順發街",
+        "namePor": "Rua da Fortuna"
+      }
+    }
+  ]
+}

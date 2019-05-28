@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546677,
+              22.212147
+            ],
+            [
+              113.546626,
+              22.211365
+            ],
+            [
+              113.546657,
+              22.211353
+            ],
+            [
+              113.546601,
+              22.210364
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "花地瑪教會街",
+        "namePor": "Rua da Missão de Fátima"
+      }
+    }
+  ]
+}

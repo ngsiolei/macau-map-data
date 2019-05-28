@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541728,
+              22.189406
+            ],
+            [
+              113.542053,
+              22.189703
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "南灣南巷",
+        "namePor": "Travessa Sul da Praia Grande"
+      }
+    }
+  ]
+}

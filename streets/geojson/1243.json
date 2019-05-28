@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539088,
+              22.193437
+            ],
+            [
+              113.538687,
+              22.193538
+            ],
+            [
+              113.538546,
+              22.193564
+            ],
+            [
+              113.538356,
+              22.193565
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "天通街",
+        "namePor": "Rua dos Cules"
+      }
+    }
+  ]
+}

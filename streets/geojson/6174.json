@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54307,
+              22.161689
+            ],
+            [
+              113.542883,
+              22.162316
+            ],
+            [
+              113.542876,
+              22.162335
+            ],
+            [
+              113.542862,
+              22.162346
+            ],
+            [
+              113.542613,
+              22.162455
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "海洋花園第三街",
+        "namePor": "Rua Três dos Jardins do Oceano"
+      }
+    }
+  ]
+}

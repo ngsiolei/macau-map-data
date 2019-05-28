@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544754,
+              22.195578
+            ],
+            [
+              113.546121,
+              22.194841
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "崗陵街 / 荒字巷",
+        "namePor": "Rua da Colina"
+      }
+    }
+  ]
+}

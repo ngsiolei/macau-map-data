@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544473,
+              22.195811
+            ],
+            [
+              113.54523,
+              22.196789
+            ],
+            [
+              113.545769,
+              22.197508
+            ],
+            [
+              113.54607,
+              22.197907
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "和隆街",
+        "namePor": "Rua do Volong"
+      }
+    }
+  ]
+}

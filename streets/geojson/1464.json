@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.552051,
+              22.195867
+            ],
+            [
+              113.552296,
+              22.195711
+            ],
+            [
+              113.552789,
+              22.195397
+            ],
+            [
+              113.554295,
+              22.194438
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "畢仕達大馬路",
+        "namePor": "Avenida de Marciano Baptista"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540692,
+              22.197377
+            ],
+            [
+              113.540296,
+              22.197035
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "戀愛巷",
+        "namePor": "Travessa da Paixão"
+      }
+    }
+  ]
+}

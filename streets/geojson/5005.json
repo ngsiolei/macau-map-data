@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542117,
+              22.134669
+            ],
+            [
+              113.547041,
+              22.134696
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "凱旋大馬路",
+        "namePor": "Avenida da Vitória"
+      }
+    }
+  ]
+}

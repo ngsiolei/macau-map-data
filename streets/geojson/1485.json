@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539355,
+              22.194976
+            ],
+            [
+              113.539467,
+              22.194886
+            ],
+            [
+              113.539608,
+              22.194751
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "門官圍",
+        "namePor": "Pátio do Mercado"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540258,
+              22.201988
+            ],
+            [
+              113.540393,
+              22.202023
+            ],
+            [
+              113.540431,
+              22.201895
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "銀針里",
+        "namePor": "Beco da Agulha"
+      }
+    }
+  ]
+}

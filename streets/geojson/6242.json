@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.569162,
+              22.147751
+            ],
+            [
+              113.563772,
+              22.147932
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "順榮大馬路",
+        "namePor": "Avenida da Prosperidade"
+      }
+    }
+  ]
+}

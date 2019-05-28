@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53158,
+              22.185091
+            ],
+            [
+              113.531804,
+              22.185146
+            ],
+            [
+              113.532071,
+              22.185198
+            ],
+            [
+              113.53215,
+              22.185008
+            ],
+            [
+              113.532145,
+              22.184843
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "煙草里 / 煙字巷",
+        "namePor": "Beco do Tabaco"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541932,
+              22.195851
+            ],
+            [
+              113.542066,
+              22.195817
+            ],
+            [
+              113.542058,
+              22.195735
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "咸蝦里 / 咸蝦圍",
+        "namePor": "Beco do Balachão"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.559301,
+              22.211025
+            ],
+            [
+              113.556849,
+              22.208448
+            ],
+            [
+              113.556066,
+              22.207667
+            ],
+            [
+              113.553946,
+              22.205476
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "東北大馬路",
+        "namePor": "Avenida do Nordeste"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53761,
+              22.182904
+            ],
+            [
+              113.538834,
+              22.182913
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "湖畔西街",
+        "namePor": "Rua Oeste de Entre Lagos"
+      }
+    }
+  ]
+}

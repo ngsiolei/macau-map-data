@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540498,
+              22.195144
+            ],
+            [
+              113.540718,
+              22.195213
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "乾草圍 / 賣草地里",
+        "namePor": "Pátio da Palha"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536559,
+              22.194597
+            ],
+            [
+              113.537407,
+              22.194959
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "清平巷 / 清平新街 / 清平直街",
+        "namePor": "Travessa do Auto Novo"
+      }
+    }
+  ]
+}

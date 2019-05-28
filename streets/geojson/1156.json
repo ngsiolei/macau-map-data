@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535893,
+              22.190156
+            ],
+            [
+              113.536049,
+              22.190203
+            ],
+            [
+              113.536213,
+              22.190262
+            ],
+            [
+              113.536548,
+              22.190424
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "下環正街",
+        "namePor": "Rua da Casa Forte"
+      }
+    }
+  ]
+}

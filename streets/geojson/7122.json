@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551696,
+              22.126877
+            ],
+            [
+              113.553521,
+              22.126876
+            ],
+            [
+              113.554676,
+              22.126875
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "桉樹街",
+        "namePor": "Rua dos Eucaliptos"
+      }
+    }
+  ]
+}

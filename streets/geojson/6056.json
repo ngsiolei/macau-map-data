@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.557263,
+              22.153126
+            ],
+            [
+              113.557698,
+              22.153332
+            ],
+            [
+              113.557897,
+              22.153431
+            ],
+            [
+              113.558057,
+              22.15352
+            ],
+            [
+              113.559083,
+              22.154558
+            ],
+            [
+              113.559154,
+              22.154783
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "施督憲正街",
+        "namePor": "Rua Direita Carlos Eugénio"
+      }
+    }
+  ]
+}

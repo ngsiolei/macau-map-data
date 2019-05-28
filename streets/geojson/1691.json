@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544456,
+              22.200851
+            ],
+            [
+              113.547986,
+              22.19852
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "沙嘉都喇賈罷麗街",
+        "namePor": "Rua de Sacadura Cabral"
+      }
+    }
+  ]
+}

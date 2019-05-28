@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538194,
+              22.200577
+            ],
+            [
+              113.537862,
+              22.200516
+            ],
+            [
+              113.537374,
+              22.200467
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "掙匠巷",
+        "namePor": "Travessa dos Calafates"
+      }
+    }
+  ]
+}

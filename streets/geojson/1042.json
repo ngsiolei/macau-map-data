@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53993,
+              22.196549
+            ],
+            [
+              113.540245,
+              22.196711
+            ],
+            [
+              113.54029,
+              22.196729
+            ],
+            [
+              113.540354,
+              22.196732
+            ],
+            [
+              113.540442,
+              22.196696
+            ],
+            [
+              113.540507,
+              22.196732
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大關斜巷",
+        "namePor": "Calçada do Amparo"
+      }
+    }
+  ]
+}

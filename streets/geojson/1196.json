@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54828,
+              22.204874
+            ],
+            [
+              113.548151,
+              22.20497
+            ],
+            [
+              113.54808,
+              22.205023
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "扣鈕巷",
+        "namePor": "Travessa do Colchete"
+      }
+    }
+  ]
+}

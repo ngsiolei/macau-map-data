@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540206,
+              22.193868
+            ],
+            [
+              113.540657,
+              22.193579
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "仁慈堂右巷",
+        "namePor": "Travessa da Misericórdia"
+      }
+    }
+  ]
+}

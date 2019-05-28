@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538541,
+              22.200677
+            ],
+            [
+              113.538579,
+              22.200581
+            ],
+            [
+              113.538625,
+              22.200599
+            ],
+            [
+              113.538643,
+              22.200544
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "黎地里",
+        "namePor": "Beco do Leite"
+      }
+    }
+  ]
+}

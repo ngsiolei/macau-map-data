@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542864,
+              22.200591
+            ],
+            [
+              113.542198,
+              22.202402
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "𠜎雞街",
+        "namePor": "Rua do Capão"
+      }
+    }
+  ]
+}

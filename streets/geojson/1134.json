@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.5382,
+              22.202563
+            ],
+            [
+              113.538623,
+              22.201847
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "家冷巷",
+        "namePor": "Travessa do Calão"
+      }
+    }
+  ]
+}

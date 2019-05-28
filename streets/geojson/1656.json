@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541383,
+              22.195654
+            ],
+            [
+              113.54169,
+              22.19589
+            ],
+            [
+              113.541815,
+              22.195932
+            ],
+            [
+              113.542027,
+              22.195944
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "史山斜巷",
+        "namePor": "Calçada da Rocha"
+      }
+    }
+  ]
+}

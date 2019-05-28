@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.556929,
+              22.160383
+            ],
+            [
+              113.55613,
+              22.159726
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "韶關街",
+        "namePor": "Rua Siu Kuan"
+      }
+    }
+  ]
+}

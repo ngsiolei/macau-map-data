@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550676,
+              22.214259
+            ],
+            [
+              113.550404,
+              22.212515
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "永安街",
+        "namePor": "Rua da Paz"
+      }
+    }
+  ]
+}

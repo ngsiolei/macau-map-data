@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54589,
+              22.199295
+            ],
+            [
+              113.546749,
+              22.200165
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "羅德禮將軍街",
+        "namePor": "Rua do General Rodrigues"
+      }
+    }
+  ]
+}

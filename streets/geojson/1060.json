@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54294,
+              22.19807
+            ],
+            [
+              113.542954,
+              22.197642
+            ],
+            [
+              113.543031,
+              22.197594
+            ],
+            [
+              113.543071,
+              22.197569
+            ],
+            [
+              113.543453,
+              22.197331
+            ],
+            [
+              113.543732,
+              22.197157
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "炮兵街",
+        "namePor": "Rua dos Artilheiros"
+      }
+    }
+  ]
+}

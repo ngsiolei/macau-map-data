@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.5462,
+              22.206227
+            ],
+            [
+              113.546078,
+              22.206315
+            ],
+            [
+              113.546058,
+              22.20633
+            ],
+            [
+              113.546044,
+              22.20634
+            ],
+            [
+              113.545886,
+              22.206369
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "連勝台",
+        "namePor": "Pátio de Coelho do Amaral"
+      }
+    }
+  ]
+}

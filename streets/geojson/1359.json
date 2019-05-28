@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545851,
+              22.195944
+            ],
+            [
+              113.54841,
+              22.195885
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "東望洋斜巷",
+        "namePor": "Calçada do Gaio"
+      }
+    }
+  ]
+}

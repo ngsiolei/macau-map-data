@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.557828,
+              22.205744
+            ],
+            [
+              113.558477,
+              22.206407
+            ],
+            [
+              113.559228,
+              22.205783
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "圓台巷",
+        "namePor": "Travessa da Doca dos Holandeses"
+      }
+    }
+  ]
+}

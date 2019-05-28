@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539924,
+              22.203084
+            ],
+            [
+              113.539814,
+              22.203397
+            ],
+            [
+              113.539792,
+              22.203412
+            ],
+            [
+              113.539614,
+              22.203889
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "船澳巷",
+        "namePor": "Travessa das Docas"
+      }
+    }
+  ]
+}

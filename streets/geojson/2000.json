@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544683,
+              22.207908
+            ],
+            [
+              113.544927,
+              22.207143
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "飛喇士巷",
+        "namePor": "Travessa do General Ivens Ferraz"
+      }
+    }
+  ]
+}

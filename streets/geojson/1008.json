@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54659,
+              22.201646
+            ],
+            [
+              113.54622,
+              22.201293
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "羅利老台",
+        "namePor": "Pátio de Adolfo Loureiro"
+      }
+    }
+  ]
+}

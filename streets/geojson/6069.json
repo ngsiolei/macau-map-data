@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.557127,
+              22.153353
+            ],
+            [
+              113.557486,
+              22.153529
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "柯打蘇沙街",
+        "namePor": "Rua de Horta e Sousa"
+      }
+    }
+  ]
+}

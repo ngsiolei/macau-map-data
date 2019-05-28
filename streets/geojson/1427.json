@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537394,
+              22.202368
+            ],
+            [
+              113.53809,
+              22.202539
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "林茂巷",
+        "namePor": "Travessa de Lam Mau"
+      }
+    }
+  ]
+}

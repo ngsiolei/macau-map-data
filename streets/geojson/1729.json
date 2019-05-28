@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549091,
+              22.212294
+            ],
+            [
+              113.550349,
+              22.212128
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "祐漢新村第七街",
+        "namePor": "Rua Sete do Bairro Iao Hon"
+      }
+    }
+  ]
+}

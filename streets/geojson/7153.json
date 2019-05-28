@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.558012,
+              22.114347
+            ],
+            [
+              113.558077,
+              22.114211
+            ],
+            [
+              113.558186,
+              22.114082
+            ],
+            [
+              113.558358,
+              22.113937
+            ],
+            [
+              113.558978,
+              22.113016
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "竹灣石級",
+        "namePor": "Escadaria da Praia de Cheoc Van"
+      }
+    }
+  ]
+}

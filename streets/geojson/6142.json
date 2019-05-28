@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.555489,
+              22.160402
+            ],
+            [
+              113.556287,
+              22.16106
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "拉哥斯街",
+        "namePor": "Rua de Lagos"
+      }
+    }
+  ]
+}

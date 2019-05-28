@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539914,
+              22.19625
+            ],
+            [
+              113.540031,
+              22.196312
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "短巷",
+        "namePor": "Travessa Curta"
+      }
+    }
+  ]
+}

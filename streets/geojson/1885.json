@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545751,
+              22.192012
+            ],
+            [
+              113.545968,
+              22.191709
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "隧道圍",
+        "namePor": "Pátio do Túnel"
+      }
+    }
+  ]
+}

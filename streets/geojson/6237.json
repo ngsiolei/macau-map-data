@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.573383,
+              22.166589
+            ],
+            [
+              113.572326,
+              22.16684
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "北安碼頭三巷",
+        "namePor": "Travessa Três do Cais de Pac On"
+      }
+    }
+  ]
+}

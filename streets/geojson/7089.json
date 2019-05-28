@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551501,
+              22.117428
+            ],
+            [
+              113.551698,
+              22.117426
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "水井圍",
+        "namePor": "Beco do Poço"
+      }
+    }
+  ]
+}

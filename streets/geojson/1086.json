@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545918,
+              22.201616
+            ],
+            [
+              113.542968,
+              22.202668
+            ],
+            [
+              113.54288,
+              22.202594
+            ],
+            [
+              113.542751,
+              22.202557
+            ],
+            [
+              113.542552,
+              22.202501
+            ],
+            [
+              113.541338,
+              22.202159
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "渡船街",
+        "namePor": "Rua da Barca"
+      }
+    }
+  ]
+}

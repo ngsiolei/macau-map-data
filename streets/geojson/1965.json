@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538838,
+              22.182915
+            ],
+            [
+              113.539233,
+              22.182885
+            ],
+            [
+              113.539789,
+              22.183669
+            ],
+            [
+              113.539567,
+              22.183842
+            ],
+            [
+              113.538834,
+              22.182913
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "立法會前地",
+        "namePor": "Praça da Assembleia Legislativa"
+      }
+    }
+  ]
+}

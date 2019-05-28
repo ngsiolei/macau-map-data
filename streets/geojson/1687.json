@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541113,
+              22.196872
+            ],
+            [
+              113.541112,
+              22.196902
+            ],
+            [
+              113.541054,
+              22.197033
+            ],
+            [
+              113.541045,
+              22.198033
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大三巴斜巷",
+        "namePor": "Calçada de S. Paulo"
+      }
+    }
+  ]
+}

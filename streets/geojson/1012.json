@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541313,
+              22.199402
+            ],
+            [
+              113.541483,
+              22.198614
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "順成街",
+        "namePor": "Rua da Águia"
+      }
+    }
+  ]
+}

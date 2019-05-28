@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.552041,
+              22.193385
+            ],
+            [
+              113.552401,
+              22.192609
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "廈門街",
+        "namePor": "Rua de Xiamen"
+      }
+    }
+  ]
+}

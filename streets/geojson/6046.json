@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.555731,
+              22.153053
+            ],
+            [
+              113.555835,
+              22.152941
+            ],
+            [
+              113.555852,
+              22.152951
+            ],
+            [
+              113.555903,
+              22.152897
+            ],
+            [
+              113.555871,
+              22.152871
+            ],
+            [
+              113.556024,
+              22.152705
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大蘿巷",
+        "namePor": "Travessa das Canastras"
+      }
+    }
+  ]
+}

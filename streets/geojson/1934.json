@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551194,
+              22.188827
+            ],
+            [
+              113.553771,
+              22.189796
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "羅馬街",
+        "namePor": "Rua de Roma"
+      }
+    }
+  ]
+}

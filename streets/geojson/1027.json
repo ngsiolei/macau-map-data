@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543584,
+              22.198224
+            ],
+            [
+              113.543961,
+              22.198529
+            ],
+            [
+              113.544209,
+              22.198729
+            ],
+            [
+              113.547351,
+              22.201267
+            ],
+            [
+              113.548157,
+              22.201915
+            ],
+            [
+              113.550366,
+              22.203695
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "賈伯樂提督街 / 提督街",
+        "namePor": "Rua do Almirante Costa Cabral"
+      }
+    }
+  ]
+}

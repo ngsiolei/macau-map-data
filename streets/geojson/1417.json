@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545266,
+              22.196837
+            ],
+            [
+              113.546118,
+              22.19627
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "若翰亞美打街",
+        "namePor": "Rua de João de Almeida"
+      }
+    }
+  ]
+}

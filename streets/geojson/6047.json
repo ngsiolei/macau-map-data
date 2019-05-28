@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.558817,
+              22.153686
+            ],
+            [
+              113.558504,
+              22.15341
+            ],
+            [
+              113.557967,
+              22.153023
+            ],
+            [
+              113.557927,
+              22.152999
+            ],
+            [
+              113.557889,
+              22.152978
+            ],
+            [
+              113.55786,
+              22.152965
+            ],
+            [
+              113.557568,
+              22.152909
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "嘉路士米耶馬路",
+        "namePor": "Avenida de Carlos da Maia"
+      }
+    }
+  ]
+}

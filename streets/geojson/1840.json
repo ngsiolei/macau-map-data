@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551986,
+              22.209523
+            ],
+            [
+              113.552176,
+              22.210709
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "永樂街",
+        "namePor": "Rua Alegre"
+      }
+    }
+  ]
+}

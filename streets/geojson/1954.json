@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535679,
+              22.210962
+            ],
+            [
+              113.536179,
+              22.211208
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "木蘭巷",
+        "namePor": "Travessa da Magnólia"
+      }
+    }
+  ]
+}

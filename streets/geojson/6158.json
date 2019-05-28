@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.563837,
+              22.164419
+            ],
+            [
+              113.564005,
+              22.165014
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "永寧街",
+        "namePor": "Rua da Tranquilidade"
+      }
+    }
+  ]
+}

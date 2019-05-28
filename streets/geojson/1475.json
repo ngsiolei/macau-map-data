@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543012,
+              22.201806
+            ],
+            [
+              113.544454,
+              22.200845
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "墨山街",
+        "namePor": "Rua de Martinho Montenegro"
+      }
+    }
+  ]
+}

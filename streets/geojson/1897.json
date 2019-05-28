@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542715,
+              22.211191
+            ],
+            [
+              113.54277,
+              22.211587
+            ],
+            [
+              113.543293,
+              22.211532
+            ],
+            [
+              113.54324,
+              22.211124
+            ],
+            [
+              113.542715,
+              22.211191
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蓮花廣場",
+        "namePor": "Praça dos Lótus"
+      }
+    }
+  ]
+}

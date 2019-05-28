@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543224,
+              22.200279
+            ],
+            [
+              113.544285,
+              22.202199
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "柯利維喇街",
+        "namePor": "Rua de Marques de Oliveira"
+      }
+    }
+  ]
+}

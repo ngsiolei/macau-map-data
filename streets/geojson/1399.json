@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546303,
+              22.203557
+            ],
+            [
+              113.546463,
+              22.203824
+            ],
+            [
+              113.546551,
+              22.203957
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "柯高圍",
+        "namePor": "Pátio de Horta e Costa"
+      }
+    }
+  ]
+}

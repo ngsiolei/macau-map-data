@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.534602,
+              22.188023
+            ],
+            [
+              113.534719,
+              22.188085
+            ],
+            [
+              113.534783,
+              22.188113
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "亞婆井圍",
+        "namePor": "Pátio do Lilau"
+      }
+    }
+  ]
+}

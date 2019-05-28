@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54448,
+              22.202726
+            ],
+            [
+              113.544205,
+              22.202229
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "渡船台",
+        "namePor": "Pátio da Barca"
+      }
+    }
+  ]
+}

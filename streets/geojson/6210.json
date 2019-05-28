@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.55973,
+              22.162379
+            ],
+            [
+              113.560057,
+              22.162134
+            ]
+          ],
+          [
+            [
+              113.560362,
+              22.161909
+            ],
+            [
+              113.560579,
+              22.161747
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "海灣巷",
+        "namePor": "Travessa da Baía"
+      }
+    }
+  ]
+}

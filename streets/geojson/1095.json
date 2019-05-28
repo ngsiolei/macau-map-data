@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.532741,
+              22.187754
+            ],
+            [
+              113.532996,
+              22.18752
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "媽閣斜坡",
+        "namePor": "Rampa da Barra"
+      }
+    }
+  ]
+}

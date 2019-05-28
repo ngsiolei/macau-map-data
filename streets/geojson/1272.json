@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549645,
+              22.20954
+            ],
+            [
+              113.551041,
+              22.209064
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "黑沙環第二街",
+        "namePor": "Rua Dois do Bairro da Areia Preta"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54098,
+              22.199513
+            ],
+            [
+              113.541275,
+              22.199555
+            ],
+            [
+              113.541305,
+              22.199404
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "柚圍 / 柚果里",
+        "namePor": "Pátio da Toranja"
+      }
+    }
+  ]
+}

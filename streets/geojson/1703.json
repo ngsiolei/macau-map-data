@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539072,
+              22.190846
+            ],
+            [
+              113.538878,
+              22.191025
+            ],
+            [
+              113.538703,
+              22.191187
+            ],
+            [
+              113.538564,
+              22.191409
+            ],
+            [
+              113.538395,
+              22.19163
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "巴掌圍斜巷",
+        "namePor": "Calçada de Santo Agostinho"
+      }
+    }
+  ]
+}

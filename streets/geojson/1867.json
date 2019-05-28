@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542041,
+              22.191067
+            ],
+            [
+              113.542379,
+              22.190744
+            ],
+            [
+              113.541956,
+              22.190364
+            ],
+            [
+              113.541615,
+              22.190699
+            ],
+            [
+              113.542038,
+              22.191076
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "友誼廣場",
+        "namePor": "Praça da Amizade"
+      }
+    }
+  ]
+}

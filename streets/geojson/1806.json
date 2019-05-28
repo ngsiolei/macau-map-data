@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541696,
+              22.195053
+            ],
+            [
+              113.542058,
+              22.194981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "哪咤廟街",
+        "namePor": "Rua das Verdades"
+      }
+    }
+  ]
+}

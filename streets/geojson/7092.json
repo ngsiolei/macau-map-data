@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550132,
+              22.114488
+            ],
+            [
+              113.550503,
+              22.114457
+            ],
+            [
+              113.550464,
+              22.114352
+            ],
+            [
+              113.550361,
+              22.114247
+            ],
+            [
+              113.550032,
+              22.114271
+            ],
+            [
+              113.550132,
+              22.114488
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "譚公廟前地",
+        "namePor": "Largo Tam Kong Miu"
+      }
+    }
+  ]
+}

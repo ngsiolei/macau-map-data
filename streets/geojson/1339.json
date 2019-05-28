@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54639,
+              22.197706
+            ],
+            [
+              113.547502,
+              22.196919
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "高偉樂街",
+        "namePor": "Rua Filipe O'Costa"
+      }
+    }
+  ]
+}

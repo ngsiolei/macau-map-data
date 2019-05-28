@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.552649,
+              22.207607
+            ],
+            [
+              113.552792,
+              22.20749
+            ],
+            [
+              113.55446,
+              22.206118
+            ],
+            [
+              113.554391,
+              22.206045
+            ],
+            [
+              113.552432,
+              22.207657
+            ],
+            [
+              113.552501,
+              22.207729
+            ],
+            [
+              113.552649,
+              22.207607
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "慕拉士前地",
+        "namePor": "Praceta de Venceslau de Morais"
+      }
+    }
+  ]
+}

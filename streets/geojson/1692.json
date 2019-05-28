@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.5391,
+              22.201997
+            ],
+            [
+              113.539141,
+              22.201828
+            ],
+            [
+              113.53932,
+              22.201868
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "紅雀圍",
+        "namePor": "Pátio do Sairro"
+      }
+    }
+  ]
+}

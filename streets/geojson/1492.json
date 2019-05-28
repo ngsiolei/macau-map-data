@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536594,
+              22.197222
+            ],
+            [
+              113.53749,
+              22.197073
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "美基街",
+        "namePor": "Rua de Miguel Aires"
+      }
+    }
+  ]
+}

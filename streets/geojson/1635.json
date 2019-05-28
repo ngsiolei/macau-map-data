@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538224,
+              22.200301
+            ],
+            [
+              113.538404,
+              22.200334
+            ],
+            [
+              113.53844,
+              22.200172
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "叢慶四巷",
+        "namePor": "Travessa Quarta do Pátio do Jardim"
+      }
+    }
+  ]
+}

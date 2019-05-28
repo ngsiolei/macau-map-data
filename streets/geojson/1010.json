@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544026,
+              22.200547
+            ],
+            [
+              113.54703,
+              22.198529
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "亞豐素雅布基街 / 亞豐素街",
+        "namePor": "Rua de Afonso de Albuquerque"
+      }
+    }
+  ]
+}

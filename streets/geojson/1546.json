@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536956,
+              22.190253
+            ],
+            [
+              113.537511,
+              22.189797
+            ],
+            [
+              113.537601,
+              22.189723
+            ],
+            [
+              113.538067,
+              22.189428
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "卑第巷",
+        "namePor": "Travessa do Padre Narciso"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537884,
+              22.196177
+            ],
+            [
+              113.538179,
+              22.196011
+            ],
+            [
+              113.53819,
+              22.196026
+            ],
+            [
+              113.538331,
+              22.195946
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "老人圍",
+        "namePor": "Pátio dos Velhos"
+      }
+    }
+  ]
+}

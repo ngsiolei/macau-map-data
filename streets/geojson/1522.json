@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537266,
+              22.198335
+            ],
+            [
+              113.537119,
+              22.197632
+            ],
+            [
+              113.536854,
+              22.196278
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "通商新街 / 新填地",
+        "namePor": "Rua Nova do Comércio"
+      }
+    }
+  ]
+}

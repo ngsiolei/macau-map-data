@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53733,
+              22.186434
+            ],
+            [
+              113.537532,
+              22.187615
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "西灣街",
+        "namePor": "Rua da Praia do Bom Parto"
+      }
+    }
+  ]
+}

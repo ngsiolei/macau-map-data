@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.531934,
+              22.187097
+            ],
+            [
+              113.531952,
+              22.186992
+            ],
+            [
+              113.532058,
+              22.186887
+            ],
+            [
+              113.532289,
+              22.187033
+            ],
+            [
+              113.532348,
+              22.186955
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "港務局里",
+        "namePor": "Beco da Capitania dos Portos"
+      }
+    }
+  ]
+}

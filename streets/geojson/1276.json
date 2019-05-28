@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547707,
+              22.214018
+            ],
+            [
+              113.548814,
+              22.213857
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "華大新村第二街",
+        "namePor": "Rua Dois do Bairro Vá Tai"
+      }
+    }
+  ]
+}

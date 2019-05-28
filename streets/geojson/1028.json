@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547139,
+              22.200617
+            ],
+            [
+              113.547035,
+              22.200531
+            ]
+          ],
+          [
+            [
+              113.547139,
+              22.200617
+            ],
+            [
+              113.547315,
+              22.200429
+            ],
+            [
+              113.547361,
+              22.20038
+            ]
+          ],
+          [
+            [
+              113.546884,
+              22.20089
+            ],
+            [
+              113.547139,
+              22.200617
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "賈伯樂提督巷",
+        "namePor": "Travessa do Almirante Costa Cabral"
+      }
+    }
+  ]
+}

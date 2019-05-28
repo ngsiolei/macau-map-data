@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537671,
+              22.193329
+            ],
+            [
+              113.537766,
+              22.193235
+            ],
+            [
+              113.537869,
+              22.193133
+            ],
+            [
+              113.537977,
+              22.19301
+            ],
+            [
+              113.538345,
+              22.19248
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "夜呣斜巷 / 崗頂斜路",
+        "namePor": "Calçada do Gamboa"
+      }
+    }
+  ]
+}

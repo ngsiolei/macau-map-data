@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.556435,
+              22.205134
+            ],
+            [
+              113.556448,
+              22.204298
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "黑沙環海邊巷",
+        "namePor": "Travessa Marginal da Areia Preta"
+      }
+    }
+  ]
+}

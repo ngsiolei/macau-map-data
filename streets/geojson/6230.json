@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.563512,
+              22.142499
+            ],
+            [
+              113.557972,
+              22.142736
+            ]
+          ],
+          [
+            [
+              113.557467,
+              22.142796
+            ],
+            [
+              113.557055,
+              22.142896
+            ],
+            [
+              113.552608,
+              22.14309
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "路氹城大馬路",
+        "namePor": "Avenida de COTAI"
+      }
+    }
+  ]
+}

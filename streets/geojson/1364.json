@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536485,
+              22.192679
+            ],
+            [
+              113.537112,
+              22.193653
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "夜呣巷",
+        "namePor": "Travessa do Gamboa"
+      }
+    }
+  ]
+}

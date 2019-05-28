@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.5341,
+              22.185835
+            ],
+            [
+              113.535868,
+              22.186136
+            ],
+            [
+              113.536061,
+              22.186183
+            ],
+            [
+              113.536204,
+              22.186253
+            ],
+            [
+              113.536295,
+              22.186342
+            ],
+            [
+              113.536375,
+              22.18645
+            ],
+            [
+              113.536384,
+              22.186566
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "高可寧紳士街",
+        "namePor": "Rua do Comendador Kou Hó Neng"
+      }
+    }
+  ]
+}

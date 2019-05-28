@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53961,
+              22.193993
+            ],
+            [
+              113.539348,
+              22.193766
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "剪髮匠巷",
+        "namePor": "Travessa do Barbeiro"
+      }
+    }
+  ]
+}

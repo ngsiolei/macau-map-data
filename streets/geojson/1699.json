@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541383,
+              22.195654
+            ],
+            [
+              113.541561,
+              22.195526
+            ],
+            [
+              113.541676,
+              22.195431
+            ],
+            [
+              113.541781,
+              22.195393
+            ],
+            [
+              113.542125,
+              22.19531
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大炮台下街",
+        "namePor": "Rua de Santa Filomena"
+      }
+    }
+  ]
+}

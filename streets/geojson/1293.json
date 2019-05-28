@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542142,
+              22.198056
+            ],
+            [
+              113.542041,
+              22.198652
+            ],
+            [
+              113.541859,
+              22.199508
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "同安街",
+        "namePor": "Rua da Entena"
+      }
+    }
+  ]
+}

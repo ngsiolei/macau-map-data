@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.556618,
+              22.152869
+            ],
+            [
+              113.556923,
+              22.153049
+            ],
+            [
+              113.557012,
+              22.153099
+            ],
+            [
+              113.557215,
+              22.153206
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "連理街",
+        "namePor": "Rua dos Bem Casados"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544067,
+              22.19579
+            ],
+            [
+              113.544652,
+              22.195432
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "水坑尾巷",
+        "namePor": "Travessa dos Santos"
+      }
+    }
+  ]
+}

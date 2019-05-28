@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536795,
+              22.194964
+            ],
+            [
+              113.537251,
+              22.1952
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "福寧巷 / 福寧里 / 新圍",
+        "namePor": "Travessa das Venturas"
+      }
+    }
+  ]
+}

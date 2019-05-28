@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53592,
+              22.187312
+            ],
+            [
+              113.535813,
+              22.187492
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "竹室圍",
+        "namePor": "Pátio da Boa Vista"
+      }
+    }
+  ]
+}

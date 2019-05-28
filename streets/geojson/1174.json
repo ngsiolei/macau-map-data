@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545162,
+              22.195584
+            ],
+            [
+              113.545437,
+              22.195429
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "陳樂街",
+        "namePor": "Rua de Chan Loc"
+      }
+    }
+  ]
+}

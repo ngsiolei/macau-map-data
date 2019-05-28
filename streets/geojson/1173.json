@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543165,
+              22.195897
+            ],
+            [
+              113.543195,
+              22.195793
+            ],
+            [
+              113.543241,
+              22.195802
+            ],
+            [
+              113.543265,
+              22.195806
+            ],
+            [
+              113.543291,
+              22.19581
+            ],
+            [
+              113.543306,
+              22.195748
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "史山新里",
+        "namePor": "Beco das Chagas"
+      }
+    }
+  ]
+}

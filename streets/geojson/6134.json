@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.555574,
+              22.15565
+            ],
+            [
+              113.551093,
+              22.16037
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "布拉干薩街",
+        "namePor": "Rua de Bragança"
+      }
+    }
+  ]
+}

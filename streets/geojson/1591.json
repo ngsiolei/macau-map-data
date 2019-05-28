@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53683,
+              22.198402
+            ],
+            [
+              113.537266,
+              22.198335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "卑度路街",
+        "namePor": "Rua de Pedro Nolasco"
+      }
+    }
+  ]
+}

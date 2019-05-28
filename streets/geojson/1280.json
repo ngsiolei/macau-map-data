@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.532784,
+              22.189568
+            ],
+            [
+              113.532216,
+              22.189928
+            ],
+            [
+              113.53309,
+              22.191057
+            ],
+            [
+              113.535102,
+              22.193525
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "比厘喇馬忌士街",
+        "namePor": "Rua do Dr. Lourenço Pereira Marques"
+      }
+    }
+  ]
+}

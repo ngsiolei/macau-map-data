@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538572,
+              22.200509
+            ],
+            [
+              113.538943,
+              22.200132
+            ],
+            [
+              113.539063,
+              22.199729
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "洞穴街",
+        "namePor": "Rua da Gruta"
+      }
+    }
+  ]
+}

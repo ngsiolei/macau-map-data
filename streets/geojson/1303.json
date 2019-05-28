@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541734,
+              22.200164
+            ],
+            [
+              113.543165,
+              22.200705
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "亞美打街",
+        "namePor": "Rua de Espectação de Almeida"
+      }
+    }
+  ]
+}

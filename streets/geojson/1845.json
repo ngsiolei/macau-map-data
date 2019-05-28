@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551076,
+              22.212426
+            ],
+            [
+              113.554017,
+              22.212032
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "中心街",
+        "namePor": "Rua Direita do Hipódromo"
+      }
+    }
+  ]
+}

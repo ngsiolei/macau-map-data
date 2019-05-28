@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549773,
+              22.204614
+            ],
+            [
+              113.549947,
+              22.204483
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "生蔗里",
+        "namePor": "Beco da Cana"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.556532,
+              22.162261
+            ],
+            [
+              113.556269,
+              22.161782
+            ],
+            [
+              113.557634,
+              22.16039
+            ],
+            [
+              113.558162,
+              22.16083
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "重慶街",
+        "namePor": "Rua de Chong Heng"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.552097,
+              22.116541
+            ],
+            [
+              113.552367,
+              22.116265
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "日光圍",
+        "namePor": "Pátio do Sol"
+      }
+    }
+  ]
+}

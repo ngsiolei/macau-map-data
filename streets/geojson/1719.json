@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550959,
+              22.211656
+            ],
+            [
+              113.548956,
+              22.21192
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "祐漢新村第六街",
+        "namePor": "Rua Seis do Bairro Iao Hon"
+      }
+    }
+  ]
+}

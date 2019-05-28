@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540681,
+              22.195936
+            ],
+            [
+              113.540785,
+              22.195931
+            ],
+            [
+              113.541042,
+              22.196055
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "福華巷",
+        "namePor": "Travessa da Fortuna"
+      }
+    }
+  ]
+}

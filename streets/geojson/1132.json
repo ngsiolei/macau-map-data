@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544091,
+              22.203048
+            ],
+            [
+              113.543823,
+              22.203182
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "白灰里 / 白灰圍",
+        "namePor": "Beco da Cal"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537093,
+              22.194289
+            ],
+            [
+              113.537586,
+              22.194479
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "福隆圍 / 清和里 / 虱乸街",
+        "namePor": "Pátio da Felicidade"
+      }
+    }
+  ]
+}

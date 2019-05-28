@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538405,
+              22.194381
+            ],
+            [
+              113.538507,
+              22.194243
+            ],
+            [
+              113.538537,
+              22.194259
+            ],
+            [
+              113.53859,
+              22.194169
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "吳家圍",
+        "namePor": "Pátio do Abridor"
+      }
+    }
+  ]
+}

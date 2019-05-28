@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538443,
+              22.202154
+            ],
+            [
+              113.538588,
+              22.202209
+            ],
+            [
+              113.538737,
+              22.202248
+            ],
+            [
+              113.538907,
+              22.202296
+            ],
+            [
+              113.539263,
+              22.202381
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "罣累巷",
+        "namePor": "Travessa do Enleio"
+      }
+    }
+  ]
+}

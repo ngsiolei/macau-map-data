@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551831,
+              22.117046
+            ],
+            [
+              113.552047,
+              22.117045
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "花園圍",
+        "namePor": "Beco do Jardim"
+      }
+    }
+  ]
+}

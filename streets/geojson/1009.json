@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537995,
+              22.20054
+            ],
+            [
+              113.538036,
+              22.200292
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蠔殼里 / 蠔殼圍",
+        "namePor": "Beco da Adufa"
+      }
+    }
+  ]
+}

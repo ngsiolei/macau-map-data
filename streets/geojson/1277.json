@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539367,
+              22.196618
+            ],
+            [
+              113.539635,
+              22.196758
+            ],
+            [
+              113.539736,
+              22.196822
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "酒潭巷",
+        "namePor": "Travessa da Dorna"
+      }
+    }
+  ]
+}

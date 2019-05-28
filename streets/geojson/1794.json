@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546593,
+              22.20361
+            ],
+            [
+              113.547239,
+              22.203032
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "友聯街",
+        "namePor": "Rua da União"
+      }
+    }
+  ]
+}

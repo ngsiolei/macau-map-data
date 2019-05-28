@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551231,
+              22.205942
+            ],
+            [
+              113.551342,
+              22.206214
+            ],
+            [
+              113.551567,
+              22.206638
+            ],
+            [
+              113.551734,
+              22.206888
+            ],
+            [
+              113.551865,
+              22.207084
+            ],
+            [
+              113.551928,
+              22.207148
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "望善街",
+        "namePor": "Rua de Mong Sin"
+      }
+    }
+  ]
+}

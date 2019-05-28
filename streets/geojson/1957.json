@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540029,
+              22.2127
+            ],
+            [
+              113.540058,
+              22.212558
+            ],
+            [
+              113.540087,
+              22.212423
+            ],
+            [
+              113.540224,
+              22.211762
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "水仙巷",
+        "namePor": "Travessa do Narciso"
+      }
+    }
+  ]
+}

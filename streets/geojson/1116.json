@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547972,
+              22.204967
+            ],
+            [
+              113.548183,
+              22.204802
+            ],
+            [
+              113.548254,
+              22.204893
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鈕里",
+        "namePor": "Beco do Botão"
+      }
+    }
+  ]
+}

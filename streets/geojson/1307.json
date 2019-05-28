@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537875,
+              22.197028
+            ],
+            [
+              113.539046,
+              22.196349
+            ],
+            [
+              113.539715,
+              22.195998
+            ],
+            [
+              113.539741,
+              22.195953
+            ],
+            [
+              113.540176,
+              22.195679
+            ],
+            [
+              113.540537,
+              22.195483
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "草堆街",
+        "namePor": "Rua das Estalagens"
+      }
+    }
+  ]
+}

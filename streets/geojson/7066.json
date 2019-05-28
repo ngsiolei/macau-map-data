@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551199,
+              22.118082
+            ],
+            [
+              113.551313,
+              22.118117
+            ],
+            [
+              113.551369,
+              22.118122
+            ],
+            [
+              113.551455,
+              22.118107
+            ],
+            [
+              113.551551,
+              22.118051
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "戴紳禮街",
+        "namePor": "Rua do Tassara"
+      }
+    }
+  ]
+}

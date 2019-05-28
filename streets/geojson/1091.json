@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.533705,
+              22.188087
+            ],
+            [
+              113.53382,
+              22.187769
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "媽閣巷",
+        "namePor": "Travessa da Barra"
+      }
+    }
+  ]
+}

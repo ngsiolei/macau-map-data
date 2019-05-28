@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538705,
+              22.200421
+            ],
+            [
+              113.538767,
+              22.200453
+            ],
+            [
+              113.538997,
+              22.200519
+            ],
+            [
+              113.539123,
+              22.200005
+            ],
+            [
+              113.539141,
+              22.199929
+            ],
+            [
+              113.539188,
+              22.199739
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "洞穴巷",
+        "namePor": "Travessa da Gruta"
+      }
+    }
+  ]
+}

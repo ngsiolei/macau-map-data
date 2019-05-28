@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550408,
+              22.212515
+            ],
+            [
+              113.550051,
+              22.21017
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "祐漢新村第二街",
+        "namePor": "Rua Dois do Bairro Iao Hon"
+      }
+    }
+  ]
+}

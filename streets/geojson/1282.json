@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540768,
+              22.191247
+            ],
+            [
+              113.541648,
+              22.192108
+            ],
+            [
+              113.541821,
+              22.192278
+            ],
+            [
+              113.541847,
+              22.192304
+            ],
+            [
+              113.5421,
+              22.192578
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "羅保博士街",
+        "namePor": "Rua do Dr. Pedro José Lobo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546928,
+              22.183693
+            ],
+            [
+              113.544766,
+              22.188703
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "沙格斯大馬路",
+        "namePor": "Avenida de Sagres"
+      }
+    }
+  ]
+}

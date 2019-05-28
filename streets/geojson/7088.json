@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.552219,
+              22.116143
+            ],
+            [
+              113.551915,
+              22.116495
+            ],
+            [
+              113.551887,
+              22.116516
+            ],
+            [
+              113.551769,
+              22.116588
+            ],
+            [
+              113.551722,
+              22.116617
+            ],
+            [
+              113.551541,
+              22.116691
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "水桶巷",
+        "namePor": "Travessa da Pipa"
+      }
+    }
+  ]
+}

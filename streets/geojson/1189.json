@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546011,
+              22.195073
+            ],
+            [
+              113.546265,
+              22.195447
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鵪鶉巷",
+        "namePor": "Travessa da Codorniz"
+      }
+    }
+  ]
+}

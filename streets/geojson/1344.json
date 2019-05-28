@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542998,
+              22.202887
+            ],
+            [
+              113.543252,
+              22.202752
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "風爐匠巷",
+        "namePor": "Travessa do Fogueiro"
+      }
+    }
+  ]
+}

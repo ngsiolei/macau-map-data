@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536281,
+              22.193817
+            ],
+            [
+              113.5367,
+              22.194287
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "缸瓦巷",
+        "namePor": "Travessa da Louça"
+      }
+    }
+  ]
+}

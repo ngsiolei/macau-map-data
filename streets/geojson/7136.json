@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.570099,
+              22.116001
+            ],
+            [
+              113.570013,
+              22.115699
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "龍爪角第一巷",
+        "namePor": "Travessa Um de Long Chao Kok"
+      }
+    }
+  ]
+}

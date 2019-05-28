@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.552709,
+              22.116879
+            ],
+            [
+              113.552409,
+              22.116697
+            ],
+            [
+              113.552566,
+              22.116499
+            ],
+            [
+              113.552669,
+              22.116658
+            ],
+            [
+              113.552835,
+              22.116706
+            ],
+            [
+              113.552709,
+              22.116879
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "打纜前地",
+        "namePor": "Largo da Cordoaria"
+      }
+    }
+  ]
+}

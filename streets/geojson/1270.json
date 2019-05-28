@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.557676,
+              22.205544
+            ],
+            [
+              113.557938,
+              22.204907
+            ],
+            [
+              113.558001,
+              22.204482
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "圓台街",
+        "namePor": "Rua da Doca dos Holandeses"
+      }
+    }
+  ]
+}

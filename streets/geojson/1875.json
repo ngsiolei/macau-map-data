@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.552865,
+              22.209229
+            ],
+            [
+              113.553098,
+              22.209197
+            ],
+            [
+              113.55358,
+              22.209154
+            ],
+            [
+              113.553824,
+              22.20908
+            ],
+            [
+              113.557952,
+              22.20564
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "黑沙環新街",
+        "namePor": "Rua Nova da Areia Preta"
+      }
+    }
+  ]
+}

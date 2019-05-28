@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535474,
+              22.19399
+            ],
+            [
+              113.535767,
+              22.19462
+            ],
+            [
+              113.536043,
+              22.195185
+            ],
+            [
+              113.53628,
+              22.19572
+            ],
+            [
+              113.536455,
+              22.196529
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "火船頭街",
+        "namePor": "Rua das Lorchas"
+      }
+    }
+  ]
+}

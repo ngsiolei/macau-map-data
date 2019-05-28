@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.534755,
+              22.18947
+            ],
+            [
+              113.534836,
+              22.18935
+            ],
+            [
+              113.534863,
+              22.189279
+            ],
+            [
+              113.534792,
+              22.189132
+            ],
+            [
+              113.53487,
+              22.188904
+            ],
+            [
+              113.534997,
+              22.188589
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "龍頭左巷",
+        "namePor": "Travessa de António da Silva"
+      }
+    }
+  ]
+}

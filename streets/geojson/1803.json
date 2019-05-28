@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.533172,
+              22.190049
+            ],
+            [
+              113.533697,
+              22.189885
+            ],
+            [
+              113.534564,
+              22.189694
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "小販巷 / 下環小市",
+        "namePor": "Travessa dos Vendilhões"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543644,
+              22.200363
+            ],
+            [
+              113.544746,
+              22.199163
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "消防隊巷",
+        "namePor": "Travessa dos Bombeiros"
+      }
+    }
+  ]
+}

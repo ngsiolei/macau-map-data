@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537812,
+              22.194733
+            ],
+            [
+              113.53797,
+              22.194789
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "桔仔巷",
+        "namePor": "Travessa do Matapau"
+      }
+    }
+  ]
+}

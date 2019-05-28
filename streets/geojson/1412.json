@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54088,
+              22.192302
+            ],
+            [
+              113.54337,
+              22.189923
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "殷皇子大馬路",
+        "namePor": "Avenida do Infante D. Henrique"
+      }
+    }
+  ]
+}

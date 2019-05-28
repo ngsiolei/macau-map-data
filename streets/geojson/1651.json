@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540754,
+              22.196911
+            ],
+            [
+              113.540659,
+              22.19763
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大三巴右街",
+        "namePor": "Rua da Ressurreição"
+      }
+    }
+  ]
+}

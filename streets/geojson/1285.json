@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53954,
+              22.193582
+            ],
+            [
+              113.539088,
+              22.193437
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蘇雅利醫士街",
+        "namePor": "Rua do Dr. Soares"
+      }
+    }
+  ]
+}

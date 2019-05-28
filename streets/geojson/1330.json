@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545221,
+              22.203762
+            ],
+            [
+              113.545864,
+              22.203008
+            ]
+          ],
+          [
+            [
+              113.546079,
+              22.202757
+            ],
+            [
+              113.547351,
+              22.201267
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "飛能便度街",
+        "namePor": "Rua de Fernão Mendes Pinto"
+      }
+    }
+  ]
+}

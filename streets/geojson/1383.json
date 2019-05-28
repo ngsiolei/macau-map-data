@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536969,
+              22.200197
+            ],
+            [
+              113.537276,
+              22.20013
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "魚鰓巷",
+        "namePor": "Travessa da Guelra"
+      }
+    }
+  ]
+}

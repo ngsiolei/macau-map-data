@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551182,
+              22.207765
+            ],
+            [
+              113.549294,
+              22.205511
+            ],
+            [
+              113.544769,
+              22.200053
+            ],
+            [
+              113.543407,
+              22.19897
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "俾利喇街",
+        "namePor": "Rua de Francisco Xavier Pereira"
+      }
+    }
+  ]
+}

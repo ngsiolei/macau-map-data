@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.548444,
+              22.201661
+            ],
+            [
+              113.548672,
+              22.201923
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "明珠台",
+        "namePor": "Pátio da Pérola"
+      }
+    }
+  ]
+}

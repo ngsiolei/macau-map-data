@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.555955,
+              22.153723
+            ],
+            [
+              113.556256,
+              22.153428
+            ],
+            [
+              113.556432,
+              22.15351
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "德行街",
+        "namePor": "Rua das Virtudes"
+      }
+    }
+  ]
+}

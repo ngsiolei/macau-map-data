@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537671,
+              22.193329
+            ],
+            [
+              113.537441,
+              22.193529
+            ],
+            [
+              113.537267,
+              22.193564
+            ],
+            [
+              113.537135,
+              22.193637
+            ],
+            [
+              113.535767,
+              22.19462
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "夜呣街",
+        "namePor": "Rua do Gamboa"
+      }
+    }
+  ]
+}

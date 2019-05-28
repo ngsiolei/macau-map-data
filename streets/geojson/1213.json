@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542394,
+              22.209804
+            ],
+            [
+              113.542581,
+              22.209219
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "和樂圍",
+        "namePor": "Pátio da Concórdia"
+      }
+    }
+  ]
+}

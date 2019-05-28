@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544709,
+              22.19417
+            ],
+            [
+              113.545467,
+              22.195194
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "公局市場巷 / 公局市橫巷 / 公局市橫街",
+        "namePor": "Travessa do Mercado Municipal"
+      }
+    }
+  ]
+}

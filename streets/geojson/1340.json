@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54112,
+              22.199074
+            ],
+            [
+              113.541922,
+              22.199211
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "福隆街",
+        "namePor": "Rua das Flores"
+      }
+    }
+  ]
+}

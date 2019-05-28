@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.556705,
+              22.154052
+            ],
+            [
+              113.557277,
+              22.153103
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "官也街",
+        "namePor": "Rua do Cunha"
+      }
+    }
+  ]
+}

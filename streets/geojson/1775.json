@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535918,
+              22.193991
+            ],
+            [
+              113.536458,
+              22.193732
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "馬車巷 / 夜呣前街 / 馬巷",
+        "namePor": "Travessa dos Tréns"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538345,
+              22.19248
+            ],
+            [
+              113.538506,
+              22.192625
+            ],
+            [
+              113.538654,
+              22.192744
+            ],
+            [
+              113.538742,
+              22.192824
+            ],
+            [
+              113.539012,
+              22.193375
+            ],
+            [
+              113.539047,
+              22.193446
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "東方斜巷",
+        "namePor": "Calçada do Tronco Velho"
+      }
+    }
+  ]
+}

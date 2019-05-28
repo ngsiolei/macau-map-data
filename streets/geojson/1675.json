@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54171,
+              22.192611
+            ],
+            [
+              113.541557,
+              22.193026
+            ],
+            [
+              113.541553,
+              22.193114
+            ],
+            [
+              113.54142,
+              22.19345
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大堂斜巷",
+        "namePor": "Calçada de S. João"
+      }
+    }
+  ]
+}

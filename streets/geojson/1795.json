@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547678,
+              22.203561
+            ],
+            [
+              113.547016,
+              22.204123
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "友聯巷",
+        "namePor": "Travessa da União"
+      }
+    }
+  ]
+}

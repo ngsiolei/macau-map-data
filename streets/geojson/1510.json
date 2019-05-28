@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544558,
+              22.194264
+            ],
+            [
+              113.545314,
+              22.193793
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "魯子高街",
+        "namePor": "Rua do Noronha"
+      }
+    }
+  ]
+}

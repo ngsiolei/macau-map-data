@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.534401,
+              22.191987
+            ],
+            [
+              113.534034,
+              22.192215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "馬博士巷",
+        "namePor": "Travessa do Dr. Lourenço Pereira Marques"
+      }
+    }
+  ]
+}

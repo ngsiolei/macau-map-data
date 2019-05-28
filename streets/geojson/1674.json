@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545556,
+              22.195146
+            ],
+            [
+              113.545369,
+              22.194892
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "水榕樹巷",
+        "namePor": "Travessa de S. João"
+      }
+    }
+  ]
+}

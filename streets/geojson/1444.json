@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545555,
+              22.204707
+            ],
+            [
+              113.545387,
+              22.204899
+            ],
+            [
+              113.54552,
+              22.20515
+            ],
+            [
+              113.545636,
+              22.205105
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蓮莖圍 / 蓮莖圍村",
+        "namePor": "Pátio dos Lírios"
+      }
+    }
+  ]
+}

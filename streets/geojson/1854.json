@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.548379,
+              22.195915
+            ],
+            [
+              113.548425,
+              22.195995
+            ],
+            [
+              113.548472,
+              22.196065
+            ],
+            [
+              113.548518,
+              22.196173
+            ],
+            [
+              113.548556,
+              22.19635
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "東望洋巷",
+        "namePor": "Travessa do Gaio"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546708,
+              22.191342
+            ],
+            [
+              113.548957,
+              22.19217
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "北京街",
+        "namePor": "Rua de Pequim"
+      }
+    }
+  ]
+}

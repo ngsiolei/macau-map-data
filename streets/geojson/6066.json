@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.556918,
+              22.153046
+            ],
+            [
+              113.556962,
+              22.152981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "加菲也巷",
+        "namePor": "Travessa das Gaveas"
+      }
+    }
+  ]
+}

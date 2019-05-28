@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539454,
+              22.196262
+            ],
+            [
+              113.539794,
+              22.196086
+            ],
+            [
+              113.539952,
+              22.196178
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "草堆橫巷",
+        "namePor": "Travessa das Janelas Verdes"
+      }
+    }
+  ]
+}

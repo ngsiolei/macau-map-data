@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547149,
+              22.201105
+            ],
+            [
+              113.547535,
+              22.200695
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "華園新街",
+        "namePor": "Rua do Paraíso"
+      }
+    }
+  ]
+}

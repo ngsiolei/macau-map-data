@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535556,
+              22.211274
+            ],
+            [
+              113.53614,
+              22.211623
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "天竹巷",
+        "namePor": "Travessa das Dálias"
+      }
+    }
+  ]
+}

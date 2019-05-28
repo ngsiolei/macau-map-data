@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538334,
+              22.190404
+            ],
+            [
+              113.538266,
+              22.190332
+            ],
+            [
+              113.538405,
+              22.19025
+            ],
+            [
+              113.538574,
+              22.190151
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "南灣里",
+        "namePor": "Beco da Praia Grande"
+      }
+    }
+  ]
+}

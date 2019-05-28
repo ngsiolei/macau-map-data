@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.567536,
+              22.117052
+            ],
+            [
+              113.567503,
+              22.115678
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "荷花圍",
+        "namePor": "Beco de Lótus"
+      }
+    }
+  ]
+}

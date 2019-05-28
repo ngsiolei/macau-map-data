@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544524,
+              22.206464
+            ],
+            [
+              113.54512,
+              22.206148
+            ],
+            [
+              113.545162,
+              22.206113
+            ],
+            [
+              113.545227,
+              22.20606
+            ],
+            [
+              113.551077,
+              22.201235
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "雅廉訪大馬路",
+        "namePor": "Avenida do Ouvidor Arriaga"
+      }
+    }
+  ]
+}

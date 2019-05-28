@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.532204,
+              22.187415
+            ],
+            [
+              113.532691,
+              22.188123
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "如意圍",
+        "namePor": "Pátio da Prosperidade"
+      }
+    }
+  ]
+}

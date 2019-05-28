@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.559303,
+              22.153569
+            ],
+            [
+              113.560292,
+              22.15411
+            ]
+          ],
+          [
+            [
+              113.560627,
+              22.154119
+            ],
+            [
+              113.561116,
+              22.154259
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "海邊馬路",
+        "namePor": "Avenida da Praia"
+      }
+    }
+  ]
+}

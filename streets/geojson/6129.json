@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.557324,
+              22.159502
+            ],
+            [
+              113.55367,
+              22.156496
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "基馬拉斯大馬路",
+        "namePor": "Avenida de Guimarães"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541682,
+              22.200418
+            ],
+            [
+              113.542184,
+              22.200658
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "施利化街 / 長安街",
+        "namePor": "Rua de Gomes da Silva"
+      }
+    }
+  ]
+}

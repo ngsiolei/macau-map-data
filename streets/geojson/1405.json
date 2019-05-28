@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535931,
+              22.189963
+            ],
+            [
+              113.536086,
+              22.189994
+            ],
+            [
+              113.536166,
+              22.190021
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "幻覺圍 /高樓里",
+        "namePor": "Pátio da Ilusão"
+      }
+    }
+  ]
+}

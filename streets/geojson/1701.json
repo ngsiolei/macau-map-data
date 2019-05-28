@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.533657,
+              22.185051
+            ],
+            [
+              113.533744,
+              22.185119
+            ],
+            [
+              113.534081,
+              22.185239
+            ],
+            [
+              113.5341,
+              22.185879
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "聖珊澤馬路 / 西望洋馬路",
+        "namePor": "Estrada de Santa Sancha"
+      }
+    }
+  ]
+}

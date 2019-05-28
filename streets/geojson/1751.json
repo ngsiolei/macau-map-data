@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546904,
+              22.19896
+            ],
+            [
+              113.547205,
+              22.198756
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "塔石巷",
+        "namePor": "Travessa do Tap Siac"
+      }
+    }
+  ]
+}

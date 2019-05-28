@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.556259,
+              22.152896
+            ],
+            [
+              113.556323,
+              22.152819
+            ],
+            [
+              113.556437,
+              22.152665
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "耶都地巷",
+        "namePor": "Travessa de Santa Gertrudes"
+      }
+    }
+  ]
+}

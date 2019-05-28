@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.530534,
+              22.182152
+            ],
+            [
+              113.531003,
+              22.182284
+            ],
+            [
+              113.531778,
+              22.181941
+            ],
+            [
+              113.531812,
+              22.181589
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "民國街",
+        "namePor": "Rua da República"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539898,
+              22.190874
+            ],
+            [
+              113.541886,
+              22.189009
+            ],
+            [
+              113.541992,
+              22.189001
+            ],
+            [
+              113.542703,
+              22.189429
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "澳門商業大馬路",
+        "namePor": "Avenida Comercial de Macau"
+      }
+    }
+  ]
+}

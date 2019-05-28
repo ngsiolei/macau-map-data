@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551698,
+              22.117295
+            ],
+            [
+              113.552034,
+              22.117265
+            ],
+            [
+              113.552233,
+              22.117404
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "打纜巷",
+        "namePor": "Travessa da Cordoaria"
+      }
+    }
+  ]
+}

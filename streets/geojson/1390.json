@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544558,
+              22.194264
+            ],
+            [
+              113.545276,
+              22.195297
+            ],
+            [
+              113.545314,
+              22.195276
+            ],
+            [
+              113.545852,
+              22.195944
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "馬大臣街",
+        "namePor": "Rua de Henrique de Macedo"
+      }
+    }
+  ]
+}

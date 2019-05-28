@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.559579,
+              22.156031
+            ],
+            [
+              113.559751,
+              22.156085
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "炮竹廠巷",
+        "namePor": "Travessa da Fábrica de Panchões"
+      }
+    }
+  ]
+}

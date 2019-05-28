@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.553044,
+              22.157188
+            ],
+            [
+              113.551256,
+              22.15798
+            ],
+            [
+              113.551182,
+              22.158054
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "潮州街",
+        "namePor": "Rua de Chiu Chau"
+      }
+    }
+  ]
+}

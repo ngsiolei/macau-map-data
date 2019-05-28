@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538584,
+              22.202208
+            ],
+            [
+              113.538725,
+              22.201878
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "麻子巷",
+        "namePor": "Travessa da Palmeira"
+      }
+    }
+  ]
+}

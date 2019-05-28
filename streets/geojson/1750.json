@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546386,
+              22.198282
+            ],
+            [
+              113.547566,
+              22.199824
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "塔石街",
+        "namePor": "Rua do Tap Siac"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540632,
+              22.199272
+            ],
+            [
+              113.540763,
+              22.198721
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "賣菜街",
+        "namePor": "Rua da Estrela"
+      }
+    }
+  ]
+}

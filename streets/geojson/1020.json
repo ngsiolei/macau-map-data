@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538994,
+              22.195891
+            ],
+            [
+              113.539179,
+              22.195796
+            ],
+            [
+              113.539528,
+              22.195589
+            ],
+            [
+              113.53965,
+              22.195508
+            ],
+            [
+              113.539638,
+              22.195487
+            ],
+            [
+              113.539801,
+              22.19538
+            ],
+            [
+              113.540026,
+              22.195249
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "小新巷",
+        "namePor": "Travessa dos Alfaiates"
+      }
+    }
+  ]
+}

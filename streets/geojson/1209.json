@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544212,
+              22.194293
+            ],
+            [
+              113.544111,
+              22.194136
+            ],
+            [
+              113.543898,
+              22.194252
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "昇平圍 / 昇平里",
+        "namePor": "Pátio do Comprador"
+      }
+    }
+  ]
+}

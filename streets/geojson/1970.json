@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543963,
+              22.212646
+            ],
+            [
+              113.546257,
+              22.213573
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "台山新城市第一街",
+        "namePor": "Rua Um da Cidade Nova de T'oi Sán"
+      }
+    }
+  ]
+}

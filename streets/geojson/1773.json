@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538904,
+              22.20241
+            ],
+            [
+              113.539243,
+              22.20249
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "扊扅圍",
+        "namePor": "Pátio da Tranca"
+      }
+    }
+  ]
+}

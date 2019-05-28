@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.534099,
+              22.185819
+            ],
+            [
+              113.535071,
+              22.185226
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "衣灣斜巷",
+        "namePor": "Calçada da Praia"
+      }
+    }
+  ]
+}

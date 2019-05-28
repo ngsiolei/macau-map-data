@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.57226,
+              22.161684
+            ],
+            [
+              113.572663,
+              22.162215
+            ],
+            [
+              113.572785,
+              22.162333
+            ],
+            [
+              113.573044,
+              22.16251
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "順景街",
+        "namePor": "Rua Son Keng"
+      }
+    }
+  ]
+}

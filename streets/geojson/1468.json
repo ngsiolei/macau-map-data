@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.548738,
+              22.213406
+            ],
+            [
+              113.547866,
+              22.213482
+            ],
+            [
+              113.546603,
+              22.213554
+            ],
+            [
+              113.544014,
+              22.213694
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "菜園涌邊街",
+        "namePor": "Rua Marginal do Canal das Hortas"
+      }
+    }
+  ]
+}

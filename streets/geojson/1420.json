@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543849,
+              22.199325
+            ],
+            [
+              113.544304,
+              22.198807
+            ],
+            [
+              113.544496,
+              22.198064
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "區華利街",
+        "namePor": "Rua de Jorge Álvares"
+      }
+    }
+  ]
+}

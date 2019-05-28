@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551076,
+              22.117394
+            ],
+            [
+              113.551178,
+              22.117399
+            ],
+            [
+              113.551171,
+              22.117225
+            ],
+            [
+              113.551047,
+              22.117248
+            ],
+            [
+              113.551076,
+              22.117394
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "市亭前地",
+        "namePor": "Largo do Bazar"
+      }
+    }
+  ]
+}

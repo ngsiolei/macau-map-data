@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551841,
+              22.154062
+            ],
+            [
+              113.554807,
+              22.152799
+            ],
+            [
+              113.555071,
+              22.152672
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "體育路",
+        "namePor": "Rua do Desporto"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540425,
+              22.182845
+            ],
+            [
+              113.539487,
+              22.183243
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "四月二十五日街",
+        "namePor": "Rua 25 de Abril"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54591,
+              22.194578
+            ],
+            [
+              113.546263,
+              22.194365
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "愕斜巷",
+        "namePor": "Calçada da Surpresa"
+      }
+    }
+  ]
+}

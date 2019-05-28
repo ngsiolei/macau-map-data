@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53635,
+              22.190358
+            ],
+            [
+              113.536492,
+              22.190432
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "下環圍",
+        "namePor": "Pátio da Casa Forte"
+      }
+    }
+  ]
+}

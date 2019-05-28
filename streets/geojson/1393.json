@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543823,
+              22.203182
+            ],
+            [
+              113.543434,
+              22.202502
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "何光來巷",
+        "namePor": "Travessa de Hó Cong Loi"
+      }
+    }
+  ]
+}

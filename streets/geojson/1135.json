@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536563,
+              22.195995
+            ],
+            [
+              113.536885,
+              22.195717
+            ],
+            [
+              113.53704,
+              22.19551
+            ],
+            [
+              113.537251,
+              22.1952
+            ],
+            [
+              113.537407,
+              22.194959
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "白眼塘橫街 / 福隆下街",
+        "namePor": "Rua da Caldeira"
+      }
+    }
+  ]
+}

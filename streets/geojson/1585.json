@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536297,
+              22.188891
+            ],
+            [
+              113.536666,
+              22.188997
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "和平台",
+        "namePor": "Pátio da Paz"
+      }
+    }
+  ]
+}

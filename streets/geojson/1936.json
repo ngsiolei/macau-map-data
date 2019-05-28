@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.55318,
+              22.191101
+            ],
+            [
+              113.550625,
+              22.190126
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "巴黎街",
+        "namePor": "Rua de Paris"
+      }
+    }
+  ]
+}

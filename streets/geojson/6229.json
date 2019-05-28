@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.558063,
+              22.149941
+            ],
+            [
+              113.557723,
+              22.142982
+            ]
+          ],
+          [
+            [
+              113.557729,
+              22.142505
+            ],
+            [
+              113.557769,
+              22.14215
+            ],
+            [
+              113.557694,
+              22.140517
+            ],
+            [
+              113.557731,
+              22.140304
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "新城大馬路",
+        "namePor": "Avenida Cidade Nova"
+      }
+    }
+  ]
+}

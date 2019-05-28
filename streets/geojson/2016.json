@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54848,
+              22.211895
+            ],
+            [
+              113.548941,
+              22.211824
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "騎士巷",
+        "namePor": "Travessa dos Cavaleiros"
+      }
+    }
+  ]
+}

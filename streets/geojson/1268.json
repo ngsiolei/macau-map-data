@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544739,
+              22.194526
+            ],
+            [
+              113.54551,
+              22.194063
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "臘八街",
+        "namePor": "Rua de Dezoito de Dezembro"
+      }
+    }
+  ]
+}

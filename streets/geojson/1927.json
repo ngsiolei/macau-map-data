@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550813,
+              22.187908
+            ],
+            [
+              113.548689,
+              22.187103
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "波爾圖街",
+        "namePor": "Rua Cidade do Porto"
+      }
+    }
+  ]
+}

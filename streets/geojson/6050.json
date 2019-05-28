@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.556322,
+              22.15282
+            ],
+            [
+              113.556482,
+              22.152948
+            ],
+            [
+              113.556761,
+              22.153184
+            ],
+            [
+              113.556884,
+              22.15322
+            ],
+            [
+              113.557127,
+              22.153353
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "木鐸街",
+        "namePor": "Rua dos Clérigos"
+      }
+    }
+  ]
+}

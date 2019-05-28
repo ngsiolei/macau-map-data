@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541753,
+              22.195206
+            ],
+            [
+              113.542089,
+              22.19514
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "哪咤廟里",
+        "namePor": "Beco das Verdades"
+      }
+    }
+  ]
+}

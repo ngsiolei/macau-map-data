@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.558576,
+              22.154045
+            ],
+            [
+              113.558908,
+              22.153795
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "嘉模斜巷",
+        "namePor": "Calçada do Carmo"
+      }
+    }
+  ]
+}

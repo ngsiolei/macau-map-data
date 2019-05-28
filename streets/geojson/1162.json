@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549536,
+              22.206646
+            ],
+            [
+              113.550217,
+              22.206933
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "騎士圍",
+        "namePor": "Pátio dos Cavaleiros"
+      }
+    }
+  ]
+}

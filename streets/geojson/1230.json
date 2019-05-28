@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551166,
+              22.20257
+            ],
+            [
+              113.551365,
+              22.202806
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "美副將街",
+        "namePor": "Rua do Coronel Mesquita"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539208,
+              22.194414
+            ],
+            [
+              113.539826,
+              22.193765
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "公局新市南街",
+        "namePor": "Rua Sul do Mercado de S. Domingos"
+      }
+    }
+  ]
+}

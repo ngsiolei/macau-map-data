@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.559947,
+              22.157943
+            ],
+            [
+              113.560485,
+              22.158388
+            ],
+            [
+              113.56044,
+              22.15844
+            ],
+            [
+              113.560361,
+              22.158473
+            ],
+            [
+              113.560317,
+              22.158519
+            ],
+            [
+              113.560329,
+              22.15874
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "三家村巷",
+        "namePor": "Travessa da Povoação de Sam Ka"
+      }
+    }
+  ]
+}

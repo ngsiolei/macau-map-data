@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.555802,
+              22.155244
+            ],
+            [
+              113.555922,
+              22.155042
+            ],
+            [
+              113.55609,
+              22.154762
+            ],
+            [
+              113.556405,
+              22.154236
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "黑橋街",
+        "namePor": "Rua da Ponte Negra"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542477,
+              22.201348
+            ],
+            [
+              113.542502,
+              22.201227
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "染布里",
+        "namePor": "Beco dos Tingidores"
+      }
+    }
+  ]
+}

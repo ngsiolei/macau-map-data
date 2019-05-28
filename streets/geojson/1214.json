@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547437,
+              22.210267
+            ],
+            [
+              113.542655,
+              22.210821
+            ],
+            [
+              113.5397,
+              22.21117
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "青洲大馬路 / 青洲新路",
+        "namePor": "Avenida do Conselheiro Borja"
+      }
+    }
+  ]
+}

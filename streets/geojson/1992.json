@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537736,
+              22.203562
+            ],
+            [
+              113.538743,
+              22.203792
+            ],
+            [
+              113.540727,
+              22.204263
+            ],
+            [
+              113.540875,
+              22.204298
+            ],
+            [
+              113.541028,
+              22.204334
+            ],
+            [
+              113.541161,
+              22.204448
+            ],
+            [
+              113.542012,
+              22.204662
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "林茂海邊街",
+        "namePor": "Rua Marginal do Lam Mau"
+      }
+    }
+  ]
+}

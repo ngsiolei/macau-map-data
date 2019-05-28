@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547732,
+              22.214234
+            ],
+            [
+              113.54885,
+              22.21407
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "華大新村第三街",
+        "namePor": "Rua Três do Bairro Vá Tai"
+      }
+    }
+  ]
+}

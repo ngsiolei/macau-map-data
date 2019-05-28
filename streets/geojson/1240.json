@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541421,
+              22.196061
+            ],
+            [
+              113.541552,
+              22.195784
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蔡記里",
+        "namePor": "Beco do Craveiro"
+      }
+    }
+  ]
+}

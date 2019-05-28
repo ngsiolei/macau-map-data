@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.533622,
+              22.190312
+            ],
+            [
+              113.533527,
+              22.190145
+            ],
+            [
+              113.533666,
+              22.190121
+            ],
+            [
+              113.533877,
+              22.190078
+            ],
+            [
+              113.534605,
+              22.190019
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "帶水圍",
+        "namePor": "Pátio do Piloto"
+      }
+    }
+  ]
+}

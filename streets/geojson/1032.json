@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551862,
+              22.207202
+            ],
+            [
+              113.552739,
+              22.208111
+            ],
+            [
+              113.552795,
+              22.208187
+            ],
+            [
+              113.552816,
+              22.20833
+            ],
+            [
+              113.552865,
+              22.209229
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "高利亞海軍上將大馬路",
+        "namePor": "Avenida do Almirante Magalhães Correia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54521,
+              22.212698
+            ],
+            [
+              113.546897,
+              22.213369
+            ],
+            [
+              113.546903,
+              22.213537
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "台山新城市第二街",
+        "namePor": "Rua Dois da Cidade Nova de T'oi Sán"
+      }
+    }
+  ]
+}

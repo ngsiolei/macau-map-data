@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.575636,
+              22.138701
+            ],
+            [
+              113.575774,
+              22.13851
+            ]
+          ],
+          [
+            [
+              113.575813,
+              22.138923
+            ],
+            [
+              113.575992,
+              22.138874
+            ],
+            [
+              113.576592,
+              22.138022
+            ],
+            [
+              113.576649,
+              22.137981
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "路環電廠街",
+        "namePor": "Rua da Central Térmica de Coloane"
+      }
+    }
+  ]
+}

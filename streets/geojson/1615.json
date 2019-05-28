@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542948,
+              22.195602
+            ],
+            [
+              113.542825,
+              22.195543
+            ],
+            [
+              113.542637,
+              22.195498
+            ],
+            [
+              113.542599,
+              22.195512
+            ],
+            [
+              113.542393,
+              22.195497
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "連安圍",
+        "namePor": "Pátio da Pomba"
+      }
+    }
+  ]
+}

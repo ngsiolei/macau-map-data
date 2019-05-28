@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540238,
+              22.192916
+            ],
+            [
+              113.540558,
+              22.193171
+            ],
+            [
+              113.541104,
+              22.193513
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大堂街",
+        "namePor": "Rua da Sé"
+      }
+    }
+  ]
+}

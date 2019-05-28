@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540873,
+              22.190208
+            ],
+            [
+              113.541199,
+              22.190505
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "南灣中巷",
+        "namePor": "Travessa Central da Praia Grande"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54324,
+              22.200167
+            ],
+            [
+              113.544415,
+              22.200735
+            ],
+            [
+              113.545048,
+              22.202507
+            ],
+            [
+              113.544838,
+              22.2031
+            ],
+            [
+              113.545481,
+              22.204287
+            ],
+            [
+              113.547196,
+              22.206305
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "連勝馬路",
+        "namePor": "Estrada de Coelho do Amaral"
+      }
+    }
+  ]
+}

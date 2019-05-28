@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539874,
+              22.194987
+            ],
+            [
+              113.540321,
+              22.194522
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "米糙巷",
+        "namePor": "Travessa do Soriano"
+      }
+    }
+  ]
+}

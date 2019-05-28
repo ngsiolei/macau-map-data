@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.55261,
+              22.116466
+            ],
+            [
+              113.552242,
+              22.116162
+            ],
+            [
+              113.552108,
+              22.116038
+            ],
+            [
+              113.551668,
+              22.115668
+            ],
+            [
+              113.551366,
+              22.115203
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "民國馬路",
+        "namePor": "Avenida da República"
+      }
+    }
+  ]
+}

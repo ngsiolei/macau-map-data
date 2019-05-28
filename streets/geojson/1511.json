@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537418,
+              22.200035
+            ],
+            [
+              113.538232,
+              22.200199
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "叢慶北街",
+        "namePor": "Rua Norte"
+      }
+    }
+  ]
+}

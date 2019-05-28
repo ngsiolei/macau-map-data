@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539539,
+              22.194066
+            ],
+            [
+              113.540211,
+              22.194637
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "公局新市東街",
+        "namePor": "Rua Leste do Mercado de S. Domingos"
+      }
+    }
+  ]
+}

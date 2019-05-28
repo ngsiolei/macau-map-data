@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537443,
+              22.197821
+            ],
+            [
+              113.537845,
+              22.197842
+            ],
+            [
+              113.538361,
+              22.198004
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "皇子街 / 泗𠵼碼頭 ",
+        "namePor": "Rua do Infante"
+      }
+    }
+  ]
+}

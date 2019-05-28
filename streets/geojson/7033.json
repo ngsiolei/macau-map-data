@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551147,
+              22.117098
+            ],
+            [
+              113.551183,
+              22.117214
+            ],
+            [
+              113.551196,
+              22.11739
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "廉慕士街",
+        "namePor": "Rua Correia Lemos"
+      }
+    }
+  ]
+}

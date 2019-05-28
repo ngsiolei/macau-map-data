@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535198,
+              22.18839
+            ],
+            [
+              113.535442,
+              22.188167
+            ],
+            [
+              113.535755,
+              22.187807
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "亞婆井街",
+        "namePor": "Rua do Lilau"
+      }
+    }
+  ]
+}

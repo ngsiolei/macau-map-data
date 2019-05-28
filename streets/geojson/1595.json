@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.531452,
+              22.187161
+            ],
+            [
+              113.531723,
+              22.187538
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鹹魚里 / 鹹魚圍",
+        "namePor": "Beco do Peixe Salgado"
+      }
+    }
+  ]
+}

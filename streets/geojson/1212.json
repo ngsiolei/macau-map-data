@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544676,
+              22.208375
+            ],
+            [
+              113.544056,
+              22.210345
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "和樂街",
+        "namePor": "Rua da Concórdia"
+      }
+    }
+  ]
+}

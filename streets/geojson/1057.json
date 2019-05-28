@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53432,
+              22.190587
+            ],
+            [
+              113.534899,
+              22.191617
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "貨倉街",
+        "namePor": "Rua dos Armazéns"
+      }
+    }
+  ]
+}

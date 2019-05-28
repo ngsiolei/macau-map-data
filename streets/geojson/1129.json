@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535074,
+              22.193207
+            ],
+            [
+              113.535521,
+              22.192969
+            ],
+            [
+              113.535566,
+              22.192897
+            ],
+            [
+              113.535551,
+              22.192886
+            ],
+            [
+              113.535849,
+              22.192274
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "水字巷",
+        "namePor": "Travessa do Cais"
+      }
+    }
+  ]
+}

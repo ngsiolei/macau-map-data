@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537879,
+              22.19704
+            ],
+            [
+              113.537486,
+              22.197172
+            ],
+            [
+              113.537488,
+              22.197108
+            ],
+            [
+              113.537861,
+              22.196983
+            ],
+            [
+              113.537879,
+              22.19704
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "康公廟前地",
+        "namePor": "Largo do Pagode do Bazar"
+      }
+    }
+  ]
+}

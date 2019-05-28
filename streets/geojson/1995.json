@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.533065,
+              22.187265
+            ],
+            [
+              113.534116,
+              22.187582
+            ],
+            [
+              113.534843,
+              22.187584
+            ],
+            [
+              113.534997,
+              22.187457
+            ],
+            [
+              113.534982,
+              22.187362
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "西望洋巷",
+        "namePor": "Travessa da Penha"
+      }
+    }
+  ]
+}

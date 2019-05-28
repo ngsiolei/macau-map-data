@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536584,
+              22.195198
+            ],
+            [
+              113.537066,
+              22.195472
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "暗圍",
+        "namePor": "Pátio da Dissimulação"
+      }
+    }
+  ]
+}

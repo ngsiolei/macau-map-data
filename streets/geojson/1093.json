@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.534075,
+              22.188032
+            ],
+            [
+              113.533757,
+              22.187944
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "媽閣台",
+        "namePor": "Pátio da Barra"
+      }
+    }
+  ]
+}

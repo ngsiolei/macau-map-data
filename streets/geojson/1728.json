@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549522,
+              22.209227
+            ],
+            [
+              113.549644,
+              22.209538
+            ],
+            [
+              113.549451,
+              22.209608
+            ],
+            [
+              113.549573,
+              22.209918
+            ],
+            [
+              113.549767,
+              22.209852
+            ],
+            [
+              113.54991,
+              22.210217
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "黑沙環第七街",
+        "namePor": "Rua Sete do Bairro da Areia Preta"
+      }
+    }
+  ]
+}

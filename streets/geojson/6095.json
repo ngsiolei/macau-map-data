@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.555157,
+              22.152705
+            ],
+            [
+              113.555382,
+              22.152205
+            ],
+            [
+              113.555062,
+              22.152071
+            ],
+            [
+              113.555046,
+              22.152297
+            ],
+            [
+              113.555118,
+              22.152629
+            ],
+            [
+              113.555157,
+              22.152705
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "巴波沙總督前地",
+        "namePor": "Largo Governador Tamagnini Barbosa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.531523,
+              22.185196
+            ],
+            [
+              113.531743,
+              22.1853
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "船錨里 / 船錨巷",
+        "namePor": "Beco da Âncora "
+      }
+    }
+  ]
+}

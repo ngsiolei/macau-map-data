@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.533634,
+              22.189762
+            ],
+            [
+              113.533332,
+              22.189855
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "下環舊巷",
+        "namePor": "Travessa dos Juncos"
+      }
+    }
+  ]
+}

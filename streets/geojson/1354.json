@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54488,
+              22.200903
+            ],
+            [
+              113.545028,
+              22.200849
+            ],
+            [
+              113.545146,
+              22.200799
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "俾利喇巷",
+        "namePor": "Travessa de Francisco Xavier Pereira"
+      }
+    }
+  ]
+}

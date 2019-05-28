@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.534967,
+              22.190964
+            ],
+            [
+              113.534625,
+              22.19112
+            ],
+            [
+              113.534046,
+              22.191425
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "李加祿街",
+        "namePor": "Rua de João Lecaros"
+      }
+    }
+  ]
+}

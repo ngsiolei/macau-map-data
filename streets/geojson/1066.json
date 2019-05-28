@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.531547,
+              22.185414
+            ],
+            [
+              113.531475,
+              22.185553
+            ],
+            [
+              113.531519,
+              22.185574
+            ],
+            [
+              113.531435,
+              22.185715
+            ],
+            [
+              113.531292,
+              22.185657
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "樹木巷",
+        "namePor": "Travessa da Árvore"
+      }
+    }
+  ]
+}

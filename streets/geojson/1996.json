@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551255,
+              22.194878
+            ],
+            [
+              113.552539,
+              22.194053
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "理工學院街",
+        "namePor": "Rua do Instituto Politécnico"
+      }
+    }
+  ]
+}

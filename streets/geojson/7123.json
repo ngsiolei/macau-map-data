@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551695,
+              22.125244
+            ],
+            [
+              113.553237,
+              22.125249
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蒲桃街",
+        "namePor": "Rua dos Jamboleiros"
+      }
+    }
+  ]
+}

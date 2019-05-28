@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537538,
+              22.193446
+            ],
+            [
+              113.537379,
+              22.193288
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "高地里 / 高地圍",
+        "namePor": "Beco da Alfândega"
+      }
+    }
+  ]
+}

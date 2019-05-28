@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544909,
+              22.204793
+            ],
+            [
+              113.545418,
+              22.205369
+            ],
+            [
+              113.546667,
+              22.206739
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "羅若翰神父街",
+        "namePor": "Rua do Padre João Clímaco"
+      }
+    }
+  ]
+}

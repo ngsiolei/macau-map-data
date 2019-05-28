@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.558744,
+              22.12997
+            ],
+            [
+              113.555028,
+              22.129108
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "榕樹街",
+        "namePor": "Rua das Árvores do Pagode"
+      }
+    }
+  ]
+}

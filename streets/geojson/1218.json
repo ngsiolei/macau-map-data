@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549651,
+              22.201929
+            ],
+            [
+              113.549969,
+              22.201735
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "肥利喇亞美打巷",
+        "namePor": "Travessa do Conselheiro Ferreira de Almeida"
+      }
+    }
+  ]
+}

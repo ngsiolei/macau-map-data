@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.570438,
+              22.162057
+            ],
+            [
+              113.570834,
+              22.163482
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "和睦街",
+        "namePor": "Rua Wo Mok"
+      }
+    }
+  ]
+}

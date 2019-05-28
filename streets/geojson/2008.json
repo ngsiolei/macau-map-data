@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53501,
+              22.211333
+            ],
+            [
+              113.53564,
+              22.209716
+            ],
+            [
+              113.536119,
+              22.208473
+            ],
+            [
+              113.535673,
+              22.208314
+            ],
+            [
+              113.535778,
+              22.208049
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "工業園新街",
+        "namePor": "Rua Nova do Parque Industrial"
+      }
+    }
+  ]
+}

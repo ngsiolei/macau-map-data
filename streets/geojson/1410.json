@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543362,
+              22.191779
+            ],
+            [
+              113.543102,
+              22.192017
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "賈那韶巷",
+        "namePor": "Travessa de Inácio Sarmento de Carvalho"
+      }
+    }
+  ]
+}

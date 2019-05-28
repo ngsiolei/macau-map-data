@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.55188,
+              22.116779
+            ],
+            [
+              113.55176,
+              22.116593
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蟻巷",
+        "namePor": "Travessa da Formiga"
+      }
+    }
+  ]
+}

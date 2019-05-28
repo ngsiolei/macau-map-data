@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550784,
+              22.203373
+            ],
+            [
+              113.550992,
+              22.203644
+            ],
+            [
+              113.551752,
+              22.20302
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "虔信街",
+        "namePor": "Rua da Piedade"
+      }
+    }
+  ]
+}

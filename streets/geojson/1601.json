@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535051,
+              22.187707
+            ],
+            [
+              113.535407,
+              22.187407
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "西望洋圍 / 三間里",
+        "namePor": "Pátio da Penha"
+      }
+    }
+  ]
+}

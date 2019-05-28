@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.530402,
+              22.184037
+            ],
+            [
+              113.5308,
+              22.183797
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "火水巷",
+        "namePor": "Travessa do Petróleo"
+      }
+    }
+  ]
+}

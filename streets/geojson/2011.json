@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.534285,
+              22.209823
+            ],
+            [
+              113.535448,
+              22.210207
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "工業園北街",
+        "namePor": "Rua Norte do Parque Industrial"
+      }
+    }
+  ]
+}

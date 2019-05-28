@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535055,
+              22.190798
+            ],
+            [
+              113.535207,
+              22.190829
+            ],
+            [
+              113.535218,
+              22.190837
+            ],
+            [
+              113.535369,
+              22.190871
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "聖祿杞里 / 打鐵圍",
+        "namePor": "Beco de S. Roque"
+      }
+    }
+  ]
+}

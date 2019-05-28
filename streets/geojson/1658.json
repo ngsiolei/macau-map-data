@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538995,
+              22.201964
+            ],
+            [
+              113.539089,
+              22.201588
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鳩里",
+        "namePor": "Beco das Rolas"
+      }
+    }
+  ]
+}

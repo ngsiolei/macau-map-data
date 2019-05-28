@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543161,
+              22.195389
+            ],
+            [
+              113.543659,
+              22.195514
+            ],
+            [
+              113.543826,
+              22.19556
+            ],
+            [
+              113.543907,
+              22.195607
+            ],
+            [
+              113.543989,
+              22.195691
+            ],
+            [
+              113.544187,
+              22.195941
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "醫院後街",
+        "namePor": "Rua do Pato"
+      }
+    }
+  ]
+}

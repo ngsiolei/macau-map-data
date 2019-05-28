@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.548708,
+              22.195677
+            ],
+            [
+              113.548568,
+              22.195313
+            ],
+            [
+              113.548605,
+              22.194958
+            ],
+            [
+              113.548562,
+              22.19486
+            ],
+            [
+              113.548338,
+              22.194708
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "白頭馬路",
+        "namePor": "Estrada dos Parses"
+      }
+    }
+  ]
+}

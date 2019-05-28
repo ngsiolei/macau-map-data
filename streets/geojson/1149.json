@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537956,
+              22.192674
+            ],
+            [
+              113.538097,
+              22.192756
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "社福圍 / 社福里 / 吉祥里",
+        "namePor": "Pátio da Capoeira"
+      }
+    }
+  ]
+}

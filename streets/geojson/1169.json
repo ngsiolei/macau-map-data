@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539155,
+              22.191633
+            ],
+            [
+              113.539336,
+              22.191863
+            ],
+            [
+              113.539436,
+              22.19197
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "龍嵩台",
+        "namePor": "Pátio Central"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540908,
+              22.196913
+            ],
+            [
+              113.540918,
+              22.196622
+            ],
+            [
+              113.54074,
+              22.196665
+            ],
+            [
+              113.540769,
+              22.196788
+            ],
+            [
+              113.540754,
+              22.196911
+            ],
+            [
+              113.540908,
+              22.196913
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "耶穌會紀念廣場",
+        "namePor": "Largo da Companhia de Jesus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.552903,
+              22.151921
+            ],
+            [
+              113.553613,
+              22.153308
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "學院路",
+        "namePor": "Rua do Colégio"
+      }
+    }
+  ]
+}

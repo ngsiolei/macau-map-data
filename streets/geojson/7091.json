@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551423,
+              22.117094
+            ],
+            [
+              113.551636,
+              22.117046
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "氹仔巷",
+        "namePor": "Travessa da Taipa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536784,
+              22.191498
+            ],
+            [
+              113.536787,
+              22.191377
+            ],
+            [
+              113.536829,
+              22.191131
+            ],
+            [
+              113.536877,
+              22.190974
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "風順堂上街",
+        "namePor": "Rua da Prata"
+      }
+    }
+  ]
+}

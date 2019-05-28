@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.548751,
+              22.164997
+            ],
+            [
+              113.543635,
+              22.187779
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "嘉樂庇總督大橋",
+        "namePor": "Ponte Governador Nobre de Carvalho"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538828,
+              22.194634
+            ],
+            [
+              113.538673,
+              22.194787
+            ],
+            [
+              113.538631,
+              22.194828
+            ],
+            [
+              113.538572,
+              22.194886
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "平線里 / 平線圍",
+        "namePor": "Beco do Paralelo"
+      }
+    }
+  ]
+}

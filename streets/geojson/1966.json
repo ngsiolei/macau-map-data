@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549417,
+              22.192882
+            ],
+            [
+              113.550501,
+              22.193295
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "昆明街",
+        "namePor": "Rua de Kunming"
+      }
+    }
+  ]
+}

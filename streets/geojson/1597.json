@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542027,
+              22.195944
+            ],
+            [
+              113.542034,
+              22.196039
+            ],
+            [
+              113.542035,
+              22.196121
+            ],
+            [
+              113.542349,
+              22.196198
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "連安巷",
+        "namePor": "Travessa do Penedo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540285,
+              22.196394
+            ],
+            [
+              113.540168,
+              22.196672
+            ]
+          ],
+          [
+            [
+              113.540054,
+              22.196611
+            ],
+            [
+              113.540158,
+              22.196387
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "顯榮圍 / 顯榮里",
+        "namePor": "Pátio do Amparo"
+      }
+    }
+  ]
+}

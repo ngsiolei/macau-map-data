@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540904,
+              22.202029
+            ],
+            [
+              113.540902,
+              22.202171
+            ],
+            [
+              113.540982,
+              22.202172
+            ],
+            [
+              113.54101,
+              22.20219
+            ],
+            [
+              113.541048,
+              22.202204
+            ],
+            [
+              113.541091,
+              22.202229
+            ],
+            [
+              113.541141,
+              22.202232
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "造繩巷",
+        "namePor": "Travessa do Cordoeiro"
+      }
+    }
+  ]
+}

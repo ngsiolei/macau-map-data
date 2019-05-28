@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543719,
+              22.202999
+            ],
+            [
+              113.543961,
+              22.202781
+            ],
+            [
+              113.544072,
+              22.202722
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "林德遠巷",
+        "namePor": "Travessa de Lam Tac Un"
+      }
+    }
+  ]
+}

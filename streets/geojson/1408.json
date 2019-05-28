@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536064,
+              22.191028
+            ],
+            [
+              113.536488,
+              22.191202
+            ],
+            [
+              113.536623,
+              22.190914
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "意那韶白的士打巷 / 鵝眉橫街",
+        "namePor": "Travessa de Inácio Baptista"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540826,
+              22.21248
+            ],
+            [
+              113.540932,
+              22.212158
+            ],
+            [
+              113.540985,
+              22.211974
+            ],
+            [
+              113.540972,
+              22.211887
+            ],
+            [
+              113.541235,
+              22.211078
+            ],
+            [
+              113.541266,
+              22.210985
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "化驗所街",
+        "namePor": "Rua do Laboratório"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551927,
+              22.117811
+            ],
+            [
+              113.552654,
+              22.116839
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "打纜街",
+        "namePor": "Rua da Cordoaria"
+      }
+    }
+  ]
+}

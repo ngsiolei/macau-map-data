@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.533385,
+              22.189326
+            ],
+            [
+              113.53328,
+              22.189247
+            ],
+            [
+              113.533469,
+              22.188761
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "雄發圍",
+        "namePor": "Pátio de Hong Fat"
+      }
+    }
+  ]
+}

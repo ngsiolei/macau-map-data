@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551179,
+              22.117201
+            ],
+            [
+              113.551351,
+              22.117193
+            ],
+            [
+              113.551407,
+              22.11719
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "公侯巷",
+        "namePor": "Travessa do Conde"
+      }
+    }
+  ]
+}

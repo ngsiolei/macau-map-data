@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.567711,
+              22.163471
+            ],
+            [
+              113.567908,
+              22.164184
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "永勝街",
+        "namePor": "Rua da Vitória"
+      }
+    }
+  ]
+}

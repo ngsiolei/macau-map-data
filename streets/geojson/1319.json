@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54876,
+              22.20835
+            ],
+            [
+              113.549617,
+              22.208577
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "製造廠巷",
+        "namePor": "Travessa da Fábrica"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540689,
+              22.189438
+            ],
+            [
+              113.541541,
+              22.188987
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "南灣湖圍",
+        "namePor": "Pátio do Lago da Praia Grande"
+      }
+    }
+  ]
+}

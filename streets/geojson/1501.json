@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54076,
+              22.195168
+            ],
+            [
+              113.541383,
+              22.195654
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大炮台街",
+        "namePor": "Rua do Monte"
+      }
+    }
+  ]
+}

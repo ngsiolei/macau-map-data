@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.555564,
+              22.196396
+            ],
+            [
+              113.554827,
+              22.195414
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "友誼巷",
+        "namePor": "Travessa da Amizade"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543958,
+              22.202101
+            ],
+            [
+              113.543052,
+              22.201523
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "意那素俾蘇亞街 / 蘇亞街",
+        "namePor": "Rua de Inácio Pessoa"
+      }
+    }
+  ]
+}

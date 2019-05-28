@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.553705,
+              22.209116
+            ],
+            [
+              113.55731,
+              22.212881
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "勞動節街",
+        "namePor": "Rua 1º de Maio"
+      }
+    }
+  ]
+}

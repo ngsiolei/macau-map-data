@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540291,
+              22.197467
+            ],
+            [
+              113.540189,
+              22.197612
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "棕櫚葉圍 / 敦善里",
+        "namePor": "Pátio das Palmas"
+      }
+    }
+  ]
+}

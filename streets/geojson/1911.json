@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537171,
+              22.188917
+            ],
+            [
+              113.53709,
+              22.188772
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "山水園圍",
+        "namePor": "Beco do Bom Jesus"
+      }
+    }
+  ]
+}

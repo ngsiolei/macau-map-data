@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544905,
+              22.209151
+            ],
+            [
+              113.543425,
+              22.208753
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "白朗古將軍街",
+        "namePor": "Rua do General Castelo Branco"
+      }
+    }
+  ]
+}

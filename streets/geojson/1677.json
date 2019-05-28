@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536065,
+              22.191892
+            ],
+            [
+              113.536394,
+              22.191561
+            ],
+            [
+              113.536784,
+              22.191498
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "三巴仔街",
+        "namePor": "Rua de S. José"
+      }
+    }
+  ]
+}

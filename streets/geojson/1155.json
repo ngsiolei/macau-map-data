@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537857,
+              22.20048
+            ],
+            [
+              113.53786,
+              22.200455
+            ],
+            [
+              113.53788,
+              22.200291
+            ],
+            [
+              113.537894,
+              22.200177
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "木匠圍 / 木匠巷",
+        "namePor": "Pátio do Carpinteiro"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547478,
+              22.21086
+            ],
+            [
+              113.548306,
+              22.210801
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "台山新街",
+        "namePor": "Rua Nova de T'oi Sán"
+      }
+    }
+  ]
+}

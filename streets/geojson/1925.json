@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.55291,
+              22.191697
+            ],
+            [
+              113.554669,
+              22.187811
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "冼星海大馬路",
+        "namePor": "Avenida Xian Xing Hai"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537276,
+              22.201762
+            ],
+            [
+              113.537733,
+              22.201662
+            ],
+            [
+              113.53818,
+              22.201556
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "魚鱗巷",
+        "namePor": "Travessa da Escama"
+      }
+    }
+  ]
+}

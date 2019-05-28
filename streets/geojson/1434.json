@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54821,
+              22.199991
+            ],
+            [
+              113.54885,
+              22.199567
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "飛良韶街",
+        "namePor": "Rua de Leôncio Ferreira"
+      }
+    }
+  ]
+}

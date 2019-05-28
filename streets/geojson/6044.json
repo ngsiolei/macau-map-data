@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.55668,
+              22.153461
+            ],
+            [
+              113.556718,
+              22.153319
+            ],
+            [
+              113.556846,
+              22.153345
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "仙女巷",
+        "namePor": "Travessa das Bruxas"
+      }
+    }
+  ]
+}

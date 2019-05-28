@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.552331,
+              22.11708
+            ],
+            [
+              113.552094,
+              22.116933
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "郵電巷",
+        "namePor": "Travessa dos Correios"
+      }
+    }
+  ]
+}

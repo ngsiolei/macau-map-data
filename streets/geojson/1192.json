@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546174,
+              22.207143
+            ],
+            [
+              113.545908,
+              22.206426
+            ],
+            [
+              113.545902,
+              22.206413
+            ],
+            [
+              113.545892,
+              22.206385
+            ],
+            [
+              113.545886,
+              22.206369
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "連勝巷",
+        "namePor": "Travessa de Coelho do Amaral"
+      }
+    }
+  ]
+}

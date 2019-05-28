@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539538,
+              22.194692
+            ],
+            [
+              113.54016,
+              22.194057
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "公局新市北街",
+        "namePor": "Rua Norte do Mercado de S. Domingos"
+      }
+    }
+  ]
+}

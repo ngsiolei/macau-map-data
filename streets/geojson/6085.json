@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.557897,
+              22.153431
+            ],
+            [
+              113.55796,
+              22.15332
+            ],
+            [
+              113.557618,
+              22.153026
+            ],
+            [
+              113.557303,
+              22.152917
+            ],
+            [
+              113.557214,
+              22.152866
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "兵房斜巷",
+        "namePor": "Calçada do Quartel"
+      }
+    }
+  ]
+}

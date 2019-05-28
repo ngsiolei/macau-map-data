@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537312,
+              22.19
+            ],
+            [
+              113.537437,
+              22.190131
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "卑第圍",
+        "namePor": "Pátio do Padre Narciso"
+      }
+    }
+  ]
+}

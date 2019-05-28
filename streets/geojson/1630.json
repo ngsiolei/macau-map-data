@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535884,
+              22.19222
+            ],
+            [
+              113.536273,
+              22.19239
+            ],
+            [
+              113.536511,
+              22.192504
+            ],
+            [
+              113.536622,
+              22.192593
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "三層樓街",
+        "namePor": "Rua da Prainha"
+      }
+    }
+  ]
+}

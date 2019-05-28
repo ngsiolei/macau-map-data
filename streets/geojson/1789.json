@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549742,
+              22.212604
+            ],
+            [
+              113.54936,
+              22.21014
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "祐漢新村第一街",
+        "namePor": "Rua Um do Bairro Iao Hon"
+      }
+    }
+  ]
+}

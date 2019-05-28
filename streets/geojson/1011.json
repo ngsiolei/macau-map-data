@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545714,
+              22.199115
+            ],
+            [
+              113.54559,
+              22.199203
+            ],
+            [
+              113.545558,
+              22.199224
+            ],
+            [
+              113.545605,
+              22.199273
+            ],
+            [
+              113.545676,
+              22.199345
+            ],
+            [
+              113.545731,
+              22.199402
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "亞豐素雅布基圍 / 亞豐素圍",
+        "namePor": "Pátio de Afonso de Albuquerque"
+      }
+    }
+  ]
+}

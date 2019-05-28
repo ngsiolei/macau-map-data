@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.55071,
+              22.115507
+            ],
+            [
+              113.551058,
+              22.115395
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "船鋪巷",
+        "namePor": "Travessa do Estaleiro"
+      }
+    }
+  ]
+}

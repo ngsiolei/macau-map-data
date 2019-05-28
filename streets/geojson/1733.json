@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.548907,
+              22.199576
+            ],
+            [
+              113.549156,
+              22.199876
+            ],
+            [
+              113.549198,
+              22.199926
+            ],
+            [
+              113.549285,
+              22.20003
+            ],
+            [
+              113.551009,
+              22.202112
+            ],
+            [
+              113.55149,
+              22.202699
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "文第士街",
+        "namePor": "Rua de Silva Mendes"
+      }
+    }
+  ]
+}

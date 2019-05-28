@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542876,
+              22.194289
+            ],
+            [
+              113.542842,
+              22.194596
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "龍安圍",
+        "namePor": "Pátio da Lenha"
+      }
+    }
+  ]
+}

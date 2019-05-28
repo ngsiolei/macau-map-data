@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538299,
+              22.199909
+            ],
+            [
+              113.538209,
+              22.2003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "叢慶三巷",
+        "namePor": "Travessa Terceira do Pátio do Jardim"
+      }
+    }
+  ]
+}

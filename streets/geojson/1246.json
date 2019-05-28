@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546446,
+              22.215694
+            ],
+            [
+              113.546523,
+              22.215085
+            ],
+            [
+              113.546521,
+              22.214502
+            ],
+            [
+              113.54647,
+              22.213562
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "牧場街",
+        "namePor": "Rua dos Currais"
+      }
+    }
+  ]
+}

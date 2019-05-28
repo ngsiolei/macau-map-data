@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539466,
+              22.202076
+            ],
+            [
+              113.539516,
+              22.20178
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "羔羊圍 / 永安圍",
+        "namePor": "Pátio do Cordeiro"
+      }
+    }
+  ]
+}

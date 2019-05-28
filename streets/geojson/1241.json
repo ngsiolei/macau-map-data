@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538332,
+              22.195945
+            ],
+            [
+              113.538353,
+              22.195942
+            ],
+            [
+              113.538796,
+              22.195686
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "丁香圍 / 中和里",
+        "namePor": "Pátio do Cravo"
+      }
+    }
+  ]
+}

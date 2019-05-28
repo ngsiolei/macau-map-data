@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.559141,
+              22.205777
+            ],
+            [
+              113.55941,
+              22.205195
+            ],
+            [
+              113.5595,
+              22.204676
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "馬交石巷",
+        "namePor": "Travessa de Má Káu Séak"
+      }
+    }
+  ]
+}

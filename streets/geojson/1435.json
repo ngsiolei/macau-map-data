@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535639,
+              22.19235
+            ],
+            [
+              113.535389,
+              22.192264
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "何智英東圍",
+        "namePor": "Pátio Leste de Hó Chi Ieng"
+      }
+    }
+  ]
+}

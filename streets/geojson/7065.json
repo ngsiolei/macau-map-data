@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551196,
+              22.11739
+            ],
+            [
+              113.5514,
+              22.117398
+            ],
+            [
+              113.5514,
+              22.117414
+            ],
+            [
+              113.551502,
+              22.117417
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "音調巷",
+        "namePor": "Travessa das Trinas"
+      }
+    }
+  ]
+}

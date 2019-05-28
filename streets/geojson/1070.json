@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.533109,
+              22.188969
+            ],
+            [
+              113.532675,
+              22.18888
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "阿宋生圍",
+        "namePor": "Pátio da Assunção"
+      }
+    }
+  ]
+}

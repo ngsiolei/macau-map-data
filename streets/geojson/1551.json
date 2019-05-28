@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538438,
+              22.196702
+            ],
+            [
+              113.538257,
+              22.196535
+            ],
+            [
+              113.538198,
+              22.196478
+            ],
+            [
+              113.538155,
+              22.196436
+            ],
+            [
+              113.537775,
+              22.196072
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "寶塔巷 / 木橋橫街",
+        "namePor": "Travessa do Pagode"
+      }
+    }
+  ]
+}

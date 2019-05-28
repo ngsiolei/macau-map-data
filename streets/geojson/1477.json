@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537496,
+              22.194726
+            ],
+            [
+              113.537662,
+              22.194787
+            ],
+            [
+              113.538088,
+              22.194969
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "爐石塘巷",
+        "namePor": "Travessa do Mastro"
+      }
+    }
+  ]
+}

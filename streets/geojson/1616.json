@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541489,
+              22.202202
+            ],
+            [
+              113.541531,
+              22.201835
+            ],
+            [
+              113.541622,
+              22.201775
+            ],
+            [
+              113.5417,
+              22.201706
+            ],
+            [
+              113.541731,
+              22.201668
+            ],
+            [
+              113.54176,
+              22.201597
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "橋巷",
+        "namePor": "Travessa da Ponte"
+      }
+    }
+  ]
+}

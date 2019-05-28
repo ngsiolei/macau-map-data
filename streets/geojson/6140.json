@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.555645,
+              22.161736
+            ],
+            [
+              113.554847,
+              22.161079
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "杭州街",
+        "namePor": "Rua de Hong Chau"
+      }
+    }
+  ]
+}

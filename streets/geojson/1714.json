@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54046,
+              22.193092
+            ],
+            [
+              113.540662,
+              22.192794
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大堂里",
+        "namePor": "Beco da Sé"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538042,
+              22.198844
+            ],
+            [
+              113.538361,
+              22.198004
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "快艇頭街 / 米街",
+        "namePor": "Rua dos Faitiões"
+      }
+    }
+  ]
+}

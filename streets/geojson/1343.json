@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541156,
+              22.202048
+            ],
+            [
+              113.541141,
+              22.202236
+            ],
+            [
+              113.541111,
+              22.202442
+            ],
+            [
+              113.541281,
+              22.202467
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "金龍巷",
+        "namePor": "Travessa do Fogo"
+      }
+    }
+  ]
+}

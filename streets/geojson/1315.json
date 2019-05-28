@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547257,
+              22.201192
+            ],
+            [
+              113.547547,
+              22.200892
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "永聯台",
+        "namePor": "Pátio da Eterna União"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.555037,
+              22.152049
+            ],
+            [
+              113.555945,
+              22.152434
+            ],
+            [
+              113.556178,
+              22.152536
+            ],
+            [
+              113.556657,
+              22.152774
+            ],
+            [
+              113.557277,
+              22.153103
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "告利雅施利華街",
+        "namePor": "Rua Correia da Silva"
+      }
+    }
+  ]
+}

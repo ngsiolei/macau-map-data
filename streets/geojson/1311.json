@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547419,
+              22.205173
+            ],
+            [
+              113.547642,
+              22.205403
+            ],
+            [
+              113.547699,
+              22.205488
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "草蓆巷",
+        "namePor": "Travessa da Esteira"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542107,
+              22.195226
+            ],
+            [
+              113.542386,
+              22.195139
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "永安圍",
+        "namePor": "Pátio da Canja"
+      }
+    }
+  ]
+}

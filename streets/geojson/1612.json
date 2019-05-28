@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543958,
+              22.196056
+            ],
+            [
+              113.544348,
+              22.195872
+            ],
+            [
+              113.544808,
+              22.195654
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "水井斜巷 / 細井巷",
+        "namePor": "Calçada do Poço"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546473,
+              22.134693
+            ],
+            [
+              113.546472,
+              22.132879
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "明德大馬路",
+        "namePor": "Avenida das Virtudes"
+      }
+    }
+  ]
+}

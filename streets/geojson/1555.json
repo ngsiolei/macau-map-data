@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539616,
+              22.202667
+            ],
+            [
+              113.53987,
+              22.202719
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "土地廟里",
+        "namePor": "Beco do Pagode do Patane"
+      }
+    }
+  ]
+}

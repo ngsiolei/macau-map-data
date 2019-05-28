@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536069,
+              22.193159
+            ],
+            [
+              113.535958,
+              22.193009
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "托兒所巷",
+        "namePor": "Travessa de Creche"
+      }
+    }
+  ]
+}

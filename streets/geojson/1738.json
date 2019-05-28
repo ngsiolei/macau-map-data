@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539914,
+              22.197704
+            ],
+            [
+              113.540191,
+              22.197393
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "日頭圍 / 日頭里 / 大三巴太陽里",
+        "namePor": "Pátio do Sol"
+      }
+    }
+  ]
+}

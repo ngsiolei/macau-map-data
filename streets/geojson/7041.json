@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551364,
+              22.116329
+            ],
+            [
+              113.551626,
+              22.116204
+            ],
+            [
+              113.551573,
+              22.116123
+            ],
+            [
+              113.551315,
+              22.11624
+            ],
+            [
+              113.551364,
+              22.116329
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "水泉公地",
+        "namePor": "Largo da Fonte"
+      }
+    }
+  ]
+}

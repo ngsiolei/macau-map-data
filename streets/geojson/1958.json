@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547786,
+              22.205816
+            ],
+            [
+              113.54804,
+              22.206132
+            ],
+            [
+              113.548098,
+              22.20616
+            ],
+            [
+              113.548152,
+              22.206145
+            ],
+            [
+              113.548492,
+              22.205861
+            ],
+            [
+              113.548605,
+              22.205802
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "望廈街",
+        "namePor": "Rua de Mong Há"
+      }
+    }
+  ]
+}

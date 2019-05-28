@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537892,
+              22.191413
+            ],
+            [
+              113.537919,
+              22.191375
+            ],
+            [
+              113.537934,
+              22.191379
+            ],
+            [
+              113.538032,
+              22.191255
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "戲院里",
+        "namePor": "Beco do Teatro"
+      }
+    }
+  ]
+}

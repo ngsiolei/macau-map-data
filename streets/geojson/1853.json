@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546517,
+              22.214421
+            ],
+            [
+              113.545452,
+              22.214479
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "牧場巷",
+        "namePor": "Travessa dos Currais"
+      }
+    }
+  ]
+}

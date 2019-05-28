@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540956,
+              22.194138
+            ],
+            [
+              113.540844,
+              22.19406
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大堂新圍",
+        "namePor": "Pátio do Poeta"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538094,
+              22.198707
+            ],
+            [
+              113.537607,
+              22.198573
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蛋巷 / 永安上街",
+        "namePor": "Travessa dos Ovos"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537614,
+              22.195876
+            ],
+            [
+              113.53792,
+              22.195498
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "打纜圍",
+        "namePor": "Pátio da Cordoaria"
+      }
+    }
+  ]
+}

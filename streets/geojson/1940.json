@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550133,
+              22.208807
+            ],
+            [
+              113.55083,
+              22.208569
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "黑沙環新巷",
+        "namePor": "Travessa Nova da Areia Preta"
+      }
+    }
+  ]
+}

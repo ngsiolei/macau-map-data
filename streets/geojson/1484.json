@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539509,
+              22.197092
+            ],
+            [
+              113.539215,
+              22.196875
+            ],
+            [
+              113.539073,
+              22.196962
+            ],
+            [
+              113.539002,
+              22.197
+            ],
+            [
+              113.538897,
+              22.196818
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "西瓜里 / 果欄橫街",
+        "namePor": "Beco da Melancia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549522,
+              22.209227
+            ],
+            [
+              113.550917,
+              22.208748
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "黑沙環第一街",
+        "namePor": "Rua Um do Bairro da Areia Preta"
+      }
+    }
+  ]
+}

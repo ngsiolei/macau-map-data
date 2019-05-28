@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.56941,
+              22.162304
+            ],
+            [
+              113.569805,
+              22.163729
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "興隆街",
+        "namePor": "Rua Heng Long"
+      }
+    }
+  ]
+}

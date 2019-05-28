@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551696,
+              22.128296
+            ],
+            [
+              113.554677,
+              22.129012
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "樟樹街",
+        "namePor": "Rua das Canforeiras"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545688,
+              22.211416
+            ],
+            [
+              113.545627,
+              22.210477
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蘇沙醫生街",
+        "namePor": "Rua do Dr. Ricardo de Sousa"
+      }
+    }
+  ]
+}

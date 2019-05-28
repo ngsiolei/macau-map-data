@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550626,
+              22.2117
+            ],
+            [
+              113.550744,
+              22.21247
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "祐漢新村第三街",
+        "namePor": "Rua Três do Bairro Iao Hon"
+      }
+    }
+  ]
+}

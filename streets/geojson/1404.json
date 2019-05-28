@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543542,
+              22.197992
+            ],
+            [
+              113.545266,
+              22.196837
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "瘋堂斜巷",
+        "namePor": "Calçada da Igreja de S. Lázaro"
+      }
+    }
+  ]
+}

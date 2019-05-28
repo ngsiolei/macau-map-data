@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544091,
+              22.190909
+            ],
+            [
+              113.543457,
+              22.191528
+            ],
+            [
+              113.543415,
+              22.191551
+            ],
+            [
+              113.543364,
+              22.191532
+            ],
+            [
+              113.542496,
+              22.190759
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "商業學校街",
+        "namePor": "Rua da Escola Comercial"
+      }
+    }
+  ]
+}

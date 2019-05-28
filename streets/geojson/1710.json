@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537122,
+              22.200977
+            ],
+            [
+              113.537495,
+              22.200887
+            ],
+            [
+              113.537986,
+              22.20092
+            ],
+            [
+              113.538192,
+              22.20097
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "仁慕巷",
+        "namePor": "Travessa da Saudade"
+      }
+    }
+  ]
+}

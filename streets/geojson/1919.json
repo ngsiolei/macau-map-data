@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.531315,
+              22.18744
+            ],
+            [
+              113.530678,
+              22.187819
+            ],
+            [
+              113.531409,
+              22.188877
+            ],
+            [
+              113.532008,
+              22.188448
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "航海學校街",
+        "namePor": "Rua da Escola Náutica"
+      }
+    }
+  ]
+}

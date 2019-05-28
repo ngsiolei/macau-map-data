@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543348,
+              22.196809
+            ],
+            [
+              113.543632,
+              22.197133
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "炮兵巷",
+        "namePor": "Travessa dos Artilheiros"
+      }
+    }
+  ]
+}

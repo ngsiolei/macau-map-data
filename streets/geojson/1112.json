@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536706,
+              22.188873
+            ],
+            [
+              113.536981,
+              22.188801
+            ],
+            [
+              113.537011,
+              22.188793
+            ],
+            [
+              113.537035,
+              22.188787
+            ],
+            [
+              113.537131,
+              22.188761
+            ],
+            [
+              113.537545,
+              22.18854
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "高樓斜巷 / 高樓上巷",
+        "namePor": "Calçada do Bom Jesus"
+      }
+    }
+  ]
+}

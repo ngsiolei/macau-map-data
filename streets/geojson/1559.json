@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537536,
+              22.190847
+            ],
+            [
+              113.537888,
+              22.19041
+            ],
+            [
+              113.538092,
+              22.190152
+            ],
+            [
+              113.538431,
+              22.189943
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "擺華巷",
+        "namePor": "Travessa do Paiva"
+      }
+    }
+  ]
+}

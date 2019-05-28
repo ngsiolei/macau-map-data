@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538534,
+              22.198872
+            ],
+            [
+              113.538963,
+              22.198915
+            ],
+            [
+              113.539117,
+              22.198931
+            ],
+            [
+              113.539171,
+              22.198955
+            ],
+            [
+              113.539208,
+              22.198979
+            ],
+            [
+              113.539229,
+              22.198999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "花王堂斜巷 / 沙欄仔斜路",
+        "namePor": "Calçada do Botelho"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536669,
+              22.197596
+            ],
+            [
+              113.537473,
+              22.197457
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "燕主教街",
+        "namePor": "Rua do Bispo Enes"
+      }
+    }
+  ]
+}

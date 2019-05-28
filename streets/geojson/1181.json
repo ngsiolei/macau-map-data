@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551311,
+              22.209749
+            ],
+            [
+              113.550862,
+              22.208607
+            ],
+            [
+              113.550562,
+              22.208254
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "黑沙環第五街",
+        "namePor": "Rua Cinco do Bairro da Areia Preta"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539617,
+              22.196984
+            ],
+            [
+              113.539932,
+              22.196553
+            ],
+            [
+              113.540132,
+              22.196063
+            ],
+            [
+              113.540148,
+              22.195969
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "關前後街",
+        "namePor": "Rua de Nossa Senhora do Amparo"
+      }
+    }
+  ]
+}

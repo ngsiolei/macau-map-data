@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541771,
+              22.199896
+            ],
+            [
+              113.542329,
+              22.200032
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "定安街",
+        "namePor": "Rua da Roseira"
+      }
+    }
+  ]
+}

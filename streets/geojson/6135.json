@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.55237,
+              22.159025
+            ],
+            [
+              113.550947,
+              22.157862
+            ],
+            [
+              113.550416,
+              22.157415
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "沙維斯街",
+        "namePor": "Rua de Chaves"
+      }
+    }
+  ]
+}

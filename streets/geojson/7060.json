@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.55192,
+              22.118717
+            ],
+            [
+              113.551896,
+              22.118144
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "石街",
+        "namePor": "Calçada do Quartel"
+      }
+    }
+  ]
+}

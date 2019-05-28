@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551416,
+              22.116459
+            ],
+            [
+              113.551335,
+              22.116495
+            ],
+            [
+              113.551233,
+              22.116537
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "中巷",
+        "namePor": "Travessa do Meio"
+      }
+    }
+  ]
+}

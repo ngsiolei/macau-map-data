@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544936,
+              22.194029
+            ],
+            [
+              113.545671,
+              22.195086
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "高冠街",
+        "namePor": "Rua da Mitra"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535884,
+              22.19222
+            ],
+            [
+              113.535957,
+              22.192047
+            ],
+            [
+              113.536029,
+              22.191883
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "樂建斜巷",
+        "namePor": "Calçada da Feitoria"
+      }
+    }
+  ]
+}

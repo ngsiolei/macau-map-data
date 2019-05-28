@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54189,
+              22.205047
+            ],
+            [
+              113.542051,
+              22.204538
+            ],
+            [
+              113.542222,
+              22.204386
+            ],
+            [
+              113.542316,
+              22.204282
+            ],
+            [
+              113.542585,
+              22.203982
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "罅些喇海軍上將巷",
+        "namePor": "Travessa do Almirante Lacerda"
+      }
+    }
+  ]
+}

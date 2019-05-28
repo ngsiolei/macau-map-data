@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.553541,
+              22.213129
+            ],
+            [
+              113.553741,
+              22.213176
+            ],
+            [
+              113.553926,
+              22.21322
+            ],
+            [
+              113.554118,
+              22.213265
+            ],
+            [
+              113.554157,
+              22.213043
+            ],
+            [
+              113.553601,
+              22.212915
+            ],
+            [
+              113.553541,
+              22.213129
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "順景廣場",
+        "namePor": "Praceta da Serenidade"
+      }
+    }
+  ]
+}

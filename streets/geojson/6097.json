@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.558908,
+              22.154068
+            ],
+            [
+              113.558741,
+              22.154212
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "風景巷",
+        "namePor": "Travessa da Boa Vista"
+      }
+    }
+  ]
+}

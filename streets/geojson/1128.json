@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.5367,
+              22.191879
+            ],
+            [
+              113.536729,
+              22.192073
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "三巴仔圍",
+        "namePor": "Pátio da Cadeira"
+      }
+    }
+  ]
+}

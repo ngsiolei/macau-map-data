@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538084,
+              22.194976
+            ],
+            [
+              113.53866,
+              22.195439
+            ],
+            [
+              113.538964,
+              22.195848
+            ],
+            [
+              113.539244,
+              22.196245
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "庇山耶街 / 爐石塘",
+        "namePor": "Rua de Camilo Pessanha"
+      }
+    }
+  ]
+}

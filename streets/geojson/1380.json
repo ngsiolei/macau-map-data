@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539471,
+              22.192823
+            ],
+            [
+              113.539602,
+              22.192712
+            ],
+            [
+              113.539858,
+              22.192779
+            ],
+            [
+              113.53991,
+              22.19258
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "江沙路里 / 三角亭圍",
+        "namePor": "Beco do Gonçalo"
+      }
+    }
+  ]
+}

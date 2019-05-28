@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537356,
+              22.196841
+            ],
+            [
+              113.537879,
+              22.196495
+            ],
+            [
+              113.538964,
+              22.195848
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "木橋街",
+        "namePor": "Rua do Pagode"
+      }
+    }
+  ]
+}

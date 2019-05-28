@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545611,
+              22.203301
+            ],
+            [
+              113.546159,
+              22.204009
+            ],
+            [
+              113.546775,
+              22.20479
+            ],
+            [
+              113.547658,
+              22.205927
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "爹利仙拿姑娘街",
+        "namePor": "Rua da Madre Terezina"
+      }
+    }
+  ]
+}

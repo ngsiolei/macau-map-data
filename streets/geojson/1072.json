@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538001,
+              22.193973
+            ],
+            [
+              113.537999,
+              22.193935
+            ],
+            [
+              113.538032,
+              22.193856
+            ],
+            [
+              113.538011,
+              22.193847
+            ],
+            [
+              113.538069,
+              22.193734
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "填地圍 / 福壽里",
+        "namePor": "Pátio do Aterro"
+      }
+    }
+  ]
+}

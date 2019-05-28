@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549291,
+              22.211876
+            ],
+            [
+              113.549408,
+              22.212648
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "祐漢新村第九街",
+        "namePor": "Rua Nove do Bairro Iao Hon"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543722,
+              22.195531
+            ],
+            [
+              113.544418,
+              22.195097
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鴨巷 / 醫院橫街",
+        "namePor": "Travessa do Pato"
+      }
+    }
+  ]
+}

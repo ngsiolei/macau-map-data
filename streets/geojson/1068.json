@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.532825,
+              22.189604
+            ],
+            [
+              113.532981,
+              22.189313
+            ],
+            [
+              113.533245,
+              22.188603
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "沙井天巷",
+        "namePor": "Travessa da Assunção"
+      }
+    }
+  ]
+}

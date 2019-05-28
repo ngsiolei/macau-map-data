@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.556111,
+              22.152776
+            ],
+            [
+              113.556271,
+              22.152582
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "福隆巷",
+        "namePor": "Travessa da Felicidade"
+      }
+    }
+  ]
+}

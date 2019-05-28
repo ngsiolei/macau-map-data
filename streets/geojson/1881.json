@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.553497,
+              22.206945
+            ],
+            [
+              113.553846,
+              22.207315
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "涌河新巷",
+        "namePor": "Travessa do Canal Novo"
+      }
+    }
+  ]
+}

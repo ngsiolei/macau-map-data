@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550498,
+              22.202337
+            ],
+            [
+              113.550152,
+              22.202577
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "柯維納總督街",
+        "namePor": "Rua do Governador Albano de Oliveira"
+      }
+    }
+  ]
+}

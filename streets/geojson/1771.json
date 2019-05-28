@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543815,
+              22.204943
+            ],
+            [
+              113.544048,
+              22.204694
+            ],
+            [
+              113.544374,
+              22.20444
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "道咩卑利士圍",
+        "namePor": "Pátio de Tomé Pires"
+      }
+    }
+  ]
+}

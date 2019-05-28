@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547256,
+              22.212113
+            ],
+            [
+              113.547204,
+              22.211309
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "巴波沙巷",
+        "namePor": "Travessa de Artur Tamagnini Barbosa"
+      }
+    }
+  ]
+}

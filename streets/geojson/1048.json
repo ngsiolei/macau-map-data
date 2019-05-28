@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538411,
+              22.201713
+            ],
+            [
+              113.538304,
+              22.201874
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "魚釣里",
+        "namePor": "Beco dos Anzóis"
+      }
+    }
+  ]
+}

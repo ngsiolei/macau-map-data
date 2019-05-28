@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540726,
+              22.198878
+            ],
+            [
+              113.540893,
+              22.198913
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "連興巷",
+        "namePor": "Travessa do Colar"
+      }
+    }
+  ]
+}

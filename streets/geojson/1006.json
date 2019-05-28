@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540376,
+              22.196145
+            ],
+            [
+              113.540114,
+              22.196117
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "卜圍",
+        "namePor": "Pátio da Adivinhação"
+      }
+    }
+  ]
+}

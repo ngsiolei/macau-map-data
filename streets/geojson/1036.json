@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536854,
+              22.189464
+            ],
+            [
+              113.536233,
+              22.189193
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "咩路馬揸度街",
+        "namePor": "Rua de Álvaro de Melo Machado"
+      }
+    }
+  ]
+}

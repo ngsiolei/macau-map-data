@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53307,
+              22.189073
+            ],
+            [
+              113.532642,
+              22.188987
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "聖柯奴非圍 / 福星里",
+        "namePor": "Pátio de Santo Onofre"
+      }
+    }
+  ]
+}

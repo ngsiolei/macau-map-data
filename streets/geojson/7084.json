@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551338,
+              22.11685
+            ],
+            [
+              113.551575,
+              22.116773
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "教堂巷",
+        "namePor": "Travessa da Igreja"
+      }
+    }
+  ]
+}

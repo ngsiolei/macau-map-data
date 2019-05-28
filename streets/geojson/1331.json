@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546614,
+              22.201745
+            ],
+            [
+              113.546757,
+              22.201882
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "飛能便度里",
+        "namePor": "Beco de Fernão Mendes Pinto"
+      }
+    }
+  ]
+}

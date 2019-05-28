@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541321,
+              22.195855
+            ],
+            [
+              113.541383,
+              22.195654
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "豆醬里 / 豆醬圍",
+        "namePor": "Beco do Missó"
+      }
+    }
+  ]
+}

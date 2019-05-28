@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551905,
+              22.116296
+            ],
+            [
+              113.552127,
+              22.116053
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "雞公圍",
+        "namePor": "Pátio do Galo"
+      }
+    }
+  ]
+}

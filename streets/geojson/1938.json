@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54894,
+              22.188734
+            ],
+            [
+              113.550242,
+              22.189217
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "飛南第街",
+        "namePor": "Rua Francisco H. Fernandes"
+      }
+    }
+  ]
+}

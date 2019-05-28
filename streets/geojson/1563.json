@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540571,
+              22.195409
+            ],
+            [
+              113.540847,
+              22.195042
+            ],
+            [
+              113.540981,
+              22.19467
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "賣草地街",
+        "namePor": "Rua da Palha"
+      }
+    }
+  ]
+}

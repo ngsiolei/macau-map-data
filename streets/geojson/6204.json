@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.560406,
+              22.157273
+            ],
+            [
+              113.56142,
+              22.156883
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "珍珠圍",
+        "namePor": "Beco da Pérola"
+      }
+    }
+  ]
+}

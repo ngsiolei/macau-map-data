@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544881,
+              22.205779
+            ],
+            [
+              113.545418,
+              22.205369
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "罅些喇提督市北街",
+        "namePor": "Rua Norte do Mercado Almirante Lacerda"
+      }
+    }
+  ]
+}

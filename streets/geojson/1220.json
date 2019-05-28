@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536496,
+              22.196732
+            ],
+            [
+              113.536956,
+              22.196658
+            ],
+            [
+              113.537091,
+              22.196627
+            ],
+            [
+              113.537159,
+              22.196575
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "貢士旦甸奴街",
+        "namePor": "Rua de Constantino Brito"
+      }
+    }
+  ]
+}

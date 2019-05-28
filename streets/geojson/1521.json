@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544187,
+              22.195941
+            ],
+            [
+              113.545012,
+              22.197007
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "瘋堂新街",
+        "namePor": "Rua Nova de S. Lázaro"
+      }
+    }
+  ]
+}

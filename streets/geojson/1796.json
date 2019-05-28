@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.548308,
+              22.21415
+            ],
+            [
+              113.548192,
+              22.213454
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "華大街",
+        "namePor": "Rua Vá Tai"
+      }
+    }
+  ]
+}

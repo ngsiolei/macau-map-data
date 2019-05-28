@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.555573,
+              22.197521
+            ],
+            [
+              113.555038,
+              22.196808
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "水塘巷",
+        "namePor": "Travessa do Reservatório"
+      }
+    }
+  ]
+}

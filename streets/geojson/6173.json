@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543178,
+              22.163064
+            ],
+            [
+              113.54348,
+              22.161921
+            ],
+            [
+              113.543514,
+              22.161795
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "海洋花園第二街",
+        "namePor": "Rua Dois dos Jardins do Oceano"
+      }
+    }
+  ]
+}

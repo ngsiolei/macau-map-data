@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544806,
+              22.190801
+            ],
+            [
+              113.54337,
+              22.189923
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "葡京路",
+        "namePor": "Avenida de Lisboa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.552438,
+              22.203846
+            ],
+            [
+              113.551564,
+              22.202793
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鮑思高街",
+        "namePor": "Rua de São João Bosco"
+      }
+    }
+  ]
+}

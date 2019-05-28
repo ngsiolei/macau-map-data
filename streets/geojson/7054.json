@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551508,
+              22.11719
+            ],
+            [
+              113.551501,
+              22.117431
+            ],
+            [
+              113.551494,
+              22.117554
+            ],
+            [
+              113.551476,
+              22.117772
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "客商街",
+        "namePor": "Rua dos Negociantes"
+      }
+    }
+  ]
+}

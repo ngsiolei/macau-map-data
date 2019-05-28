@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539773,
+              22.20454
+            ],
+            [
+              113.539798,
+              22.204451
+            ],
+            [
+              113.539872,
+              22.204195
+            ],
+            [
+              113.540027,
+              22.203653
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "遊艇會巷",
+        "namePor": "Travessa do Clube de Iates"
+      }
+    }
+  ]
+}

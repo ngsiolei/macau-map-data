@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.553003,
+              22.158358
+            ],
+            [
+              113.551444,
+              22.157075
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "佛山街",
+        "namePor": "Rua de Fat San"
+      }
+    }
+  ]
+}

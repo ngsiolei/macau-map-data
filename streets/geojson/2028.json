@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.5352,
+              22.210846
+            ],
+            [
+              113.535545,
+              22.210964
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "工業園三巷",
+        "namePor": "Travessa Três do Parque Industrial"
+      }
+    }
+  ]
+}

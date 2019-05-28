@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536294,
+              22.190775
+            ],
+            [
+              113.535952,
+              22.191151
+            ],
+            [
+              113.535896,
+              22.191188
+            ],
+            [
+              113.535361,
+              22.191316
+            ],
+            [
+              113.535275,
+              22.191231
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鵝眉街",
+        "namePor": "Rua de Inácio Baptista"
+      }
+    }
+  ]
+}

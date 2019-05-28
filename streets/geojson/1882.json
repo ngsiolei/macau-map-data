@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.554503,
+              22.197161
+            ],
+            [
+              113.555026,
+              22.196825
+            ],
+            [
+              113.555144,
+              22.196667
+            ],
+            [
+              113.555564,
+              22.196396
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "海港街",
+        "namePor": "Rua do Terminal Marítimo"
+      }
+    }
+  ]
+}

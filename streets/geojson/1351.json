@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535739,
+              22.193146
+            ],
+            [
+              113.535832,
+              22.193289
+            ],
+            [
+              113.536311,
+              22.193026
+            ],
+            [
+              113.536194,
+              22.192861
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "安仿西巷",
+        "namePor": "Travessa de Francisco António"
+      }
+    }
+  ]
+}

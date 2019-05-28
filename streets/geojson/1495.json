@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.532405,
+              22.18202
+            ],
+            [
+              113.5326,
+              22.181995
+            ],
+            [
+              113.532693,
+              22.182035
+            ],
+            [
+              113.532774,
+              22.182083
+            ],
+            [
+              113.532945,
+              22.182362
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "西望洋眺望台街",
+        "namePor": "Rua do Miradouro de Santa Sancha"
+      }
+    }
+  ]
+}

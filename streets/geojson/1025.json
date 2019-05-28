@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536455,
+              22.196529
+            ],
+            [
+              113.54088,
+              22.192302
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "亞美打利庇盧大馬路 / 新馬路",
+        "namePor": "Avenida de Almeida Ribeiro"
+      }
+    }
+  ]
+}

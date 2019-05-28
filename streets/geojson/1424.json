@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540221,
+              22.201839
+            ],
+            [
+              113.540194,
+              22.201756
+            ],
+            [
+              113.540217,
+              22.201743
+            ],
+            [
+              113.540224,
+              22.201725
+            ],
+            [
+              113.540379,
+              22.201751
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "石版里",
+        "namePor": "Beco da Lage"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536545,
+              22.191713
+            ],
+            [
+              113.536824,
+              22.191717
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "三巴仔里",
+        "namePor": "Beco do Seminário"
+      }
+    }
+  ]
+}

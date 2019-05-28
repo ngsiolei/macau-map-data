@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540572,
+              22.202005
+            ],
+            [
+              113.540539,
+              22.202201
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鮮魚里",
+        "namePor": "Beco do Peixe"
+      }
+    }
+  ]
+}

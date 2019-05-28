@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544122,
+              22.197163
+            ],
+            [
+              113.543985,
+              22.196986
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "瘋堂里",
+        "namePor": "Beco de S. Lázaro"
+      }
+    }
+  ]
+}

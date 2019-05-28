@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53549,
+              22.192986
+            ],
+            [
+              113.535539,
+              22.193067
+            ],
+            [
+              113.535655,
+              22.192975
+            ],
+            [
+              113.535794,
+              22.192733
+            ],
+            [
+              113.536016,
+              22.192278
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "馬忌士圍 / 馬忌士里",
+        "namePor": "Pátio de Lourenço Marques"
+      }
+    }
+  ]
+}

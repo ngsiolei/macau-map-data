@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.557931,
+              22.153001
+            ],
+            [
+              113.558031,
+              22.152846
+            ],
+            [
+              113.558158,
+              22.15265
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "嘉模巷",
+        "namePor": "Travessa do Carmo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540052,
+              22.19729
+            ],
+            [
+              113.540357,
+              22.197516
+            ],
+            [
+              113.540659,
+              22.19763
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "聖方濟各斜巷 / 大三巴斜巷",
+        "namePor": "Calçada de S. Francisco Xavier"
+      }
+    }
+  ]
+}

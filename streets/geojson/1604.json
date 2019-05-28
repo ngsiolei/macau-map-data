@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543354,
+              22.202365
+            ],
+            [
+              113.543434,
+              22.202502
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "千日紅巷",
+        "namePor": "Travessa das Perpétuas"
+      }
+    }
+  ]
+}

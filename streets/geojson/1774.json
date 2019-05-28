@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538056,
+              22.200937
+            ],
+            [
+              113.538099,
+              22.200825
+            ],
+            [
+              113.538119,
+              22.200804
+            ],
+            [
+              113.538154,
+              22.20074
+            ],
+            [
+              113.538194,
+              22.200577
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "橫樑里 / 橫圍",
+        "namePor": "Beco da Trave"
+      }
+    }
+  ]
+}

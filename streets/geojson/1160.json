@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541059,
+              22.199353
+            ],
+            [
+              113.541213,
+              22.198648
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "興華街",
+        "namePor": "Rua dos Cavaleiros"
+      }
+    }
+  ]
+}

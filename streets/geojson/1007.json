@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545077,
+              22.202518
+            ],
+            [
+              113.546989,
+              22.200461
+            ],
+            [
+              113.54707,
+              22.200374
+            ],
+            [
+              113.547178,
+              22.200258
+            ],
+            [
+              113.547253,
+              22.200159
+            ],
+            [
+              113.547501,
+              22.19989
+            ],
+            [
+              113.548406,
+              22.198949
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "羅利老馬路",
+        "namePor": "Estrada de Adolfo Loureiro"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537376,
+              22.19731
+            ],
+            [
+              113.537282,
+              22.197325
+            ],
+            [
+              113.537312,
+              22.197485
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "美基內市場圍 / 味機市",
+        "namePor": "Pátio do Mercado Interior de Miguel Aires"
+      }
+    }
+  ]
+}

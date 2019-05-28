@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543466,
+              22.194468
+            ],
+            [
+              113.543776,
+              22.194609
+            ],
+            [
+              113.543688,
+              22.194831
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "竹園圍",
+        "namePor": "Pátio do Rochedo"
+      }
+    }
+  ]
+}

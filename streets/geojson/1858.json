@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551787,
+              22.192376
+            ],
+            [
+              113.55245,
+              22.192627
+            ],
+            [
+              113.552565,
+              22.192366
+            ],
+            [
+              113.551901,
+              22.192113
+            ],
+            [
+              113.551787,
+              22.192375
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "海景花園",
+        "namePor": "Praceta de Miramar"
+      }
+    }
+  ]
+}

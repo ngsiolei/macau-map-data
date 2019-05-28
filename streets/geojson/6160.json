@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.566703,
+              22.163668
+            ],
+            [
+              113.566913,
+              22.164423
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "永發街",
+        "namePor": "Rua do Progresso"
+      }
+    }
+  ]
+}

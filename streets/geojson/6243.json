@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.566545,
+              22.138588
+            ],
+            [
+              113.56698,
+              22.147824
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "永進大馬路",
+        "namePor": "Avenida do Progresso"
+      }
+    }
+  ]
+}

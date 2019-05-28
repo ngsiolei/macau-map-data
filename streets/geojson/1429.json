@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540443,
+              22.201412
+            ],
+            [
+              113.540449,
+              22.201429
+            ],
+            [
+              113.540457,
+              22.201449
+            ],
+            [
+              113.540465,
+              22.201469
+            ],
+            [
+              113.54047,
+              22.201482
+            ],
+            [
+              113.540477,
+              22.2015
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "耕里 / 耕圍",
+        "namePor": "Beco da Lavra"
+      }
+    }
+  ]
+}

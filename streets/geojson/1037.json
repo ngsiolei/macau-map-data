@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.548434,
+              22.199841
+            ],
+            [
+              113.548819,
+              22.200341
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "羅沙達街",
+        "namePor": "Rua de Alves Roçadas"
+      }
+    }
+  ]
+}

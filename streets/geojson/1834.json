@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547541,
+              22.192519
+            ],
+            [
+              113.548383,
+              22.190611
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "上海街",
+        "namePor": "Rua de Xangai"
+      }
+    }
+  ]
+}

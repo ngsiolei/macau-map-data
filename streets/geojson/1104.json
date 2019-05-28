@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545749,
+              22.201227
+            ],
+            [
+              113.548132,
+              22.198697
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "美的路主教街",
+        "namePor": "Rua do Bispo Medeiros"
+      }
+    }
+  ]
+}

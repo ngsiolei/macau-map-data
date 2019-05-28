@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538527,
+              22.199038
+            ],
+            [
+              113.538824,
+              22.199056
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "寶德街",
+        "namePor": "Rua do Botelho"
+      }
+    }
+  ]
+}

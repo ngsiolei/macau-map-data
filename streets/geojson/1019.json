@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538794,
+              22.19971
+            ],
+            [
+              113.538737,
+              22.199692
+            ],
+            [
+              113.538647,
+              22.199673
+            ],
+            [
+              113.538495,
+              22.199686
+            ],
+            [
+              113.538497,
+              22.199715
+            ],
+            [
+              113.5383,
+              22.199713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "何林圍 / 何林里",
+        "namePor": "Pátio de Além-Bosque"
+      }
+    }
+  ]
+}

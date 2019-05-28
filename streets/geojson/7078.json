@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551195,
+              22.11575
+            ],
+            [
+              113.550947,
+              22.115857
+            ],
+            [
+              113.550835,
+              22.11578
+            ],
+            [
+              113.551145,
+              22.115669
+            ],
+            [
+              113.551195,
+              22.11575
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "船鋪前地",
+        "namePor": "Largo do Estaleiro"
+      }
+    }
+  ]
+}

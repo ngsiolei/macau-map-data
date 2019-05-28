@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.532707,
+              22.188671
+            ],
+            [
+              113.533184,
+              22.188765
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "沙井地圍",
+        "namePor": "Pátio da Boa Morte"
+      }
+    }
+  ]
+}

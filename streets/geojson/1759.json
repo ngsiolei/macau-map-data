@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.534151,
+              22.188194
+            ],
+            [
+              113.534279,
+              22.187892
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "天台圍",
+        "namePor": "Pátio do Terrado"
+      }
+    }
+  ]
+}

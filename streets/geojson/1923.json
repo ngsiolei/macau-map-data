@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.548386,
+              22.189998
+            ],
+            [
+              113.550123,
+              22.186028
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "倫斯泰特大馬路",
+        "namePor": "Avenida Sir Anders Ljungstedt"
+      }
+    }
+  ]
+}

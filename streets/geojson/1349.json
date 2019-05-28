@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540949,
+              22.196013
+            ],
+            [
+              113.541003,
+              22.195752
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "幸運圍 / 福華里",
+        "namePor": "Pátio da Fortuna"
+      }
+    }
+  ]
+}

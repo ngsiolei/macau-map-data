@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.562873,
+              22.131286
+            ],
+            [
+              113.562871,
+              22.128939
+            ]
+          ],
+          [
+            [
+              113.562973,
+              22.131284
+            ],
+            [
+              113.56297,
+              22.128939
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "和諧廣場",
+        "namePor": "Alameda da Harmonia"
+      }
+    }
+  ]
+}

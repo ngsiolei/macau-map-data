@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540524,
+              22.191475
+            ],
+            [
+              113.542703,
+              22.189429
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蘇亞利斯博士大馬路",
+        "namePor": "Avenida Doutor Mário Soares"
+      }
+    }
+  ]
+}

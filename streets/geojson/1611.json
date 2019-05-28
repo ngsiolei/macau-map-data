@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53815,
+              22.201386
+            ],
+            [
+              113.537916,
+              22.201425
+            ],
+            [
+              113.537927,
+              22.201502
+            ],
+            [
+              113.537962,
+              22.201608
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "翎毛巷",
+        "namePor": "Travessa das Plumas"
+      }
+    }
+  ]
+}

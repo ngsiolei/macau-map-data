@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.534966,
+              22.190963
+            ],
+            [
+              113.535213,
+              22.191109
+            ],
+            [
+              113.535232,
+              22.191136
+            ],
+            [
+              113.535305,
+              22.19126
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "打鐵斜巷",
+        "namePor": "Calçada do Januário"
+      }
+    }
+  ]
+}

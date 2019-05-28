@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538977,
+              22.19412
+            ],
+            [
+              113.538886,
+              22.194027
+            ],
+            [
+              113.538827,
+              22.194033
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "染師里 / 營地一圍",
+        "namePor": "Beco do Tintureiro"
+      }
+    }
+  ]
+}

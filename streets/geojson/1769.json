@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543634,
+              22.204802
+            ],
+            [
+              113.544412,
+              22.204161
+            ],
+            [
+              113.545221,
+              22.203762
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "道咩卑利士街",
+        "namePor": "Rua de Tomé Pires"
+      }
+    }
+  ]
+}

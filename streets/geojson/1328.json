@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537785,
+              22.19392
+            ],
+            [
+              113.537637,
+              22.193875
+            ],
+            [
+              113.537435,
+              22.19442
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "福榮里",
+        "namePor": "Beco da Felicidade"
+      }
+    }
+  ]
+}

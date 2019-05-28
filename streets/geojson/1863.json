@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.548661,
+              22.208327
+            ],
+            [
+              113.548571,
+              22.208831
+            ],
+            [
+              113.548315,
+              22.209217
+            ],
+            [
+              113.548401,
+              22.210177
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蓮峰街",
+        "namePor": "Rua do Templo Lin-Fong"
+      }
+    }
+  ]
+}

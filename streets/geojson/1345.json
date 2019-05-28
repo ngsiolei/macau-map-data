@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549591,
+              22.199998
+            ],
+            [
+              113.550586,
+              22.199079
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "二龍喉街",
+        "namePor": "Rua da Fonte da Inveja"
+      }
+    }
+  ]
+}

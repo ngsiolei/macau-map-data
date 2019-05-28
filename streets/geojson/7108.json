@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.552303,
+              22.116854
+            ],
+            [
+              113.552431,
+              22.116937
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "新巷",
+        "namePor": "Travessa Nova"
+      }
+    }
+  ]
+}

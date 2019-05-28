@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538893,
+              22.193907
+            ],
+            [
+              113.538697,
+              22.193864
+            ],
+            [
+              113.538647,
+              22.194107
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "手肘圍 / 德隆新街",
+        "namePor": "Pátio do Cotovelo"
+      }
+    }
+  ]
+}

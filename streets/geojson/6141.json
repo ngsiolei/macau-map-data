@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550302,
+              22.158079
+            ],
+            [
+              113.551633,
+              22.159198
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "桂林街",
+        "namePor": "Rua de Kwai Lam"
+      }
+    }
+  ]
+}

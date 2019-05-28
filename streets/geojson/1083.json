@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54288,
+              22.193618
+            ],
+            [
+              113.542973,
+              22.193721
+            ]
+          ],
+          [
+            [
+              113.542973,
+              22.193721
+            ],
+            [
+              113.543069,
+              22.193635
+            ]
+          ],
+          [
+            [
+              113.542973,
+              22.193721
+            ],
+            [
+              113.543046,
+              22.193801
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "善慶圍",
+        "namePor": "Pátio do Banco"
+      }
+    }
+  ]
+}

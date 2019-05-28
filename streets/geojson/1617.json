@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536346,
+              22.193533
+            ],
+            [
+              113.537061,
+              22.193144
+            ],
+            [
+              113.537184,
+              22.193077
+            ],
+            [
+              113.537357,
+              22.193032
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "群興新街",
+        "namePor": "Rua de Ponte e Horta"
+      }
+    }
+  ]
+}

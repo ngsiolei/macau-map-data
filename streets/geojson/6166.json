@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550525,
+              22.159901
+            ],
+            [
+              113.551114,
+              22.159276
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "西安街",
+        "namePor": "Rua de Sai On"
+      }
+    }
+  ]
+}

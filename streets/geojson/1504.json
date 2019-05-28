@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540287,
+              22.198973
+            ],
+            [
+              113.540852,
+              22.199091
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "賣菜巷",
+        "namePor": "Travessa da Mosca"
+      }
+    }
+  ]
+}

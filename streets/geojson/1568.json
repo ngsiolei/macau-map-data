@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547972,
+              22.204967
+            ],
+            [
+              113.548056,
+              22.205021
+            ],
+            [
+              113.548118,
+              22.205028
+            ],
+            [
+              113.548261,
+              22.205145
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "布巷",
+        "namePor": "Travessa do Pano"
+      }
+    }
+  ]
+}

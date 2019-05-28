@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546885,
+              22.211331
+            ],
+            [
+              113.546817,
+              22.210339
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "青洲新巷",
+        "namePor": "Travessa do Conselheiro Borja"
+      }
+    }
+  ]
+}

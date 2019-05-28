@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.555607,
+              22.131865
+            ],
+            [
+              113.555544,
+              22.130263
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "柏樹街",
+        "namePor": "Rua de Cipreste"
+      }
+    }
+  ]
+}

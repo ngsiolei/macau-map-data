@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535511,
+              22.189595
+            ],
+            [
+              113.535607,
+              22.18964
+            ],
+            [
+              113.535544,
+              22.189759
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "六屋圍 / 福六里",
+        "namePor": "Pátio das Seis Casas"
+      }
+    }
+  ]
+}

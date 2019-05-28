@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539341,
+              22.213082
+            ],
+            [
+              113.53956,
+              22.212868
+            ],
+            [
+              113.540194,
+              22.212641
+            ],
+            [
+              113.540782,
+              22.212483
+            ],
+            [
+              113.542172,
+              22.212406
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鴨涌馬路",
+        "namePor": "Estrada do Canal dos Patos"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54063,
+              22.195331
+            ],
+            [
+              113.540768,
+              22.195373
+            ],
+            [
+              113.540768,
+              22.195396
+            ],
+            [
+              113.54078,
+              22.195409
+            ],
+            [
+              113.540789,
+              22.195556
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "銅鑼圍 / 居仁里",
+        "namePor": "Pátio da Bátega"
+      }
+    }
+  ]
+}

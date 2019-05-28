@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543729,
+              22.210257
+            ],
+            [
+              113.544345,
+              22.208284
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "和樂坊一街",
+        "namePor": "Rua Um do Bairro da Concórdia"
+      }
+    }
+  ]
+}

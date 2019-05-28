@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538411,
+              22.194111
+            ],
+            [
+              113.538037,
+              22.193985
+            ],
+            [
+              113.537792,
+              22.193905
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "新填巷",
+        "namePor": "Travessa do Aterro Novo"
+      }
+    }
+  ]
+}

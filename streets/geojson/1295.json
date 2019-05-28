@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541633,
+              22.202243
+            ],
+            [
+              113.542096,
+              22.20091
+            ],
+            [
+              113.542499,
+              22.199756
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "青草街",
+        "namePor": "Rua da Erva"
+      }
+    }
+  ]
+}

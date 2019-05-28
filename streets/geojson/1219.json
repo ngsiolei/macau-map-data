@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549196,
+              22.201437
+            ],
+            [
+              113.549079,
+              22.201528
+            ],
+            [
+              113.549165,
+              22.20162
+            ]
+          ],
+          [
+            [
+              113.549109,
+              22.201561
+            ],
+            [
+              113.549144,
+              22.201597
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "肥利喇亞美打圍",
+        "namePor": "Pátio do Conselheiro Ferreira de Almeida"
+      }
+    }
+  ]
+}

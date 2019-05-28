@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544279,
+              22.202202
+            ],
+            [
+              113.545813,
+              22.20281
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "光復街",
+        "namePor": "Rua da Restauração"
+      }
+    }
+  ]
+}

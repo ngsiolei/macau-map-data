@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.534824,
+              22.190092
+            ],
+            [
+              113.53515,
+              22.189861
+            ],
+            [
+              113.535296,
+              22.189644
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "三巴仔斜巷",
+        "namePor": "Calçada dos Remédios"
+      }
+    }
+  ]
+}

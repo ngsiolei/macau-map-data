@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.548558,
+              22.200515
+            ],
+            [
+              113.549477,
+              22.199902
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "巴士度街",
+        "namePor": "Rua de António Basto"
+      }
+    }
+  ]
+}

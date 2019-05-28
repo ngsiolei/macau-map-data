@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540545,
+              22.194566
+            ],
+            [
+              113.540981,
+              22.19467
+            ],
+            [
+              113.541062,
+              22.194617
+            ],
+            [
+              113.541483,
+              22.194449
+            ],
+            [
+              113.541549,
+              22.194433
+            ],
+            [
+              113.542088,
+              22.194471
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "板樟堂街",
+        "namePor": "Rua de S. Domingos"
+      }
+    }
+  ]
+}

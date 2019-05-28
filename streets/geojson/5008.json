@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54256,
+              22.134672
+            ],
+            [
+              113.542561,
+              22.135693
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "科研西街",
+        "namePor": "Rua Oeste de Investigação Científica"
+      }
+    }
+  ]
+}

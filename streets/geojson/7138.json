@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.572387,
+              22.116067
+            ],
+            [
+              113.572323,
+              22.115781
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "龍爪角第三巷",
+        "namePor": "Travessa Três de Long Chao Kok"
+      }
+    }
+  ]
+}

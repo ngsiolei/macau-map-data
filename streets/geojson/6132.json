@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.553645,
+              22.157682
+            ],
+            [
+              113.552403,
+              22.156661
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "亞威羅街",
+        "namePor": "Rua de Aveiro"
+      }
+    }
+  ]
+}

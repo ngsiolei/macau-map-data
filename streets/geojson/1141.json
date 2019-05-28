@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54648,
+              22.213854
+            ],
+            [
+              113.547193,
+              22.213815
+            ],
+            [
+              113.547176,
+              22.213522
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "菜園涌街",
+        "namePor": "Rua do Canal das Hortas"
+      }
+    }
+  ]
+}

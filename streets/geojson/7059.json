@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551552,
+              22.118453
+            ],
+            [
+              113.551637,
+              22.118401
+            ],
+            [
+              113.551698,
+              22.11838
+            ],
+            [
+              113.551759,
+              22.118365
+            ],
+            [
+              113.551791,
+              22.118362
+            ],
+            [
+              113.551906,
+              22.118381
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "賊仔圍",
+        "namePor": "Azinhaga dos Piratas"
+      }
+    }
+  ]
+}

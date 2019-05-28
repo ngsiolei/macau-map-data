@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541102,
+              22.201891
+            ],
+            [
+              113.541141,
+              22.201891
+            ],
+            [
+              113.541314,
+              22.201887
+            ],
+            [
+              113.541523,
+              22.201903
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "轎夫巷",
+        "namePor": "Travessa dos Cules"
+      }
+    }
+  ]
+}

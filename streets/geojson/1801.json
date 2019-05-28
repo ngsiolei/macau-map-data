@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.553143,
+              22.206141
+            ],
+            [
+              113.553608,
+              22.206614
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "慕拉士巷",
+        "namePor": "Travessa de Venceslau de Morais"
+      }
+    }
+  ]
+}

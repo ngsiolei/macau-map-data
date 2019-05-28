@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537678,
+              22.192778
+            ],
+            [
+              113.537968,
+              22.193019
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "洗衣匠圍 / 青雲里",
+        "namePor": "Pátio do Mainato"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539702,
+              22.196635
+            ],
+            [
+              113.539832,
+              22.19669
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "爐巷",
+        "namePor": "Travessa do Fogão"
+      }
+    }
+  ]
+}

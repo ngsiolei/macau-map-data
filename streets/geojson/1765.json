@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544422,
+              22.195103
+            ],
+            [
+              113.545717,
+              22.19433
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "羅憲新街",
+        "namePor": "Rua de Tomás da Rosa"
+      }
+    }
+  ]
+}

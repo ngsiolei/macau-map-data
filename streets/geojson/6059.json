@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.556694,
+              22.153127
+            ],
+            [
+              113.556679,
+              22.153145
+            ],
+            [
+              113.556602,
+              22.153238
+            ],
+            [
+              113.556432,
+              22.15351
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "福隆彩巷",
+        "namePor": "Travessa da Esperança"
+      }
+    }
+  ]
+}

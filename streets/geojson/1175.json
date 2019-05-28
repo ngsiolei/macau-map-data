@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.534931,
+              22.192928
+            ],
+            [
+              113.535167,
+              22.192807
+            ],
+            [
+              113.535482,
+              22.192038
+            ],
+            [
+              113.535592,
+              22.191759
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "陳樂巷",
+        "namePor": "Travessa de Chan Loc"
+      }
+    }
+  ]
+}

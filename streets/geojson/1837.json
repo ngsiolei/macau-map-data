@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.552982,
+              22.196596
+            ],
+            [
+              113.553169,
+              22.19649
+            ],
+            [
+              113.553595,
+              22.196213
+            ],
+            [
+              113.554425,
+              22.195675
+            ],
+            [
+              113.554827,
+              22.195414
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "馬六甲街",
+        "namePor": "Rua de Malaca"
+      }
+    }
+  ]
+}

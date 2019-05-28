@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535863,
+              22.189907
+            ],
+            [
+              113.536003,
+              22.189595
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大樓斜巷",
+        "namePor": "Travessa do Abreu"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.55215,
+              22.21387
+            ],
+            [
+              113.551929,
+              22.214
+            ]
+          ],
+          [
+            [
+              113.55193,
+              22.214
+            ],
+            [
+              113.552282,
+              22.21457
+            ],
+            [
+              113.552547,
+              22.21448
+            ],
+            [
+              113.552151,
+              22.21387
+            ],
+            [
+              113.55193,
+              22.214
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "如意廣場",
+        "namePor": "Praceta do Bom Sucesso"
+      }
+    }
+  ]
+}

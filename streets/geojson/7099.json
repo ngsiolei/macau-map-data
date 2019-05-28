@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.563895,
+              22.150497
+            ],
+            [
+              113.563367,
+              22.139468
+            ]
+          ],
+          [
+            [
+              113.563258,
+              22.138253
+            ],
+            [
+              113.562937,
+              22.131695
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "路氹連貫公路",
+        "namePor": "Estrada do Istmo"
+      }
+    }
+  ]
+}

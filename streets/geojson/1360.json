@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537898,
+              22.193607
+            ],
+            [
+              113.537538,
+              22.193446
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "福隆里",
+        "namePor": "Beco das Galinhas"
+      }
+    }
+  ]
+}

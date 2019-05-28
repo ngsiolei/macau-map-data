@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547437,
+              22.210267
+            ],
+            [
+              113.548815,
+              22.210139
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "拱形馬路 / 關閘橫路",
+        "namePor": "Estrada do Arco"
+      }
+    }
+  ]
+}

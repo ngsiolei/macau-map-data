@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538419,
+              22.213225
+            ],
+            [
+              113.538372,
+              22.212814
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "菊花巷",
+        "namePor": "Travessa do Crisântemo"
+      }
+    }
+  ]
+}

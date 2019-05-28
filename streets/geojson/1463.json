@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546096,
+              22.202987
+            ],
+            [
+              113.546446,
+              22.203431
+            ]
+          ],
+          [
+            [
+              113.544506,
+              22.200231
+            ],
+            [
+              113.545894,
+              22.202735
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "亞利鴉架街",
+        "namePor": "Rua de Manuel de Arriaga"
+      }
+    }
+  ]
+}

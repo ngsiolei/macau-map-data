@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550774,
+              22.20338
+            ],
+            [
+              113.549879,
+              22.202224
+            ],
+            [
+              113.544833,
+              22.195691
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "肥利喇亞美打大馬路 / 荷蘭園大馬路 / 荷蘭園正街",
+        "namePor": "Avenida do Conselheiro Ferreira de Almeida"
+      }
+    }
+  ]
+}

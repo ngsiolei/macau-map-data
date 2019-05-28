@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541495,
+              22.193965
+            ],
+            [
+              113.54146,
+              22.194458
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "主教巷",
+        "namePor": "Travessa do Bispo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.557608,
+              22.15329
+            ],
+            [
+              113.557673,
+              22.153195
+            ],
+            [
+              113.557732,
+              22.153124
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "打鐵圍",
+        "namePor": "Beco do Ferreiro"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.564386,
+              22.112522
+            ],
+            [
+              113.564497,
+              22.112479
+            ],
+            [
+              113.564522,
+              22.112479
+            ],
+            [
+              113.565986,
+              22.112476
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "竹灣豪園第三街",
+        "namePor": "Rua Três dos Jardins de Cheoc Van"
+      }
+    }
+  ]
+}

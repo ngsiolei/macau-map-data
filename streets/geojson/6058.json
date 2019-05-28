@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.556974,
+              22.152943
+            ],
+            [
+              113.557054,
+              22.152798
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鏡圍",
+        "namePor": "Pátio do Espelho"
+      }
+    }
+  ]
+}

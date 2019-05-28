@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53812,
+              22.194749
+            ],
+            [
+              113.538141,
+              22.194714
+            ],
+            [
+              113.538158,
+              22.194606
+            ],
+            [
+              113.538226,
+              22.194427
+            ],
+            [
+              113.538411,
+              22.194111
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "桔仔街",
+        "namePor": "Rua do Matapau"
+      }
+    }
+  ]
+}

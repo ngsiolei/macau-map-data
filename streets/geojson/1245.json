@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53757,
+              22.192851
+            ],
+            [
+              113.537885,
+              22.193115
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "苦力圍 / 聚龍里",
+        "namePor": "Pátio dos Cules"
+      }
+    }
+  ]
+}

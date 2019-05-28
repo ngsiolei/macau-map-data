@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53321,
+              22.189512
+            ],
+            [
+              113.533405,
+              22.189301
+            ],
+            [
+              113.533435,
+              22.189217
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "土庫圍",
+        "namePor": "Pátio do Godão"
+      }
+    }
+  ]
+}

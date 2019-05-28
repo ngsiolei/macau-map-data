@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550691,
+              22.192849
+            ],
+            [
+              113.550139,
+              22.194146
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "果亞街",
+        "namePor": "Rua de Goa"
+      }
+    }
+  ]
+}

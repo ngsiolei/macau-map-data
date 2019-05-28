@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54216,
+              22.210916
+            ],
+            [
+              113.542017,
+              22.211507
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蓮花巷",
+        "namePor": "Travessa dos Lótus"
+      }
+    }
+  ]
+}

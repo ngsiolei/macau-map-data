@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53871,
+              22.194997
+            ],
+            [
+              113.538847,
+              22.194865
+            ],
+            [
+              113.538659,
+              22.194717
+            ],
+            [
+              113.538597,
+              22.194669
+            ],
+            [
+              113.53849,
+              22.194585
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "平線巷",
+        "namePor": "Travessa do Paralelo"
+      }
+    }
+  ]
+}

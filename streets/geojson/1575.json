@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536866,
+              22.187452
+            ],
+            [
+              113.537442,
+              22.187087
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "公園街",
+        "namePor": "Rua do Parque"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.564845,
+              22.130491
+            ],
+            [
+              113.564845,
+              22.13033
+            ],
+            [
+              113.564839,
+              22.130297
+            ],
+            [
+              113.564828,
+              22.130272
+            ],
+            [
+              113.564138,
+              22.128994
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "業興大馬路",
+        "namePor": "Avenida de Ip Heng"
+      }
+    }
+  ]
+}

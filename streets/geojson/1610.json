@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539364,
+              22.196713
+            ],
+            [
+              113.539351,
+              22.196658
+            ],
+            [
+              113.539409,
+              22.196514
+            ],
+            [
+              113.539253,
+              22.196241
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "擔桿里 / 草堆橫街",
+        "namePor": "Beco da Pinga"
+      }
+    }
+  ]
+}

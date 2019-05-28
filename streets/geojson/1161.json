@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535472,
+              22.190295
+            ],
+            [
+              113.535265,
+              22.19025
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "馬子里 / 馬子圍",
+        "namePor": "Beco dos Cavaleiros"
+      }
+    }
+  ]
+}

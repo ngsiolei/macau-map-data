@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541089,
+              22.202043
+            ],
+            [
+              113.541102,
+              22.201891
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "競走者圍 / 騎樓里",
+        "namePor": "Pátio do Corredor"
+      }
+    }
+  ]
+}

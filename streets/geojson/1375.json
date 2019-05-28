@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536271,
+              22.190716
+            ],
+            [
+              113.535762,
+              22.190448
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "千年利街",
+        "namePor": "Rua George Chinnery"
+      }
+    }
+  ]
+}

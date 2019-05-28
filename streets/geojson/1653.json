@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539158,
+              22.202788
+            ],
+            [
+              113.539246,
+              22.202476
+            ],
+            [
+              113.539266,
+              22.20236
+            ],
+            [
+              113.539291,
+              22.202209
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "峽谷巷",
+        "namePor": "Travessa da Ribeira"
+      }
+    }
+  ]
+}

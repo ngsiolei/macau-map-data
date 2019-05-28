@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541554,
+              22.193053
+            ],
+            [
+              113.541748,
+              22.193109
+            ],
+            [
+              113.542274,
+              22.193219
+            ],
+            [
+              113.543547,
+              22.193312
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "美麗街",
+        "namePor": "Rua Formosa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550524,
+              22.18857
+            ],
+            [
+              113.548398,
+              22.187759
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "科英布拉街",
+        "namePor": "Rua Cidade de Coimbra"
+      }
+    }
+  ]
+}

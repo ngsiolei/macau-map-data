@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.558214,
+              22.159027
+            ],
+            [
+              113.554926,
+              22.156333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大連街",
+        "namePor": "Rua de Tai Lin"
+      }
+    }
+  ]
+}

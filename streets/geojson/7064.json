@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551317,
+              22.115834
+            ],
+            [
+              113.551135,
+              22.115915
+            ],
+            [
+              113.550952,
+              22.115991
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "新利街",
+        "namePor": "Rua de San Lei"
+      }
+    }
+  ]
+}

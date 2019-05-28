@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539923,
+              22.211712
+            ],
+            [
+              113.539712,
+              22.212823
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鴨涌巷",
+        "namePor": "Travessa do Canal dos Patos"
+      }
+    }
+  ]
+}

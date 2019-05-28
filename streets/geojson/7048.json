@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551273,
+              22.116645
+            ],
+            [
+              113.551135,
+              22.116688
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "美女巷",
+        "namePor": "Travessa das Lindas"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538622,
+              22.204264
+            ],
+            [
+              113.538744,
+              22.20381
+            ],
+            [
+              113.538768,
+              22.203727
+            ],
+            [
+              113.538797,
+              22.203627
+            ],
+            [
+              113.538868,
+              22.20338
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "林茂塘街",
+        "namePor": "Rua da Doca do Lam Mau"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538438,
+              22.200613
+            ],
+            [
+              113.538375,
+              22.200644
+            ],
+            [
+              113.538186,
+              22.200612
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "牡雞斜巷",
+        "namePor": "Calçada do Galo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539412,
+              22.196815
+            ],
+            [
+              113.539414,
+              22.196845
+            ],
+            [
+              113.539448,
+              22.196863
+            ],
+            [
+              113.539444,
+              22.196896
+            ],
+            [
+              113.539535,
+              22.196943
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "聚龍舊社",
+        "namePor": "Beco Central"
+      }
+    }
+  ]
+}

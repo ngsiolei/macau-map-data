@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.532783,
+              22.18912
+            ],
+            [
+              113.533035,
+              22.189168
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "阿宋生里",
+        "namePor": "Beco da Assunção"
+      }
+    }
+  ]
+}

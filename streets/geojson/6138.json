@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.555261,
+              22.155392
+            ],
+            [
+              113.558855,
+              22.158351
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "埃武拉街",
+        "namePor": "Rua de Évora"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.557257,
+              22.153912
+            ],
+            [
+              113.556897,
+              22.153734
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "何連旺街",
+        "namePor": "Rua Ho Lin Vong"
+      }
+    }
+  ]
+}

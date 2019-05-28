@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549373,
+              22.205605
+            ],
+            [
+              113.54945,
+              22.205549
+            ],
+            [
+              113.549567,
+              22.205464
+            ],
+            [
+              113.549804,
+              22.20529
+            ],
+            [
+              113.55022,
+              22.205773
+            ],
+            [
+              113.549774,
+              22.206083
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "望廈兵房街",
+        "namePor": "Rua do Quartel de Mong Há"
+      }
+    }
+  ]
+}

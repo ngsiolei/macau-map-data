@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537622,
+              22.201294
+            ],
+            [
+              113.538127,
+              22.20125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "玉盞巷",
+        "namePor": "Travessa da Palangana"
+      }
+    }
+  ]
+}

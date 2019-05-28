@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54733,
+              22.20007
+            ],
+            [
+              113.546367,
+              22.198864
+            ],
+            [
+              113.546264,
+              22.198367
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "厚望街",
+        "namePor": "Rua da Esperança"
+      }
+    }
+  ]
+}

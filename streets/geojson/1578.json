@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547132,
+              22.205788
+            ],
+            [
+              113.547404,
+              22.2056
+            ]
+          ],
+          [
+            [
+              113.547467,
+              22.205681
+            ],
+            [
+              113.547663,
+              22.205518
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "雀里",
+        "namePor": "Beco dos Pássaros"
+      }
+    }
+  ]
+}

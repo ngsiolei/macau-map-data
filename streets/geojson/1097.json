@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536979,
+              22.194548
+            ],
+            [
+              113.537093,
+              22.194289
+            ]
+          ],
+          [
+            [
+              113.536736,
+              22.195098
+            ],
+            [
+              113.536894,
+              22.19474
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "新市巷",
+        "namePor": "Travessa do Bazar Novo"
+      }
+    }
+  ]
+}

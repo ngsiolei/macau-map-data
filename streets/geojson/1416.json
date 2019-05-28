@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537914,
+              22.199636
+            ],
+            [
+              113.5383,
+              22.199713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "花園圍 / 叢慶坊",
+        "namePor": "Pátio do Jardim"
+      }
+    }
+  ]
+}

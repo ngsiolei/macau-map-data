@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537462,
+              22.199403
+            ],
+            [
+              113.537863,
+              22.199419
+            ],
+            [
+              113.538318,
+              22.199445
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "工匠巷",
+        "namePor": "Travessa dos Colonos"
+      }
+    }
+  ]
+}

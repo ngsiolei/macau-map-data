@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536581,
+              22.19256
+            ],
+            [
+              113.536751,
+              22.192304
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蕉園圍",
+        "namePor": "Pátio da Pedra"
+      }
+    }
+  ]
+}

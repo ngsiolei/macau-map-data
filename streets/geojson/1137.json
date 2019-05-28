@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539886,
+              22.197065
+            ],
+            [
+              113.539829,
+              22.19713
+            ],
+            [
+              113.539616,
+              22.196985
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "山蔴雀圍 / 人和里",
+        "namePor": "Pátio das Calhandras"
+      }
+    }
+  ]
+}

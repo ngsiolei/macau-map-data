@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546242,
+              22.195596
+            ],
+            [
+              113.546426,
+              22.19593
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "山雞巷",
+        "namePor": "Travessa do Faisão"
+      }
+    }
+  ]
+}

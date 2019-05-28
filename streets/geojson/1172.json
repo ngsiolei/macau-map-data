@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53337,
+              22.18506
+            ],
+            [
+              113.533305,
+              22.185772
+            ],
+            [
+              113.533315,
+              22.185833
+            ],
+            [
+              113.533362,
+              22.18587
+            ],
+            [
+              113.5341,
+              22.185879
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "竹仔室斜巷",
+        "namePor": "Calçada das Chácaras"
+      }
+    }
+  ]
+}

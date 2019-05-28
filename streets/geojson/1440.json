@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.534891,
+              22.188521
+            ],
+            [
+              113.534919,
+              22.188307
+            ],
+            [
+              113.535121,
+              22.188026
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "龍頭里 / 龍頭巷",
+        "namePor": "Beco do Lilau"
+      }
+    }
+  ]
+}

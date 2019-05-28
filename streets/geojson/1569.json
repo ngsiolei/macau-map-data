@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541397,
+              22.199108
+            ],
+            [
+              113.541443,
+              22.198899
+            ],
+            [
+              113.541946,
+              22.198985
+            ],
+            [
+              113.541904,
+              22.199197
+            ],
+            [
+              113.541397,
+              22.199108
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鮑公廟前地",
+        "namePor": "Largo do Pao Cong Mio"
+      }
+    }
+  ]
+}

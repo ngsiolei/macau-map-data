@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540202,
+              22.20728
+            ],
+            [
+              113.540977,
+              22.204829
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "船澳街",
+        "namePor": "Rua da Doca Seca"
+      }
+    }
+  ]
+}

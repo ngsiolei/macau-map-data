@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.548929,
+              22.214515
+            ],
+            [
+              113.548904,
+              22.214387
+            ],
+            [
+              113.548701,
+              22.213189
+            ],
+            [
+              113.548569,
+              22.21241
+            ],
+            [
+              113.548361,
+              22.211203
+            ],
+            [
+              113.548223,
+              22.210194
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "亞馬喇土腰 / 關閘馬路",
+        "namePor": "Istmo de Ferreira do Amaral"
+      }
+    }
+  ]
+}

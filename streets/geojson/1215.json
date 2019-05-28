@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544703,
+              22.209794
+            ],
+            [
+              113.541819,
+              22.209013
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "青洲街",
+        "namePor": "Rua do Conselheiro Borja"
+      }
+    }
+  ]
+}

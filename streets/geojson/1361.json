@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537498,
+              22.199046
+            ],
+            [
+              113.536952,
+              22.198999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "水雞巷",
+        "namePor": "Travessa das Galinholas"
+      }
+    }
+  ]
+}

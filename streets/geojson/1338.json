@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54117,
+              22.198846
+            ],
+            [
+              113.541972,
+              22.198976
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "福慶街",
+        "namePor": "Rua da Figueira"
+      }
+    }
+  ]
+}

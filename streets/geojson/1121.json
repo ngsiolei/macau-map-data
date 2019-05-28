@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544855,
+              22.203133
+            ],
+            [
+              113.543998,
+              22.203558
+            ],
+            [
+              113.543783,
+              22.203646
+            ],
+            [
+              113.543632,
+              22.203765
+            ],
+            [
+              113.543025,
+              22.204327
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "羅白沙街",
+        "namePor": "Rua de Brás da Rosa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545977,
+              22.13469
+            ],
+            [
+              113.545978,
+              22.135675
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "科研東街",
+        "namePor": "Rua Leste de Investigação Científica"
+      }
+    }
+  ]
+}

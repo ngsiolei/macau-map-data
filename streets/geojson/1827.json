@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550556,
+              22.208259
+            ],
+            [
+              113.550115,
+              22.207715
+            ],
+            [
+              113.549906,
+              22.207652
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "工業街",
+        "namePor": "Rua das Indústrias"
+      }
+    }
+  ]
+}

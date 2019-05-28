@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546506,
+              22.206871
+            ],
+            [
+              113.546713,
+              22.207086
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "美上校里",
+        "namePor": "Beco do Coronel Mesquita"
+      }
+    }
+  ]
+}

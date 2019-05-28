@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544901,
+              22.202915
+            ],
+            [
+              113.544577,
+              22.202814
+            ],
+            [
+              113.544406,
+              22.202898
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "金雞納圍",
+        "namePor": "Pátio da Quina"
+      }
+    }
+  ]
+}

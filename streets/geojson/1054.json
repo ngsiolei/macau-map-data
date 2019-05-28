@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.55014,
+              22.207081
+            ],
+            [
+              113.54946,
+              22.206806
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "黑沙環街",
+        "namePor": "Rua da Areia Preta"
+      }
+    }
+  ]
+}

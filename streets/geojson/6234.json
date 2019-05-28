@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.572555,
+              22.163569
+            ],
+            [
+              113.573383,
+              22.166589
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "北安碼頭街",
+        "namePor": "Rua do Cais de Pac On"
+      }
+    }
+  ]
+}

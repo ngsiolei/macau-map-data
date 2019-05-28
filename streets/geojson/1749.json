@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.5485,
+              22.204993
+            ],
+            [
+              113.548544,
+              22.204958
+            ],
+            [
+              113.548526,
+              22.204937
+            ],
+            [
+              113.548486,
+              22.204974
+            ],
+            [
+              113.5485,
+              22.204993
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "木板前地 / 板樟空地",
+        "namePor": "Largo das Tábuas"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.531238,
+              22.187326
+            ],
+            [
+              113.531584,
+              22.187059
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鹹魚街",
+        "namePor": "Rua do Peixe Salgado"
+      }
+    }
+  ]
+}

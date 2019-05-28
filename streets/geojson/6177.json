@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541748,
+              22.159595
+            ],
+            [
+              113.541673,
+              22.160235
+            ],
+            [
+              113.541715,
+              22.160528
+            ],
+            [
+              113.54177,
+              22.160842
+            ],
+            [
+              113.541794,
+              22.160908
+            ],
+            [
+              113.541826,
+              22.160993
+            ],
+            [
+              113.541926,
+              22.161186
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "海洋花園第六街",
+        "namePor": "Rua Seis dos Jardins do Oceano"
+      }
+    }
+  ]
+}

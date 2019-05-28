@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549374,
+              22.206969
+            ],
+            [
+              113.55006,
+              22.207246
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "菜園街",
+        "namePor": "Rua das Hortas"
+      }
+    }
+  ]
+}

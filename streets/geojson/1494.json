@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540256,
+              22.196271
+            ],
+            [
+              113.540336,
+              22.19629
+            ],
+            [
+              113.540301,
+              22.196373
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "李家圍",
+        "namePor": "Pátio da Mina"
+      }
+    }
+  ]
+}

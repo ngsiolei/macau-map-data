@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543081,
+              22.202385
+            ],
+            [
+              113.543026,
+              22.202271
+            ],
+            [
+              113.542949,
+              22.202263
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "千日紅圍 / 千日紅里",
+        "namePor": "Pátio das Perpétuas"
+      }
+    }
+  ]
+}

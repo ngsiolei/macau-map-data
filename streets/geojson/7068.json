@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.55104,
+              22.11779
+            ],
+            [
+              113.551476,
+              22.117772
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鹹蝦巷",
+        "namePor": "Travessa do Balichão"
+      }
+    }
+  ]
+}

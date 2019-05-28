@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54806,
+              22.205217
+            ],
+            [
+              113.5479,
+              22.205344
+            ],
+            [
+              113.547699,
+              22.205488
+            ],
+            [
+              113.547833,
+              22.205491
+            ],
+            [
+              113.547911,
+              22.205471
+            ],
+            [
+              113.548027,
+              22.205405
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蛤巷",
+        "namePor": "Travessa do Búzio"
+      }
+    }
+  ]
+}

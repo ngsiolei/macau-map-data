@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537789,
+              22.20072
+            ],
+            [
+              113.53778,
+              22.200906
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "仁慕圍",
+        "namePor": "Pátio da Saudade"
+      }
+    }
+  ]
+}

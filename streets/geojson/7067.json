@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551142,
+              22.11673
+            ],
+            [
+              113.5509,
+              22.11679
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "老人圍",
+        "namePor": "Pátio do Velho"
+      }
+    }
+  ]
+}

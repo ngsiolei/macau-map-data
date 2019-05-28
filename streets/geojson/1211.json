@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543628,
+              22.208105
+            ],
+            [
+              113.542784,
+              22.210806
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "和樂大馬路",
+        "namePor": "Avenida da Concórdia"
+      }
+    }
+  ]
+}

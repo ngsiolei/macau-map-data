@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.531791,
+              22.185143
+            ],
+            [
+              113.531743,
+              22.185299
+            ],
+            [
+              113.531629,
+              22.185455
+            ],
+            [
+              113.531603,
+              22.185516
+            ],
+            [
+              113.531545,
+              22.18558
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "水手里 / 媽閣第二巷",
+        "namePor": "Beco do Marinheiro"
+      }
+    }
+  ]
+}

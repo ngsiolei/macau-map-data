@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53815,
+              22.201385
+            ],
+            [
+              113.538222,
+              22.201367
+            ],
+            [
+              113.538232,
+              22.201397
+            ],
+            [
+              113.538396,
+              22.201348
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "珊瑚里",
+        "namePor": "Beco do Coral"
+      }
+    }
+  ]
+}

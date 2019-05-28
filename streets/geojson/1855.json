@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547509,
+              22.196764
+            ],
+            [
+              113.548685,
+              22.195616
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "得勝斜路",
+        "namePor": "Calçada da Vitória"
+      }
+    }
+  ]
+}

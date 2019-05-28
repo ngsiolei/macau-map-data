@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540554,
+              22.206167
+            ],
+            [
+              113.543943,
+              22.207113
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "海灣南街",
+        "namePor": "Rua da Bacia Sul"
+      }
+    }
+  ]
+}

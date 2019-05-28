@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53568,
+              22.209807
+            ],
+            [
+              113.536029,
+              22.20992
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "工業園二巷",
+        "namePor": "Travessa Dois do Parque Industrial"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53497,
+              22.189765
+            ],
+            [
+              113.535087,
+              22.189905
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鳳仙圍",
+        "namePor": "Pátio do Sal"
+      }
+    }
+  ]
+}

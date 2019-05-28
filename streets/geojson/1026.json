@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537727,
+              22.195315
+            ],
+            [
+              113.53792,
+              22.195498
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "亞美打利庇盧里 / 亞美打利庇盧圍",
+        "namePor": "Beco de Almeida Ribeiro"
+      }
+    }
+  ]
+}

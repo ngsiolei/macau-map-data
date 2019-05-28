@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542851,
+              22.161315
+            ],
+            [
+              113.542185,
+              22.16106
+            ],
+            [
+              113.541926,
+              22.161186
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "海洋花園第四街",
+        "namePor": "Rua Quatro dos Jardins do Oceano"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53515,
+              22.189861
+            ],
+            [
+              113.5356,
+              22.190099
+            ],
+            [
+              113.535731,
+              22.190085
+            ],
+            [
+              113.535869,
+              22.190134
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "盧善德巷 / 福德街",
+        "namePor": "Travessa de Maria Lucinda"
+      }
+    }
+  ]
+}

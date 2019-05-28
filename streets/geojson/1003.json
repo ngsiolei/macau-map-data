@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545464,
+              22.195989
+            ],
+            [
+              113.546652,
+              22.197509
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "荷蘭園二馬路 / 亞卑寮奴你士街",
+        "namePor": "Rua de Abreu Nunes"
+      }
+    }
+  ]
+}

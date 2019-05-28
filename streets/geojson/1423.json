@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541832,
+              22.211813
+            ],
+            [
+              113.541045,
+              22.211897
+            ],
+            [
+              113.540972,
+              22.211887
+            ],
+            [
+              113.539923,
+              22.211712
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "化驗所巷",
+        "namePor": "Travessa do Laboratório"
+      }
+    }
+  ]
+}

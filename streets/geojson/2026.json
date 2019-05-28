@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536211,
+              22.208455
+            ],
+            [
+              113.536528,
+              22.208556
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "工業園一巷",
+        "namePor": "Travessa Um do Parque Industrial"
+      }
+    }
+  ]
+}

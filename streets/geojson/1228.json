@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536738,
+              22.197944
+            ],
+            [
+              113.537443,
+              22.197821
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "非利喇街",
+        "namePor": "Rua do Coronel Ferreira"
+      }
+    }
+  ]
+}

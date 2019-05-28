@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537445,
+              22.199644
+            ],
+            [
+              113.53789,
+              22.199739
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "叢慶南街",
+        "namePor": "Rua Sul"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537746,
+              22.198147
+            ],
+            [
+              113.538245,
+              22.19831
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "永安下巷",
+        "namePor": "Travessa do Pau"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546075,
+              22.200881
+            ],
+            [
+              113.547631,
+              22.202381
+            ],
+            [
+              113.54962,
+              22.204308
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "高地烏街",
+        "namePor": "Rua de Pedro Coutinho"
+      }
+    }
+  ]
+}

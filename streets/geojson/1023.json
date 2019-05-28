@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540041,
+              22.202272
+            ],
+            [
+              113.540391,
+              22.202339
+            ],
+            [
+              113.540481,
+              22.201944
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大頭針圍 / 大頭針里",
+        "namePor": "Pátio do Alfinete"
+      }
+    }
+  ]
+}

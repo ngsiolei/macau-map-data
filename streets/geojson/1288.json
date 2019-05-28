@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544581,
+              22.197291
+            ],
+            [
+              113.545191,
+              22.198016
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "馬忌士街",
+        "namePor": "Rua de Eduardo Marques"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540912,
+              22.201335
+            ],
+            [
+              113.543698,
+              22.20219
+            ],
+            [
+              113.543764,
+              22.202186
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大纜巷",
+        "namePor": "Travessa da Corda"
+      }
+    }
+  ]
+}

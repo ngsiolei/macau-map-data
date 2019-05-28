@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54279,
+              22.194585
+            ],
+            [
+              113.542574,
+              22.195247
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "柯傳善堂圍 / 柯傳善堂里",
+        "namePor": "Pátio de Hó Chin Sin Tong"
+      }
+    }
+  ]
+}

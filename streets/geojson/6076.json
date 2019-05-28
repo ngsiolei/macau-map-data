@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.556874,
+              22.153218
+            ],
+            [
+              113.556815,
+              22.15349
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "望地列古街",
+        "namePor": "Rua de Montenegro"
+      }
+    }
+  ]
+}

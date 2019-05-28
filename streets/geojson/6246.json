@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.559778,
+              22.163267
+            ],
+            [
+              113.560139,
+              22.163279
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "日暉石級",
+        "namePor": "Escadaria de Iat Fai"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536319,
+              22.194871
+            ],
+            [
+              113.537512,
+              22.19552
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蓬萊新巷",
+        "namePor": "Travessa da Caldeira"
+      }
+    }
+  ]
+}

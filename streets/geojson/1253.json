@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540087,
+              22.198014
+            ],
+            [
+              113.543463,
+              22.198081
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "高園街",
+        "namePor": "Rua de D. Belchior Carneiro"
+      }
+    }
+  ]
+}

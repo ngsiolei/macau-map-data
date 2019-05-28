@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535211,
+              22.193477
+            ],
+            [
+              113.536622,
+              22.192593
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "安仿西街",
+        "namePor": "Rua de Francisco António"
+      }
+    }
+  ]
+}

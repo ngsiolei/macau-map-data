@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542181,
+              22.194905
+            ],
+            [
+              113.542099,
+              22.194753
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鵝里 / 連安圍前巷",
+        "namePor": "Beco do Ganso"
+      }
+    }
+  ]
+}

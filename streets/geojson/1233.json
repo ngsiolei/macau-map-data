@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546792,
+              22.206637
+            ],
+            [
+              113.547166,
+              22.207033
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "美上校圍",
+        "namePor": "Pátio do Coronel Mesquita"
+      }
+    }
+  ]
+}

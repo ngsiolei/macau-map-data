@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546524,
+              22.21275
+            ],
+            [
+              113.546785,
+              22.212141
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "台山新城市第二巷",
+        "namePor": "Travessa Dois da Cidade Nova de T'oi Sán"
+      }
+    }
+  ]
+}

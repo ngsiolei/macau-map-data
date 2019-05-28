@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.559112,
+              22.153683
+            ],
+            [
+              113.558944,
+              22.153825
+            ],
+            [
+              113.558799,
+              22.153701
+            ],
+            [
+              113.558981,
+              22.153549
+            ],
+            [
+              113.559112,
+              22.153683
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "嘉模前地",
+        "namePor": "Largo do Carmo"
+      }
+    }
+  ]
+}

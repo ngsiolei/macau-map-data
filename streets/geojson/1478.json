@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537407,
+              22.194959
+            ],
+            [
+              113.537881,
+              22.195167
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "清平街",
+        "namePor": "Travessa do Matadouro"
+      }
+    }
+  ]
+}

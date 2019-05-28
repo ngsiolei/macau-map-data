@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538529,
+              22.193564
+            ],
+            [
+              113.538562,
+              22.193239
+            ],
+            [
+              113.538557,
+              22.193224
+            ],
+            [
+              113.538561,
+              22.193106
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "志圍 / 志里",
+        "namePor": "Pátio do Gil"
+      }
+    }
+  ]
+}

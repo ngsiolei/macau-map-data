@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537407,
+              22.194959
+            ],
+            [
+              113.537605,
+              22.194429
+            ],
+            [
+              113.537943,
+              22.19348
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "福隆新街",
+        "namePor": "Rua da Felicidade"
+      }
+    }
+  ]
+}

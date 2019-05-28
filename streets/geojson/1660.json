@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540577,
+              22.193177
+            ],
+            [
+              113.540364,
+              22.193466
+            ],
+            [
+              113.540015,
+              22.193685
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "羅結地巷",
+        "namePor": "Travessa do Roquete"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.55197,
+              22.202291
+            ],
+            [
+              113.551789,
+              22.202105
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "美副將巷",
+        "namePor": "Travessa do Coronel Mesquita"
+      }
+    }
+  ]
+}

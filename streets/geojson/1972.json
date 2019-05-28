@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546101,
+              22.212181
+            ],
+            [
+              113.545952,
+              22.212533
+            ],
+            [
+              113.547627,
+              22.213166
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "台山新城市第三街",
+        "namePor": "Rua Três da Cidade Nova de T'oi Sán"
+      }
+    }
+  ]
+}

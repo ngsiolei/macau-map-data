@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547763,
+              22.205303
+            ],
+            [
+              113.54759,
+              22.205443
+            ],
+            [
+              113.547528,
+              22.205493
+            ],
+            [
+              113.547401,
+              22.205596
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "田螺里",
+        "namePor": "Beco do Caracol"
+      }
+    }
+  ]
+}

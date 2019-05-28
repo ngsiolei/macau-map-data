@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536346,
+              22.193533
+            ],
+            [
+              113.536467,
+              22.193748
+            ],
+            [
+              113.536996,
+              22.193465
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "聚寶街 / 夜呣前巷",
+        "namePor": "Rua do Tesouro"
+      }
+    }
+  ]
+}

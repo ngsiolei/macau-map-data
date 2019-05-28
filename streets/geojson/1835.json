@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546215,
+              22.191093
+            ],
+            [
+              113.546708,
+              22.189964
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "廣州街",
+        "namePor": "Rua de Cantão"
+      }
+    }
+  ]
+}

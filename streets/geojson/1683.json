@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.533148,
+              22.188863
+            ],
+            [
+              113.532679,
+              22.188772
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "聖尼各老圍 / 仁厚里",
+        "namePor": "Pátio de S. Nicolau"
+      }
+    }
+  ]
+}

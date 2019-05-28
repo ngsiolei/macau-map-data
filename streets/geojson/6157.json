@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.5654,
+              22.1628
+            ],
+            [
+              113.565496,
+              22.163156
+            ]
+          ],
+          [
+            [
+              113.565539,
+              22.163298
+            ],
+            [
+              113.565918,
+              22.164662
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "永富街",
+        "namePor": "Rua da Riqueza"
+      }
+    }
+  ]
+}

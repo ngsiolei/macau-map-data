@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541692,
+              22.202074
+            ],
+            [
+              113.541831,
+              22.202118
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "青草里 / 青草圍",
+        "namePor": "Beco da Erva"
+      }
+    }
+  ]
+}

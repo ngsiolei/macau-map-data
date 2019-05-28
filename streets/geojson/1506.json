@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.534112,
+              22.189032
+            ],
+            [
+              113.533732,
+              22.189212
+            ],
+            [
+              113.533661,
+              22.189286
+            ],
+            [
+              113.533406,
+              22.189423
+            ],
+            [
+              113.533104,
+              22.189663
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "綠豆圍",
+        "namePor": "Pátio do Mungo"
+      }
+    }
+  ]
+}

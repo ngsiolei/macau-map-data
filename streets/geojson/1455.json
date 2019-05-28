@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54961,
+              22.192435
+            ],
+            [
+              113.551823,
+              22.193262
+            ],
+            [
+              113.552079,
+              22.193445
+            ],
+            [
+              113.552762,
+              22.194349
+            ],
+            [
+              113.553028,
+              22.194701
+            ],
+            [
+              113.55392,
+              22.195881
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "高美士街",
+        "namePor": "Rua de Luís Gonzaga Gomes"
+      }
+    }
+  ]
+}

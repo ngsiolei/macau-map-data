@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540594,
+              22.201629
+            ],
+            [
+              113.540469,
+              22.201607
+            ],
+            [
+              113.540429,
+              22.2016
+            ],
+            [
+              113.540415,
+              22.201597
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "板堆圍 / 板堆里",
+        "namePor": "Pátio do Tabuado"
+      }
+    }
+  ]
+}

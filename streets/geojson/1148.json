@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.532996,
+              22.18752
+            ],
+            [
+              113.533442,
+              22.187661
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "港務局巷",
+        "namePor": "Travessa da Capitania dos Portos"
+      }
+    }
+  ]
+}

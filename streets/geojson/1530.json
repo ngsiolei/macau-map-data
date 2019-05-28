@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551076,
+              22.212426
+            ],
+            [
+              113.549077,
+              22.212692
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "祐漢新村第八街",
+        "namePor": "Rua Oito do Bairro Iao Hon"
+      }
+    }
+  ]
+}

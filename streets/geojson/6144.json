@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549881,
+              22.15937
+            ],
+            [
+              113.551182,
+              22.158054
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "汕頭街",
+        "namePor": "Rua de San Tau"
+      }
+    }
+  ]
+}

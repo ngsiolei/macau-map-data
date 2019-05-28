@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540693,
+              22.202645
+            ],
+            [
+              113.541626,
+              22.202861
+            ],
+            [
+              113.541851,
+              22.20301
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "聖庇道街",
+        "namePor": "Rua de S. João de Brito"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536673,
+              22.208675
+            ],
+            [
+              113.537228,
+              22.208866
+            ],
+            [
+              113.537072,
+              22.209306
+            ],
+            [
+              113.5365,
+              22.209113
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "青洲巷",
+        "namePor": "Travessa da Ilha Verde"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.557522,
+              22.153249
+            ],
+            [
+              113.557591,
+              22.153136
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蟻圍",
+        "namePor": "Beco da Formiga"
+      }
+    }
+  ]
+}

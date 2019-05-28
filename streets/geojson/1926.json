@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.548972,
+              22.186464
+            ],
+            [
+              113.55109,
+              22.187275
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "柏嘉街",
+        "namePor": "Rua Cidade de Braga"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537474,
+              22.197444
+            ],
+            [
+              113.537882,
+              22.197356
+            ],
+            [
+              113.538875,
+              22.197546
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大碼頭街",
+        "namePor": "Rua do Teatro"
+      }
+    }
+  ]
+}

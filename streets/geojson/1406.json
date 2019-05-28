@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536877,
+              22.190974
+            ],
+            [
+              113.537272,
+              22.190906
+            ],
+            [
+              113.537438,
+              22.190944
+            ],
+            [
+              113.537536,
+              22.190847
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "官印局街",
+        "namePor": "Rua da Imprensa Nacional"
+      }
+    }
+  ]
+}

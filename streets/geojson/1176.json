@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535684,
+              22.192066
+            ],
+            [
+              113.535758,
+              22.191812
+            ]
+          ],
+          [
+            [
+              113.535446,
+              22.192131
+            ],
+            [
+              113.535846,
+              22.192275
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "陳樂圍 / 陳樂里",
+        "namePor": "Pátio de Chan Loc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540315,
+              22.19201
+            ],
+            [
+              113.540054,
+              22.1923
+            ],
+            [
+              113.53989,
+              22.192561
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "傅禮士神父街",
+        "namePor": "Rua do Padre Luís Fróis S.J."
+      }
+    }
+  ]
+}

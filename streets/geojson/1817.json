@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537283,
+              22.200153
+            ],
+            [
+              113.536943,
+              22.198968
+            ],
+            [
+              113.536455,
+              22.196529
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "巴素打爾古街",
+        "namePor": "Rua do Visconde Paço de Arcos"
+      }
+    }
+  ]
+}

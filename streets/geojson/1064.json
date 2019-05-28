@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547437,
+              22.210267
+            ],
+            [
+              113.547487,
+              22.210989
+            ],
+            [
+              113.547578,
+              22.212576
+            ],
+            [
+              113.54767,
+              22.213687
+            ],
+            [
+              113.547775,
+              22.214686
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "巴波沙大馬路",
+        "namePor": "Avenida de Artur Tamagnini Barbosa"
+      }
+    }
+  ]
+}

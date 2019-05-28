@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542078,
+              22.19447
+            ],
+            [
+              113.54211,
+              22.194176
+            ],
+            [
+              113.541975,
+              22.19417
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "仁安里",
+        "namePor": "Beco da Arruda"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.533198,
+              22.189727
+            ],
+            [
+              113.533392,
+              22.189607
+            ],
+            [
+              113.533893,
+              22.18939
+            ],
+            [
+              113.533869,
+              22.189332
+            ],
+            [
+              113.534205,
+              22.189196
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "草蓆圍 / 蓆里",
+        "namePor": "Pátio da Esteira"
+      }
+    }
+  ]
+}

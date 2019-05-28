@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.552205,
+              22.117
+            ],
+            [
+              113.552409,
+              22.116697
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "花園巷",
+        "namePor": "Travessa do Jardim"
+      }
+    }
+  ]
+}

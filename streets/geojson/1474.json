@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543117,
+              22.201565
+            ],
+            [
+              113.543357,
+              22.201386
+            ],
+            [
+              113.543545,
+              22.201269
+            ],
+            [
+              113.54371,
+              22.201158
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "柯利維喇里 / 柯利維喇圍",
+        "namePor": "Beco de Marques de Oliveira"
+      }
+    }
+  ]
+}

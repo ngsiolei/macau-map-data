@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.533811,
+              22.1878
+            ],
+            [
+              113.534141,
+              22.187895
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "媽閣里",
+        "namePor": "Beco da Barra"
+      }
+    }
+  ]
+}

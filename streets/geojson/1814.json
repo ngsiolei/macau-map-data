@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.536043,
+              22.195186
+            ],
+            [
+              113.536772,
+              22.194355
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "道德巷 / 深巷橫街",
+        "namePor": "Travessa das Virtudes"
+      }
+    }
+  ]
+}

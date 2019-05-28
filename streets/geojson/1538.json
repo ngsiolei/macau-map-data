@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.546526,
+              22.20499
+            ],
+            [
+              113.546349,
+              22.204785
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "雅廉訪圍",
+        "namePor": "Pátio do Ouvidor Arriaga"
+      }
+    }
+  ]
+}

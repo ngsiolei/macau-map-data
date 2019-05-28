@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.545537,
+              22.200974
+            ],
+            [
+              113.546165,
+              22.200308
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "僑樂新街",
+        "namePor": "Rua do Ultramar"
+      }
+    }
+  ]
+}

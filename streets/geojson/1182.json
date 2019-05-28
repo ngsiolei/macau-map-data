@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.548976,
+              22.211525
+            ],
+            [
+              113.550153,
+              22.21137
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "祐漢新村第五街",
+        "namePor": "Rua Cinco do Bairro Iao Hon"
+      }
+    }
+  ]
+}

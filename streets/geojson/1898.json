@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.54286,
+              22.211808
+            ],
+            [
+              113.542928,
+              22.212284
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鴨涌河南街",
+        "namePor": "Rua Sul do Canal dos Patos"
+      }
+    }
+  ]
+}

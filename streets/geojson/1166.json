@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544458,
+              22.198046
+            ],
+            [
+              113.54541,
+              22.197988
+            ],
+            [
+              113.545888,
+              22.197958
+            ],
+            [
+              113.545999,
+              22.197952
+            ],
+            [
+              113.54639,
+              22.197706
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "西墳馬路",
+        "namePor": "Estrada do Cemitério"
+      }
+    }
+  ]
+}

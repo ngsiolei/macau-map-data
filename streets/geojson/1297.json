@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539535,
+              22.196943
+            ],
+            [
+              113.539712,
+              22.196617
+            ],
+            [
+              113.539894,
+              22.196288
+            ],
+            [
+              113.540073,
+              22.195949
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "關前正街",
+        "namePor": "Rua dos Ervanários"
+      }
+    }
+  ]
+}

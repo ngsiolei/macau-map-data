@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539858,
+              22.193279
+            ],
+            [
+              113.539522,
+              22.192977
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "議事亭里 / 議事亭右巷",
+        "namePor": "Beco do Senado"
+      }
+    }
+  ]
+}

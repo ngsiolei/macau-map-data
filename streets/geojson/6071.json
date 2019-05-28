@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.559154,
+              22.154783
+            ],
+            [
+              113.559357,
+              22.154725
+            ],
+            [
+              113.559402,
+              22.154714
+            ],
+            [
+              113.559458,
+              22.154709
+            ],
+            [
+              113.559498,
+              22.15471
+            ],
+            [
+              113.559601,
+              22.154696
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "賊仔巷",
+        "namePor": "Travessa dos Ladrões"
+      }
+    }
+  ]
+}

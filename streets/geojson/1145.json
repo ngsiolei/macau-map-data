@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53852,
+              22.197075
+            ],
+            [
+              113.538457,
+              22.19699
+            ],
+            [
+              113.538507,
+              22.19696
+            ],
+            [
+              113.5386,
+              22.196905
+            ],
+            [
+              113.538646,
+              22.196878
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "太平里 / 太平圍",
+        "namePor": "Beco do Canto"
+      }
+    }
+  ]
+}

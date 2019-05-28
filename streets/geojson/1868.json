@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543465,
+              22.20392
+            ],
+            [
+              113.544065,
+              22.204447
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "萬安巷",
+        "namePor": "Travessa do Bem-Estar"
+      }
+    }
+  ]
+}

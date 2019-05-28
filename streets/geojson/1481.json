@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538001,
+              22.193973
+            ],
+            [
+              113.53791,
+              22.194223
+            ],
+            [
+              113.538009,
+              22.194255
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "桔仔里 / 桔仔圍",
+        "namePor": "Beco do Matapau"
+      }
+    }
+  ]
+}

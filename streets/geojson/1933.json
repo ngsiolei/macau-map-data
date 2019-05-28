@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.554066,
+              22.189142
+            ],
+            [
+              113.55148,
+              22.188176
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "倫敦街",
+        "namePor": "Rua de Londres"
+      }
+    }
+  ]
+}

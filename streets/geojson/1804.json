@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53424,
+              22.189941
+            ],
+            [
+              113.5342,
+              22.189775
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "桂和里",
+        "namePor": "Beco dos Vendilhões"
+      }
+    }
+  ]
+}

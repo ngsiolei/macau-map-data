@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.543953,
+              22.196049
+            ],
+            [
+              113.544437,
+              22.196679
+            ],
+            [
+              113.5448,
+              22.19715
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "聖祿杞街",
+        "namePor": "Rua de S. Roque"
+      }
+    }
+  ]
+}

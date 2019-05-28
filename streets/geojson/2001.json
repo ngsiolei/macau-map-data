@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.556628,
+              22.210216
+            ],
+            [
+              113.558682,
+              22.212322
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "東方明珠街",
+        "namePor": "Rua da Pérola Oriental"
+      }
+    }
+  ]
+}

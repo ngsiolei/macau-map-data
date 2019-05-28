@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539438,
+              22.197415
+            ],
+            [
+              113.539627,
+              22.197227
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大三巴圍",
+        "namePor": "Pátio de S. Paulo"
+      }
+    }
+  ]
+}

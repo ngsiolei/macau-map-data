@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542092,
+              22.210006
+            ],
+            [
+              113.542959,
+              22.210245
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "石仔堆巷",
+        "namePor": "Travessa das Pedrinhas"
+      }
+    }
+  ]
+}

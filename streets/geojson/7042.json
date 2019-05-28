@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551574,
+              22.118187
+            ],
+            [
+              113.551488,
+              22.11831
+            ],
+            [
+              113.551278,
+              22.118524
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "水鴨街",
+        "namePor": "Rua das Gaivotas"
+      }
+    }
+  ]
+}

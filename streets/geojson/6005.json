@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.56025,
+              22.157152
+            ],
+            [
+              113.560742,
+              22.157561
+            ],
+            [
+              113.56128,
+              22.158008
+            ],
+            [
+              113.56162,
+              22.1583
+            ],
+            [
+              113.56184,
+              22.158462
+            ],
+            [
+              113.561997,
+              22.158635
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "美副將馬路",
+        "namePor": "Estrada Coronel Nicolau de Mesquita"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535822,
+              22.193821
+            ],
+            [
+              113.536004,
+              22.194142
+            ],
+            [
+              113.536217,
+              22.194437
+            ],
+            [
+              113.536456,
+              22.194714
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "蓬萊新街",
+        "namePor": "Rua do Bocage"
+      }
+    }
+  ]
+}

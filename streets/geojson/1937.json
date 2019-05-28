@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.55291,
+              22.191697
+            ],
+            [
+              113.550357,
+              22.190736
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "栢林街",
+        "namePor": "Rua de Berlim"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538054,
+              22.199073
+            ],
+            [
+              113.538525,
+              22.199083
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "竹里 / 竹圍 / 海田圍",
+        "namePor": "Beco do Bambu"
+      }
+    }
+  ]
+}

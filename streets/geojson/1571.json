@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538458,
+              22.200617
+            ],
+            [
+              113.538481,
+              22.200701
+            ],
+            [
+              113.538486,
+              22.200825
+            ],
+            [
+              113.538455,
+              22.200906
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "沙梨頭石級",
+        "namePor": "Escada do Papel"
+      }
+    }
+  ]
+}

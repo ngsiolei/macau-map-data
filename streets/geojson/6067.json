@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.555766,
+              22.153513
+            ],
+            [
+              113.556263,
+              22.153096
+            ],
+            [
+              113.556365,
+              22.153012
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "榮光巷",
+        "namePor": "Travessa da Glória"
+      }
+    }
+  ]
+}

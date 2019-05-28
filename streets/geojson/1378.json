@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542358,
+              22.202905
+            ],
+            [
+              113.542435,
+              22.202668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "脂花巷",
+        "namePor": "Travessa do Goivo"
+      }
+    }
+  ]
+}

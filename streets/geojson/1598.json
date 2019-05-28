@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535119,
+              22.189574
+            ],
+            [
+              113.535041,
+              22.189532
+            ],
+            [
+              113.534813,
+              22.189384
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "太和圍",
+        "namePor": "Pátio do Penedo"
+      }
+    }
+  ]
+}

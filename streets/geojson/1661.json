@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540804,
+              22.199305
+            ],
+            [
+              113.540944,
+              22.198687
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "連興街",
+        "namePor": "Rua da Rosa"
+      }
+    }
+  ]
+}

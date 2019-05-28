@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538054,
+              22.191627
+            ],
+            [
+              113.53812,
+              22.191569
+            ],
+            [
+              113.538129,
+              22.191576
+            ],
+            [
+              113.538242,
+              22.191471
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "東慶里",
+        "namePor": "Beco Escuro"
+      }
+    }
+  ]
+}

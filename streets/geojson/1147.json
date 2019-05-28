@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542373,
+              22.202451
+            ],
+            [
+              113.542443,
+              22.202238
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "𠜎雞巷",
+        "namePor": "Travessa do Capão"
+      }
+    }
+  ]
+}

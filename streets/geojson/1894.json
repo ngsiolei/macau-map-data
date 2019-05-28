@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53823,
+              22.209758
+            ],
+            [
+              113.53839,
+              22.209258
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "青洲里",
+        "namePor": "Beco da Ilha Verde"
+      }
+    }
+  ]
+}

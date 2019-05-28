@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.547122,
+              22.203583
+            ],
+            [
+              113.54681,
+              22.203874
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "羅神父里",
+        "namePor": "Beco do Padre António Roliz"
+      }
+    }
+  ]
+}

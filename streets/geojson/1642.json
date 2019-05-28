@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.534558,
+              22.189685
+            ],
+            [
+              113.534769,
+              22.18948
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "太和石級",
+        "namePor": "Escada Quebra-Costas"
+      }
+    }
+  ]
+}

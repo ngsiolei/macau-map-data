@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.560347,
+              22.162753
+            ],
+            [
+              113.560881,
+              22.162472
+            ],
+            [
+              113.561341,
+              22.162379
+            ],
+            [
+              113.561459,
+              22.162212
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "海灣街",
+        "namePor": "Rua da Baía"
+      }
+    }
+  ]
+}

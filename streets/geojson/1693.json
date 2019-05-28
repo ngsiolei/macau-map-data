@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.533053,
+              22.191012
+            ],
+            [
+              113.533581,
+              22.190692
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "鹽巷",
+        "namePor": "Travessa do Sal"
+      }
+    }
+  ]
+}

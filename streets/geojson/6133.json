@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549437,
+              22.159004
+            ],
+            [
+              113.549949,
+              22.158442
+            ],
+            [
+              113.550708,
+              22.157661
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "布拉格街",
+        "namePor": "Rua de Braga"
+      }
+    }
+  ]
+}

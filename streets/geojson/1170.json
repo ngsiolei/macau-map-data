@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544905,
+              22.196368
+            ],
+            [
+              113.543785,
+              22.197121
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "瘋堂中斜巷",
+        "namePor": "Calçada Central de S. Lázaro"
+      }
+    }
+  ]
+}

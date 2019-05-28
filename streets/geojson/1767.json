@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542632,
+              22.198474
+            ],
+            [
+              113.542748,
+              22.198067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "新勝巷",
+        "namePor": "Travessa de Tomás Vieira"
+      }
+    }
+  ]
+}

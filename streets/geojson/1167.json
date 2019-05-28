@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.537539,
+              22.190852
+            ],
+            [
+              113.53803,
+              22.191252
+            ],
+            [
+              113.538394,
+              22.191627
+            ],
+            [
+              113.538529,
+              22.191751
+            ],
+            [
+              113.539219,
+              22.191925
+            ],
+            [
+              113.540249,
+              22.192905
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "龍嵩正街",
+        "namePor": "Rua Central"
+      }
+    }
+  ]
+}

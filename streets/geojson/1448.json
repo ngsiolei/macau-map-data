@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544806,
+              22.190801
+            ],
+            [
+              113.545585,
+              22.189529
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "賈羅布大馬路",
+        "namePor": "Avenida de Lopo Sarmento de Carvalho"
+      }
+    }
+  ]
+}

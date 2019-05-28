@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551203,
+              22.202349
+            ],
+            [
+              113.551579,
+              22.202044
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "文第士圍",
+        "namePor": "Pátio de Silva Mendes"
+      }
+    }
+  ]
+}

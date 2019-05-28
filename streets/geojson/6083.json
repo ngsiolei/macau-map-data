@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.55554,
+              22.151783
+            ],
+            [
+              113.555961,
+              22.151635
+            ],
+            [
+              113.55612,
+              22.15151
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "橋樑前地",
+        "namePor": "Largo da Ponte"
+      }
+    }
+  ]
+}

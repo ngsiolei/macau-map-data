@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.571683,
+              22.164491
+            ],
+            [
+              113.572739,
+              22.16424
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "北安碼頭一巷",
+        "namePor": "Travessa Um do Cais de Pac On"
+      }
+    }
+  ]
+}

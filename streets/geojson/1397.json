@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544306,
+              22.205327
+            ],
+            [
+              113.549966,
+              22.200312
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "高士德大馬路",
+        "namePor": "Avenida de Horta e Costa"
+      }
+    }
+  ]
+}

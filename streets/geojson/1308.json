@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544899,
+              22.205795
+            ],
+            [
+              113.544361,
+              22.206212
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "船廠街",
+        "namePor": "Rua dos Estaleiros"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.573632,
+              22.16126
+            ],
+            [
+              113.574066,
+              22.160281
+            ],
+            [
+              113.574184,
+              22.16002
+            ],
+            [
+              113.574233,
+              22.159875
+            ],
+            [
+              113.574291,
+              22.159605
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "酒店斜路",
+        "namePor": "Rampa do Hotel"
+      }
+    }
+  ]
+}

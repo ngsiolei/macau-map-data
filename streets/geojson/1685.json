@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541113,
+              22.196872
+            ],
+            [
+              113.541126,
+              22.196594
+            ],
+            [
+              113.540826,
+              22.196578
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "大三巴巷",
+        "namePor": "Travessa de S. Paulo"
+      }
+    }
+  ]
+}

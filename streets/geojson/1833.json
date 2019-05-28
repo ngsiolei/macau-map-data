@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551105,
+              22.19299
+            ],
+            [
+              113.5516,
+              22.191856
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "長崎街",
+        "namePor": "Rua de Nagasaki"
+      }
+    }
+  ]
+}

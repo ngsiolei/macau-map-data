@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544644,
+              22.205027
+            ],
+            [
+              113.545249,
+              22.205498
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "罅些喇提督市東街",
+        "namePor": "Rua Leste do Mercado Almirante Lacerda"
+      }
+    }
+  ]
+}

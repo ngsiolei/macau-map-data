@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535808,
+              22.213127
+            ],
+            [
+              113.534459,
+              22.212563
+            ],
+            [
+              113.534459,
+              22.212402
+            ],
+            [
+              113.534883,
+              22.211296
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "工業園街",
+        "namePor": "Rua do Parque Industrial"
+      }
+    }
+  ]
+}

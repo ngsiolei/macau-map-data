@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.541193,
+              22.199964
+            ],
+            [
+              113.54113,
+              22.199978
+            ],
+            [
+              113.540905,
+              22.200234
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "涼水巷 / 芽菜巷",
+        "namePor": "Travessa dos Curtidores"
+      }
+    }
+  ]
+}

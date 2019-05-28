@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540621,
+              22.203036
+            ],
+            [
+              113.540698,
+              22.202014
+            ],
+            [
+              113.540911,
+              22.201335
+            ],
+            [
+              113.541063,
+              22.200662
+            ],
+            [
+              113.541216,
+              22.200421
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "福安街",
+        "namePor": "Rua da Harmonia"
+      }
+    }
+  ]
+}

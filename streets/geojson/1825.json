@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.548957,
+              22.203666
+            ],
+            [
+              113.549274,
+              22.20347
+            ],
+            [
+              113.549491,
+              22.203676
+            ],
+            [
+              113.549221,
+              22.203922
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "高地烏巷",
+        "namePor": "Travessa de Pedro Coutinho"
+      }
+    }
+  ]
+}

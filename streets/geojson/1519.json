@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.535108,
+              22.190445
+            ],
+            [
+              113.53529,
+              22.190218
+            ],
+            [
+              113.5356,
+              22.190099
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "福德新街",
+        "namePor": "Rua Nova"
+      }
+    }
+  ]
+}

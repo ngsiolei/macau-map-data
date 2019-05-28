@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.550783,
+              22.11626
+            ],
+            [
+              113.550956,
+              22.116197
+            ],
+            [
+              113.551043,
+              22.116165
+            ],
+            [
+              113.551043,
+              22.116165
+            ]
+          ],
+          [
+            [
+              113.5508,
+              22.116338
+            ],
+            [
+              113.551078,
+              22.116236
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "計單奴前地",
+        "namePor": "Largo do Caetano"
+      }
+    }
+  ]
+}

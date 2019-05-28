@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.544083,
+              22.203515
+            ],
+            [
+              113.543847,
+              22.203349
+            ],
+            [
+              113.543688,
+              22.203225
+            ],
+            [
+              113.543566,
+              22.203101
+            ],
+            [
+              113.543252,
+              22.202752
+            ],
+            [
+              113.543137,
+              22.202608
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "塘巷",
+        "namePor": "Travessa do Lago"
+      }
+    }
+  ]
+}

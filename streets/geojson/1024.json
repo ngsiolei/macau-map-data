@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540031,
+              22.195265
+            ],
+            [
+              113.540386,
+              22.195377
+            ],
+            [
+              113.540571,
+              22.195409
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "高尾巷 / 高尾街",
+        "namePor": "Travessa dos Algibebes"
+      }
+    }
+  ]
+}

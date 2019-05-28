@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.542353,
+              22.201146
+            ],
+            [
+              113.542339,
+              22.201352
+            ]
+          ],
+          [
+            [
+              113.542339,
+              22.201352
+            ],
+            [
+              113.542541,
+              22.201345
+            ]
+          ],
+          [
+            [
+              113.542181,
+              22.201357
+            ],
+            [
+              113.542339,
+              22.201352
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "染布巷",
+        "namePor": "Travessa dos Tingidores"
+      }
+    }
+  ]
+}

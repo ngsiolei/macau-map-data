@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53929,
+              22.197502
+            ],
+            [
+              113.539428,
+              22.197405
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "華士圍 / 華士里",
+        "namePor": "Pátio do Vaz"
+      }
+    }
+  ]
+}

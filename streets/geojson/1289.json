@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.539293,
+              22.197271
+            ],
+            [
+              113.539557,
+              22.197532
+            ],
+            [
+              113.539523,
+              22.197608
+            ],
+            [
+              113.539545,
+              22.197706
+            ],
+            [
+              113.53956,
+              22.1978
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "長樓斜巷",
+        "namePor": "Calçada do Embaixador"
+      }
+    }
+  ]
+}

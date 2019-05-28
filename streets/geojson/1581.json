@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538428,
+              22.200655
+            ],
+            [
+              113.538474,
+              22.200466
+            ],
+            [
+              113.538626,
+              22.199948
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "沙梨頭巷",
+        "namePor": "Travessa do Patane"
+      }
+    }
+  ]
+}

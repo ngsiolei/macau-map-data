@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.557014,
+              22.15354
+            ],
+            [
+              113.557372,
+              22.153717
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "安樂街",
+        "namePor": "Rua do Retiro"
+      }
+    }
+  ]
+}

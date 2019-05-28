@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.534611,
+              22.208715
+            ],
+            [
+              113.53586,
+              22.209146
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "工業園南街",
+        "namePor": "Rua Sul do Parque Industrial"
+      }
+    }
+  ]
+}

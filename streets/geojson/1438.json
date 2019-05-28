@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.53444,
+              22.192713
+            ],
+            [
+              113.534732,
+              22.192545
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "李道巷",
+        "namePor": "Travessa do Lido"
+      }
+    }
+  ]
+}

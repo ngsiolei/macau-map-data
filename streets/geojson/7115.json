@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.551694,
+              22.124102
+            ],
+            [
+              113.552855,
+              22.124101
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "合歡街",
+        "namePor": "Rua das Albizias"
+      }
+    }
+  ]
+}

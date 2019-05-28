@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549741,
+              22.212604
+            ],
+            [
+              113.550014,
+              22.214356
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "永定街",
+        "namePor": "Rua da Serenidade"
+      }
+    }
+  ]
+}

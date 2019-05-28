@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.538529,
+              22.206826
+            ],
+            [
+              113.538611,
+              22.206568
+            ],
+            [
+              113.538753,
+              22.20612
+            ],
+            [
+              113.538828,
+              22.205883
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "筷子基巷",
+        "namePor": "Travessa de Fái Chi Kei"
+      }
+    }
+  ]
+}

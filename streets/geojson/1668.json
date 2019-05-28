@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.540432,
+              22.194244
+            ],
+            [
+              113.540717,
+              22.193948
+            ],
+            [
+              113.540908,
+              22.193811
+            ],
+            [
+              113.541078,
+              22.193614
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "板樟堂巷",
+        "namePor": "Travessa de S. Domingos"
+      }
+    }
+  ]
+}

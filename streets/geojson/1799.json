@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.549552,
+              22.208783
+            ],
+            [
+              113.549809,
+              22.208805
+            ],
+            [
+              113.550807,
+              22.208075
+            ],
+            [
+              113.554321,
+              22.205166
+            ],
+            [
+              113.555598,
+              22.20429
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "慕拉士大馬路",
+        "namePor": "Avenida de Venceslau de Morais"
+      }
+    }
+  ]
+}

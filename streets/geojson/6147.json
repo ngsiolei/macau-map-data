@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              113.556856,
+              22.155843
+            ],
+            [
+              113.55307,
+              22.159837
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "nameCht": "成都街",
+        "namePor": "Rua de Seng Tou"
+      }
+    }
+  ]
+}
